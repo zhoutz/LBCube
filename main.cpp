@@ -261,38 +261,34 @@ struct Solver {
       puts("No solution found!");
       return;
     }
-    if (solutions.size() == 1) {
-      puts("Only one solution found!");
-      auto const& sol = solutions[0];
-      sol.print(blocks);
-      return;
-    }
     auto beg = solutions.begin();
     auto end = solutions.end();
-    do {
+    while (end - beg > 1) {
       auto dirs = beg->generate_all_directions();
       end = std::partition(beg + 1, end, [dirs](CubeMap _cm) {
         return std::find(dirs.cbegin(), dirs.cend(), _cm) == dirs.cend();
       });
       ++beg;
-    } while (end - beg > 1);
+    }
     solutions.erase(end, solutions.end());
-    puts("Multiple solutions found!");
-    for (auto& sol : solutions) {
-      sol.print(blocks);
+    for (int i = 0; i < (int)solutions.size(); ++i) {
+      printf("Solution %d:\n", i + 1);
+      solutions[i].print(blocks);
     }
   }
 };
 
 int main() {
-  Block b1(2, 2, 2, {1, 1, 1, 1, 1, 1, 1, 0}, 'a');
+  Block b1(2, 2, 2, {1, 1, 1, 0, 1, 0, 0, 0}, 'a');
   Block b2(1, 1, 1, {1}, 'b');
+  Block b3(2, 2, 1, {1, 1, 1, 0}, 'c');
 
-  std::vector<Block> blocks({b1, b2});
+  std::vector<Block> blocks({b1, b2, b3});
 
   Solver s(2, 2, 2, blocks);
 
   s.find_solution();
+
   s.print_solution();
 
   return 0;
