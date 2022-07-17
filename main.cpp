@@ -2,6 +2,7 @@
 #include <bitset>
 #include <cassert>
 #include <cstdio>
+#include <functional>
 #include <initializer_list>
 #include <iostream>
 #include <vector>
@@ -132,6 +133,10 @@ struct Cube {
 
     return v;
   }
+
+  int count_if(std::function<bool(data_t)> f) const {
+    return std::count_if(data.begin(), data.end(), f);
+  }
 };
 
 // 0 for empty, 1 for filled
@@ -206,7 +211,19 @@ struct Solver {
   std::vector<CubeMap> solutions;
 
   Solver(int cm_nx, int cm_ny, int cm_nz, std::vector<Block> const& blocks)
-      : cm(cm_nx, cm_ny, cm_nz), blocks(blocks), solutions() {}
+      : cm(cm_nx, cm_ny, cm_nz), blocks(blocks), solutions() {
+    int sum = 0;
+    for (auto& b : blocks) {
+      sum += b.count_if([](Cube::data_t c) { return c == 1; });
+    }
+    if (sum > cm_nx * cm_ny * cm_nz) {
+      printf("too many blocks\n");
+    } else if (sum < cm_nx * cm_ny * cm_nz) {
+      printf("too few blocks\n");
+    } else {
+      printf("appropriate blocks\n");
+    }
+  }
 
   void find_solution() {
     std::vector<bool> used(blocks.size(), false);
@@ -228,9 +245,9 @@ struct Solver {
   void dfs(std::vector<bool>& used,
            std::vector<std::vector<Cube>> const& blocks_all_dir) {
     if (std::count(used.cbegin(), used.cend(), true) == (int)blocks.size()) {
-      // static int sol_cnt = 0;
-      // printf("%d ", ++sol_cnt);
-      // puts("Solution found!");
+      static int sol_cnt = 0;
+      printf("%d ", ++sol_cnt);
+      puts("Solution found!");
       // cm.print(blocks);
 
       solutions.emplace_back(cm);
@@ -279,13 +296,17 @@ struct Solver {
 };
 
 int main() {
-  Block b1(2, 2, 2, {1, 1, 1, 0, 1, 0, 0, 0}, 'a');
-  Block b2(1, 1, 1, {1}, 'b');
-  Block b3(2, 2, 1, {1, 1, 1, 0}, 'c');
+  Block b1(2, 2, 1, {1, 1, 1, 0}, 'a');
+  Block b2(2, 3, 1, {1, 1, 0, 0, 1, 1}, 'b');
+  Block b3(2, 2, 2, {0, 0, 1, 0, 1, 1, 1, 0}, 'c');
+  Block b4(2, 3, 1, {1, 1, 1, 0, 1, 0}, 'd');
+  Block b5(2, 2, 2, {1, 1, 1, 0, 1, 0, 0, 0}, 'e');
+  Block b6(2, 2, 2, {0, 1, 0, 0, 1, 1, 1, 0}, 'f');
+  Block b7(2, 3, 1, {1, 1, 1, 1, 0, 0}, 'g');
 
-  std::vector<Block> blocks({b1, b2, b3});
+  std::vector<Block> blocks({b1, b2, b3, b4, b5, b6, b7});
 
-  Solver s(2, 2, 2, blocks);
+  Solver s(3, 3, 3, blocks);
 
   s.find_solution();
 
