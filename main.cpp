@@ -5,29 +5,36 @@
 #include <functional>
 #include <initializer_list>
 #include <iostream>
+#include <numeric>
+#include <set>
 #include <vector>
 
 struct Cube {
-  using data_t = signed char;
+  using elem_t = signed char;
+  using data_t = std::vector<elem_t>;
 
   int nx, ny, nz;
-  std::vector<data_t> data;
+  data_t data;
 
-  Cube(int nx, int ny, int nz, data_t init)
+  Cube() { assert(false); }
+
+  Cube(int nx, int ny, int nz, elem_t init)
       : nx(nx), ny(ny), nz(nz), data(nx * ny * nz, init) {}
 
-  Cube(int nx, int ny, int nz, std::vector<data_t> v)
-      : nx(nx), ny(ny), nz(nz), data(v) {
+  Cube(int nx, int ny, int nz, data_t v) : nx(nx), ny(ny), nz(nz), data(v) {
+    data.reserve(this->size());
     data.resize(this->size());
   }
 
   int size() const { return nx * ny * nz; }
 
-  data_t& operator()(int x, int y, int z) {
+  elem_t& operator()(int x, int y, int z) {
+    assert(x >= 0 && x < nx && y >= 0 && y < ny && z >= 0 && z < nz);
     return data[(x * ny + y) * nz + z];
   }
 
-  data_t operator()(int x, int y, int z) const {
+  elem_t operator()(int x, int y, int z) const {
+    assert(x >= 0 && x < nx && y >= 0 && y < ny && z >= 0 && z < nz);
     return data[(x * ny + y) * nz + z];
   }
 
@@ -43,8 +50,7 @@ struct Cube {
     return data < other.data;
   }
 
-  template <typename F>
-  void prt(F fp) const {
+  void prt(std::function<char(elem_t)> fp) const {
     for (int z = nz - 1; z >= 0; --z) {
       for (int i = 0; i < nx + 1; ++i) putchar(' ');
       for (int i = 0; i < ny + 2; ++i) putchar('-');
@@ -134,7 +140,7 @@ struct Cube {
     return v;
   }
 
-  int count_if(std::function<bool(data_t)> f) const {
+  int count_if(std::function<bool(elem_t)> f) const {
     return std::count_if(data.begin(), data.end(), f);
   }
 };
@@ -143,7 +149,7 @@ struct Cube {
 struct Block : Cube {
   char name;
 
-  Block(int nx, int ny, int nz, std::vector<data_t> v, char name = (char)0)
+  Block(int nx, int ny, int nz, Cube::data_t v, char name = (char)0)
       : Cube(nx, ny, nz, v), name(name) {}
 };
 
@@ -171,7 +177,7 @@ struct CubeMap : Cube {
     for (int x = 0; x < b.nx; ++x) {
       for (int y = 0; y < b.ny; ++y) {
         for (int z = 0; z < b.nz; ++z) {
-          if (b(x, y, z)) {
+          if (b(x, y, z) != 0) {
             (*this)(px + x, py + y, pz + z) = bid;
           }
         }
@@ -179,25 +185,32 @@ struct CubeMap : Cube {
     }
   }
 
-  void remove_block(int block_id) {
+  void remove_block(int px, int py, int pz, const Cube& b, int /* bid */) {
     // printf("remove block %d\n", block_id);
-    for (int i = 0; i < (int)data.size(); ++i) {
-      if (data[i] == block_id) data[i] = -1;
+
+    for (int x = 0; x < b.nx; ++x) {
+      for (int y = 0; y < b.ny; ++y) {
+        for (int z = 0; z < b.nz; ++z) {
+          if (b(x, y, z) != 0) {
+            (*this)(px + x, py + y, pz + z) = -1;
+          }
+        }
+      }
     }
   }
 
-  bool try_drop(int px, int py, const Cube& b, int bid) {
+  int try_drop(int px, int py, const Cube& b, int bid) {
     for (int pz = 0; pz <= nz - b.nz; ++pz) {
       if (!judge_conflict(px, py, pz, b)) {
         insert_block(px, py, pz, b, bid);
-        return true;
+        return pz;
       }
     }
-    return false;
+    return -1;
   }
 
   void print(std::vector<Block> const& blocks) const {
-    auto fp = [blocks](data_t c) {
+    auto fp = [blocks](elem_t c) {
       if (c == -1) return ' ';
       return blocks[c].name;
     };
@@ -209,13 +222,15 @@ struct Solver {
   CubeMap cm;
   std::vector<Block> const& blocks;
   std::vector<CubeMap> solutions;
+  std::set<Cube::data_t> solutions_all_dir;
+  std::set<Cube::data_t> vis;
 
   Solver(int cm_nx, int cm_ny, int cm_nz, std::vector<Block> const& blocks)
-      : cm(cm_nx, cm_ny, cm_nz), blocks(blocks), solutions() {
-    int sum = 0;
-    for (auto& b : blocks) {
-      sum += b.count_if([](Cube::data_t c) { return c == 1; });
-    }
+      : cm(cm_nx, cm_ny, cm_nz), blocks(blocks) {
+    int sum = std::accumulate(
+        blocks.begin(), blocks.end(), 0, [](int a, Block const& b) {
+          return a + b.count_if([](Cube::elem_t c) { return c != 0; });
+        });
     if (sum > cm_nx * cm_ny * cm_nz) {
       printf("too many blocks\n");
     } else if (sum < cm_nx * cm_ny * cm_nz) {
@@ -233,24 +248,34 @@ struct Solver {
       blocks_all_dir.push_back(b.generate_all_directions());
     }
 
-    // puts("blocks_all_dir sizes: ");
-    // for (auto& v : blocks_all_dir) {
-    //   printf("%d ", (int)v.size());
-    // }
-    // puts("");
+    blocks_all_dir[0].resize(1);
+
+    puts("blocks_all_dir sizes: ");
+    for (auto& v : blocks_all_dir) {
+      printf("%d ", (int)v.size());
+    }
+    puts("");
 
     dfs(used, blocks_all_dir);
   }
 
   void dfs(std::vector<bool>& used,
            std::vector<std::vector<Cube>> const& blocks_all_dir) {
-    if (std::count(used.cbegin(), used.cend(), true) == (int)blocks.size()) {
+    int used_count = std::count(used.begin(), used.end(), true);
+
+    if (vis.count(cm.data) == 1) {
+      return;
+    } else if (used_count <= 5) {
+      vis.insert(cm.data);
+    }
+
+    if (used_count == (int)blocks.size()) {
       // static int sol_cnt = 0;
       // printf("%d ", ++sol_cnt);
       // puts("Solution found!");
       // cm.print(blocks);
 
-      solutions.emplace_back(cm);
+      this->save_solution(cm);
 
       return;
     }
@@ -258,14 +283,16 @@ struct Solver {
     for (int i = 0; i < (int)blocks_all_dir.size(); ++i) {
       if (used[i]) continue;
       auto& dirs = blocks_all_dir[i];
-      for (int j = 0; j < (int)dirs.size(); ++j) {
-        for (int px = 0; px <= cm.nx - dirs[j].nx; ++px) {
-          for (int py = 0; py <= cm.ny - dirs[j].ny; ++py) {
-            if (cm.try_drop(px, py, dirs[j], i)) {
+      for (auto const& dir : dirs) {
+        for (int px = 0; px <= cm.nx - dir.nx; ++px) {
+          for (int py = 0; py <= cm.ny - dir.ny; ++py) {
+            int pz = cm.try_drop(px, py, dir, i);
+            if (pz != -1) {
               used[i] = true;
               dfs(used, blocks_all_dir);
+              if (solutions.size() == 480) return;
               used[i] = false;
-              cm.remove_block(i);
+              cm.remove_block(px, py, pz, dir, i);
             }
           }
         }
@@ -278,19 +305,23 @@ struct Solver {
       puts("No solution found!");
       return;
     }
-    auto beg = solutions.begin();
-    auto end = solutions.end();
-    while (end - beg > 1) {
-      auto dirs = beg->generate_all_directions();
-      end = std::partition(beg + 1, end, [dirs](CubeMap _cm) {
-        return std::find(dirs.cbegin(), dirs.cend(), _cm) == dirs.cend();
-      });
-      ++beg;
-    }
-    solutions.erase(end, solutions.end());
     for (int i = 0; i < (int)solutions.size(); ++i) {
       printf("Solution %d:\n", i + 1);
       solutions[i].print(blocks);
+    }
+  }
+
+  void save_solution(CubeMap const& _cm) {
+    if (solutions_all_dir.count(_cm.data) == 0) {
+      static int sol_cnt = 0;
+      printf("%d ", ++sol_cnt);
+      puts("Solution found!");
+
+      solutions.push_back(_cm);
+      auto _cm_dirs = _cm.generate_all_directions();
+      for (auto& _cm_dir : _cm_dirs) {
+        solutions_all_dir.insert(std::move(_cm_dir.data));
+      }
     }
   }
 };
@@ -304,7 +335,7 @@ int main() {
   Block b6(2, 2, 2, {0, 1, 0, 0, 1, 1, 1, 0}, 'f');
   Block b7(2, 3, 1, {1, 1, 1, 1, 0, 0}, 'g');
 
-  std::vector<Block> blocks({b1, b2, b3, b4, b5, b6, b7});
+  std::vector<Block> blocks({b7, b5, b1, b2, b3, b4, b6});
 
   Solver s(3, 3, 3, blocks);
 

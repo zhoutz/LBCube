@@ -1,1475 +1,1957 @@
-17750032 Solution found!
+appropriate blocks
+blocks_all_dir sizes: 
+1 8 12 12 12 12 12 
+1 Solution found!
+2 Solution found!
+3 Solution found!
+4 Solution found!
+5 Solution found!
+6 Solution found!
+7 Solution found!
+8 Solution found!
+9 Solution found!
+10 Solution found!
+11 Solution found!
+12 Solution found!
+13 Solution found!
+14 Solution found!
+15 Solution found!
+16 Solution found!
+17 Solution found!
+18 Solution found!
+19 Solution found!
+20 Solution found!
+21 Solution found!
+22 Solution found!
+23 Solution found!
+24 Solution found!
+25 Solution found!
+26 Solution found!
+27 Solution found!
+28 Solution found!
+29 Solution found!
+30 Solution found!
+31 Solution found!
+32 Solution found!
+33 Solution found!
+34 Solution found!
+35 Solution found!
+36 Solution found!
+37 Solution found!
+38 Solution found!
+39 Solution found!
+40 Solution found!
+41 Solution found!
+42 Solution found!
+43 Solution found!
+44 Solution found!
+45 Solution found!
+46 Solution found!
+47 Solution found!
+48 Solution found!
+49 Solution found!
+50 Solution found!
+51 Solution found!
+52 Solution found!
+53 Solution found!
+54 Solution found!
+55 Solution found!
+56 Solution found!
+57 Solution found!
+58 Solution found!
+59 Solution found!
+60 Solution found!
+61 Solution found!
+62 Solution found!
+63 Solution found!
+64 Solution found!
+65 Solution found!
+66 Solution found!
+67 Solution found!
+68 Solution found!
+69 Solution found!
+70 Solution found!
+71 Solution found!
+72 Solution found!
+73 Solution found!
+74 Solution found!
+75 Solution found!
+76 Solution found!
+77 Solution found!
+78 Solution found!
+79 Solution found!
+80 Solution found!
+81 Solution found!
+82 Solution found!
+83 Solution found!
+84 Solution found!
+85 Solution found!
+86 Solution found!
+87 Solution found!
+88 Solution found!
+89 Solution found!
+90 Solution found!
+91 Solution found!
+92 Solution found!
+93 Solution found!
+94 Solution found!
+95 Solution found!
+96 Solution found!
+97 Solution found!
+98 Solution found!
+99 Solution found!
+100 Solution found!
+101 Solution found!
+102 Solution found!
+103 Solution found!
+104 Solution found!
+105 Solution found!
+106 Solution found!
+107 Solution found!
+108 Solution found!
+109 Solution found!
+110 Solution found!
+111 Solution found!
+112 Solution found!
+113 Solution found!
+114 Solution found!
+115 Solution found!
+116 Solution found!
+117 Solution found!
+118 Solution found!
+119 Solution found!
+120 Solution found!
+121 Solution found!
+122 Solution found!
+123 Solution found!
+124 Solution found!
+125 Solution found!
+126 Solution found!
+127 Solution found!
+128 Solution found!
+129 Solution found!
+130 Solution found!
+131 Solution found!
+132 Solution found!
+133 Solution found!
+134 Solution found!
+135 Solution found!
+136 Solution found!
+137 Solution found!
+138 Solution found!
+139 Solution found!
+140 Solution found!
+141 Solution found!
+142 Solution found!
+143 Solution found!
+144 Solution found!
+145 Solution found!
+146 Solution found!
+147 Solution found!
+148 Solution found!
+149 Solution found!
+150 Solution found!
+151 Solution found!
+152 Solution found!
+153 Solution found!
+154 Solution found!
+155 Solution found!
+156 Solution found!
+157 Solution found!
+158 Solution found!
+159 Solution found!
+160 Solution found!
+161 Solution found!
+162 Solution found!
+163 Solution found!
+164 Solution found!
+165 Solution found!
+166 Solution found!
+167 Solution found!
+168 Solution found!
+169 Solution found!
+170 Solution found!
+171 Solution found!
+172 Solution found!
+173 Solution found!
+174 Solution found!
+175 Solution found!
+176 Solution found!
+177 Solution found!
+178 Solution found!
+179 Solution found!
+180 Solution found!
+181 Solution found!
+182 Solution found!
+183 Solution found!
+184 Solution found!
+185 Solution found!
+186 Solution found!
+187 Solution found!
+188 Solution found!
+189 Solution found!
+190 Solution found!
+191 Solution found!
+192 Solution found!
+193 Solution found!
+194 Solution found!
+195 Solution found!
+196 Solution found!
+197 Solution found!
+198 Solution found!
+199 Solution found!
+200 Solution found!
+201 Solution found!
+202 Solution found!
+203 Solution found!
+204 Solution found!
+205 Solution found!
+206 Solution found!
+207 Solution found!
+208 Solution found!
+209 Solution found!
+210 Solution found!
+211 Solution found!
+212 Solution found!
+213 Solution found!
+214 Solution found!
+215 Solution found!
+216 Solution found!
+217 Solution found!
+218 Solution found!
+219 Solution found!
+220 Solution found!
+221 Solution found!
+222 Solution found!
+223 Solution found!
+224 Solution found!
+225 Solution found!
+226 Solution found!
+227 Solution found!
+228 Solution found!
+229 Solution found!
+230 Solution found!
+231 Solution found!
+232 Solution found!
+233 Solution found!
+234 Solution found!
+235 Solution found!
+236 Solution found!
+237 Solution found!
+238 Solution found!
+239 Solution found!
+240 Solution found!
+241 Solution found!
+242 Solution found!
+243 Solution found!
+244 Solution found!
+245 Solution found!
+246 Solution found!
+247 Solution found!
+248 Solution found!
+249 Solution found!
+250 Solution found!
+251 Solution found!
+252 Solution found!
+253 Solution found!
+254 Solution found!
+255 Solution found!
+256 Solution found!
+257 Solution found!
+258 Solution found!
+259 Solution found!
+260 Solution found!
+261 Solution found!
+262 Solution found!
+263 Solution found!
+264 Solution found!
+265 Solution found!
+266 Solution found!
+267 Solution found!
+268 Solution found!
+269 Solution found!
+270 Solution found!
+271 Solution found!
+272 Solution found!
+273 Solution found!
+274 Solution found!
+275 Solution found!
+276 Solution found!
+277 Solution found!
+278 Solution found!
+279 Solution found!
+280 Solution found!
+281 Solution found!
+282 Solution found!
+283 Solution found!
+284 Solution found!
+285 Solution found!
+286 Solution found!
+287 Solution found!
+288 Solution found!
+289 Solution found!
+290 Solution found!
+291 Solution found!
+292 Solution found!
+293 Solution found!
+294 Solution found!
+295 Solution found!
+296 Solution found!
+297 Solution found!
+298 Solution found!
+299 Solution found!
+300 Solution found!
+301 Solution found!
+302 Solution found!
+303 Solution found!
+304 Solution found!
+305 Solution found!
+306 Solution found!
+307 Solution found!
+308 Solution found!
+309 Solution found!
+310 Solution found!
+311 Solution found!
+312 Solution found!
+313 Solution found!
+314 Solution found!
+315 Solution found!
+316 Solution found!
+317 Solution found!
+318 Solution found!
+319 Solution found!
+320 Solution found!
+321 Solution found!
+322 Solution found!
+323 Solution found!
+324 Solution found!
+325 Solution found!
+326 Solution found!
+327 Solution found!
+328 Solution found!
+329 Solution found!
+330 Solution found!
+331 Solution found!
+332 Solution found!
+333 Solution found!
+334 Solution found!
+335 Solution found!
+336 Solution found!
+337 Solution found!
+338 Solution found!
+339 Solution found!
+340 Solution found!
+341 Solution found!
+342 Solution found!
+343 Solution found!
+344 Solution found!
+345 Solution found!
+346 Solution found!
+347 Solution found!
+348 Solution found!
+349 Solution found!
+350 Solution found!
+351 Solution found!
+352 Solution found!
+353 Solution found!
+354 Solution found!
+355 Solution found!
+356 Solution found!
+357 Solution found!
+358 Solution found!
+359 Solution found!
+360 Solution found!
+361 Solution found!
+362 Solution found!
+363 Solution found!
+364 Solution found!
+365 Solution found!
+366 Solution found!
+367 Solution found!
+368 Solution found!
+369 Solution found!
+370 Solution found!
+371 Solution found!
+372 Solution found!
+373 Solution found!
+374 Solution found!
+375 Solution found!
+376 Solution found!
+377 Solution found!
+378 Solution found!
+379 Solution found!
+380 Solution found!
+381 Solution found!
+382 Solution found!
+383 Solution found!
+384 Solution found!
+385 Solution found!
+386 Solution found!
+387 Solution found!
+388 Solution found!
+389 Solution found!
+390 Solution found!
+391 Solution found!
+392 Solution found!
+393 Solution found!
+394 Solution found!
+395 Solution found!
+396 Solution found!
+397 Solution found!
+398 Solution found!
+399 Solution found!
+400 Solution found!
+401 Solution found!
+402 Solution found!
+403 Solution found!
+404 Solution found!
+405 Solution found!
+406 Solution found!
+407 Solution found!
+408 Solution found!
+409 Solution found!
+410 Solution found!
+411 Solution found!
+412 Solution found!
+413 Solution found!
+414 Solution found!
+415 Solution found!
+416 Solution found!
+417 Solution found!
+418 Solution found!
+419 Solution found!
+420 Solution found!
+421 Solution found!
+422 Solution found!
+423 Solution found!
+424 Solution found!
+425 Solution found!
+426 Solution found!
+427 Solution found!
+428 Solution found!
+429 Solution found!
+430 Solution found!
+431 Solution found!
+432 Solution found!
+433 Solution found!
+434 Solution found!
+435 Solution found!
+436 Solution found!
+437 Solution found!
+438 Solution found!
+439 Solution found!
+440 Solution found!
+441 Solution found!
+442 Solution found!
+443 Solution found!
+444 Solution found!
+445 Solution found!
+446 Solution found!
+447 Solution found!
+448 Solution found!
+449 Solution found!
+450 Solution found!
+451 Solution found!
+452 Solution found!
+453 Solution found!
+454 Solution found!
+455 Solution found!
+456 Solution found!
+457 Solution found!
+458 Solution found!
+459 Solution found!
+460 Solution found!
+461 Solution found!
+462 Solution found!
+463 Solution found!
+464 Solution found!
+465 Solution found!
+466 Solution found!
+467 Solution found!
+468 Solution found!
+469 Solution found!
+470 Solution found!
+471 Solution found!
+472 Solution found!
+473 Solution found!
+474 Solution found!
+475 Solution found!
+476 Solution found!
+477 Solution found!
+478 Solution found!
+479 Solution found!
+480 Solution found!
 Solution 1:
     -----
-   /ggg/
-  /bcg/
- /dcc/
+   /ggd/
+  /bdd/
+ /aad/
 -----
     -----
-   /eaa/
-  /bbf/
- /ddc/
+   /bgc/
+  /bcc/
+ /fae/
 -----
     -----
-   /eea/
-  /ebf/
- /dff/
+   /bgc/
+  /ffe/
+ /fee/
 -----
 Solution 2:
     -----
-   /faa/
-  /eac/
- /eec/
------
-    -----
-   /ffb/
-  /dfb/
- /ecc/
------
-    -----
-   /dgg/
-  /dgb/
- /dgb/
------
-Solution 3:
-    -----
-   /ffd/
-  /cca/
- /cba/
------
-    -----
-   /fdd/
-  /fba/
- /cbe/
------
-    -----
    /ggd/
-  /gbe/
- /gee/
------
-Solution 4:
-    -----
-   /ffd/
-  /ccb/
- /caa/
------
-    -----
-   /fdd/
-  /fbb/
- /cae/
------
-    -----
-   /ggd/
-  /gbe/
- /gee/
------
-Solution 5:
-    -----
-   /eec/
-  /ecc/
- /ddd/
------
-    -----
-   /ebc/
-  /bba/
- /bdf/
------
-    -----
-   /gga/
-  /gfa/
- /gff/
------
-Solution 6:
-    -----
-   /eef/
-  /ecf/
- /bcc/
------
-    -----
-   /eff/
-  /daa/
- /bbc/
------
-    -----
-   /dgg/
-  /dag/
- /dbg/
------
-Solution 7:
-    -----
-   /daa/
-  /eff/
- /eeb/
------
-    -----
-   /daf/
-  /dcf/
- /ebb/
------
-    -----
-   /dgg/
-  /ccg/
- /cbg/
------
-Solution 8:
-    -----
-   /dba/
-  /ebb/
- /eeb/
------
-    -----
-   /daa/
-  /dcf/
- /eff/
------
-    -----
-   /dgg/
-  /ccg/
- /cfg/
------
-Solution 9:
-    -----
-   /eef/
-  /eaf/
- /baa/
------
-    -----
-   /eff/
-  /dcc/
- /bbc/
------
-    -----
-   /dgg/
-  /dcg/
- /dbg/
------
-Solution 10:
-    -----
-   /bcc/
-  /eff/
- /eef/
------
-    -----
-   /bbc/
-  /aac/
- /eaf/
------
-    -----
-   /gbd/
-  /gdd/
- /ggd/
------
-Solution 11:
-    -----
-   /bee/
-  /ffe/
- /afd/
------
-    -----
-   /bbe/
-  /acd/
- /afd/
------
-    -----
-   /gbc/
-  /gcc/
- /ggd/
------
-Solution 12:
-    -----
-   /dbc/
-  /ebb/
- /eeb/
------
-    -----
-   /dcc/
-  /dcf/
- /eff/
------
-    -----
-   /dgg/
-  /aag/
- /afg/
------
-Solution 13:
-    -----
-   /cee/
-  /cbe/
- /dff/
------
-    -----
-   /cce/
-  /dbf/
- /dbf/
------
-    -----
-   /agg/
-  /aag/
- /dbg/
------
-Solution 14:
-    -----
-   /ddd/
-  /edc/
- /eec/
------
-    -----
-   /bbg/
-  /fbb/
- /ecc/
------
-    -----
-   /ffg/
-  /fag/
- /aag/
------
-Solution 15:
-    -----
-   /ffd/
-  /ccd/
- /cbd/
------
-    -----
-   /faa/
-  /fbd/
- /cbe/
------
-    -----
-   /gga/
-  /gbe/
- /gee/
------
-Solution 16:
-    -----
-   /eec/
-  /eff/
- /aaf/
------
-    -----
-   /ecc/
-  /bcd/
- /baf/
+  /bcc/
+ /aac/
 -----
     -----
    /bgd/
-  /bgd/
- /ggd/
------
-Solution 17:
-    -----
-   /dcc/
-  /dff/
- /dbf/
------
-    -----
-   /eac/
-  /dac/
- /bbf/
------
-    -----
-   /eeg/
-  /eag/
- /bgg/
------
-Solution 18:
-    -----
-   /dfa/
-  /dda/
- /dbb/
------
-    -----
-   /gfc/
-  /ffa/
- /bbe/
------
-    -----
-   /gcc/
-  /gce/
- /gee/
------
-Solution 19:
-    -----
-   /abb/
-  /aff/
- /ddd/
------
-    -----
-   /bbf/
-  /acf/
- /edg/
------
-    -----
-   /ccg/
-  /ecg/
- /eeg/
------
-Solution 20:
-    -----
-   /bcc/
-  /bdc/
- /ddd/
------
-    -----
-   /ecf/
-  /bff/
- /bag/
------
-    -----
-   /eeg/
-  /efg/
- /aag/
------
-Solution 21:
-    -----
-   /bcd/
   /bcd/
+ /fae/
+-----
+    -----
+   /bgd/
+  /ffe/
+ /fee/
+-----
+Solution 3:
+    -----
+   /ggf/
+  /bff/
+ /ddd/
+-----
+    -----
+   /cga/
+  /bfa/
+ /bde/
+-----
+    -----
+   /cga/
+  /cce/
+ /bee/
+-----
+Solution 4:
+    -----
+   /ggd/
+  /bdd/
  /ffd/
 -----
     -----
-   /gcc/
+   /cga/
+  /bfa/
+ /bfe/
+-----
+    -----
+   /cga/
+  /cce/
+ /bee/
+-----
+Solution 5:
+    -----
+   /ggd/
+  /baa/
+ /ffa/
+-----
+    -----
+   /cgd/
   /bfd/
  /bfe/
 -----
     -----
-   /gaa/
-  /gae/
- /gee/
------
-Solution 22:
-    -----
-   /dee/
-  /dfe/
- /dff/
------
-    -----
-   /bbe/
-  /dfc/
- /gaa/
------
-    -----
-   /gbb/
-  /gcc/
- /gca/
------
-Solution 23:
-    -----
-   /bee/
-  /aae/
- /afd/
------
-    -----
-   /bbe/
-  /fcd/
- /ffd/
------
-    -----
-   /gbc/
-  /gcc/
- /ggd/
------
-Solution 24:
-    -----
-   /fee/
-  /fde/
- /ddd/
------
-    -----
-   /bbe/
-  /ffc/
- /gaa/
------
-    -----
-   /gbb/
-  /gcc/
- /gca/
------
-Solution 25:
-    -----
-   /gff/
-  /bdf/
- /ddd/
------
-    -----
-   /gaa/
-  /bbf/
- /cce/
------
-    -----
-   /gga/
-  /cbe/
- /cee/
------
-Solution 26:
-    -----
-   /bee/
-  /bce/
- /ccd/
------
-    -----
-   /gfe/
-  /bcd/
- /bad/
------
-    -----
-   /gff/
-  /gaf/
- /gad/
------
-Solution 27:
-    -----
-   /bcc/
-  /bdc/
- /ddd/
------
-    -----
-   /gce/
-  /bff/
- /baa/
------
-    -----
-   /gee/
-  /gfe/
- /gfa/
------
-Solution 28:
-    -----
-   /daa/
-  /eab/
- /eeb/
------
-    -----
-   /ddb/
-  /cfb/
- /eff/
------
-    -----
-   /dgg/
-  /cfg/
- /ccg/
------
-Solution 29:
-    -----
-   /dba/
-  /ebb/
- /eeb/
------
-    -----
-   /daa/
-  /dfc/
- /ecc/
------
-    -----
-   /dff/
-  /gfc/
- /ggg/
------
-Solution 30:
-    -----
-   /abf/
-  /ebb/
- /eeb/
------
-    -----
-   /aaf/
-  /dff/
- /ecc/
------
-    -----
-   /dgg/
-  /dcg/
- /dcg/
------
-Solution 31:
-    -----
-   /eea/
-  /ebb/
- /ddd/
------
-    -----
-   /eaa/
-  /bbc/
- /fdc/
------
-    -----
-   /ggg/
-  /ffg/
- /fcc/
------
-Solution 32:
-    -----
-   /dee/
+   /cgd/
   /cce/
- /aff/
------
-    -----
-   /dde/
-  /acf/
- /acf/
------
-    -----
-   /dbb/
-  /bbg/
- /ggg/
------
-Solution 33:
-    -----
-   /eed/
-  /eff/
- /aaf/
------
-    -----
-   /edd/
-  /bcc/
- /baf/
------
-    -----
-   /bcd/
-  /bcg/
- /ggg/
------
-Solution 34:
-    -----
-   /dee/
-  /cce/
- /cff/
------
-    -----
-   /dde/
-  /aaf/
- /caf/
------
-    -----
-   /dbb/
-  /bbg/
- /ggg/
------
-Solution 35:
-    -----
-   /ccg/
-  /bff/
- /bfd/
------
-    -----
-   /bcg/
-  /bcf/
- /edd/
------
-    -----
-   /aag/
-  /eag/
- /eed/
------
-Solution 36:
-    -----
-   /bba/
-  /ebb/
- /eed/
------
-    -----
-   /caa/
-  /ccd/
- /efd/
------
-    -----
-   /ggg/
-  /fcg/
- /ffd/
------
-Solution 37:
-    -----
-   /bcc/
-  /bdc/
- /ddd/
------
-    -----
-   /gcf/
-  /bef/
- /baa/
------
-    -----
-   /gff/
-  /gee/
- /gea/
------
-Solution 38:
-    -----
-   /beg/
-  /eeg/
- /cca/
------
-    -----
-   /bbg/
-  /cef/
- /caa/
------
-    -----
-   /dbg/
-  /ddf/
- /dff/
------
-Solution 39:
-    -----
-   /eeg/
-  /edg/
- /ddd/
------
-    -----
-   /efg/
-  /afc/
- /acc/
------
-    -----
-   /ffg/
-  /bbc/
- /abb/
------
-Solution 40:
-    -----
-   /gbb/
-  /bbf/
- /ccd/
------
-    -----
-   /gfe/
-  /cff/
- /cdd/
------
-    -----
-   /gee/
-  /gae/
- /aad/
------
-Solution 41:
-    -----
-   /gcc/
-  /ebb/
- /bbd/
------
-    -----
-   /gfc/
-  /eec/
- /edd/
------
-    -----
-   /gff/
-  /gaf/
- /aad/
------
-Solution 42:
-    -----
-   /cca/
-  /fcb/
- /ffd/
------
-    -----
-   /caa/
-  /fbb/
- /edd/
------
-    -----
-   /ggg/
-  /ebg/
- /eed/
------
-Solution 43:
-    -----
-   /dbb/
-  /bbe/
- /gee/
------
-    -----
-   /daf/
-  /daf/
- /gce/
------
-    -----
-   /dff/
-  /gac/
- /gcc/
------
-Solution 44:
-    -----
-   /dbb/
-  /bbe/
- /gee/
------
-    -----
-   /daf/
-  /dff/
- /gce/
------
-    -----
-   /daa/
-  /gfc/
- /gcc/
------
-Solution 45:
-    -----
-   /ddd/
-  /cdg/
- /ccg/
------
-    -----
-   /aaf/
-  /bbf/
- /ecg/
------
-    -----
-   /aff/
-  /ebb/
- /eeg/
------
-Solution 46:
-    -----
-   /daa/
-  /cag/
- /ccg/
------
-    -----
-   /ddf/
-  /bbf/
- /ecg/
------
-    -----
-   /dff/
-  /ebb/
- /eeg/
------
-Solution 47:
-    -----
-   /bba/
-  /gaa/
- /gff/
------
-    -----
-   /ebb/
-  /eef/
- /gcf/
------
-    -----
-   /ddd/
-  /edc/
- /gcc/
------
-Solution 48:
-    -----
-   /ddd/
-  /edb/
- /eeb/
------
-    -----
-   /aab/
-  /cfb/
- /eff/
------
-    -----
-   /agg/
-  /cfg/
- /ccg/
------
-Solution 49:
-    -----
-   /bba/
-  /fbb/
- /ddd/
------
-    -----
-   /ffa/
-  /fca/
- /edg/
------
-    -----
-   /ccg/
-  /ecg/
- /eeg/
------
-Solution 50:
-    -----
-   /bbd/
-  /add/
- /acd/
------
-    -----
-   /gbb/
-  /afc/
- /ecc/
------
-    -----
-   /ggg/
-  /eff/
- /eef/
------
-Solution 51:
-    -----
-   /ccb/
-  /fcg/
- /ffg/
------
-    -----
-   /cdb/
-  /feb/
- /aag/
------
-    -----
-   /ddd/
-  /eeb/
- /aeg/
------
-Solution 52:
-    -----
-   /dba/
-  /bbe/
  /bee/
 -----
+Solution 6:
     -----
-   /daa/
-  /dfc/
- /gfe/
------
-    -----
-   /dcc/
-  /ffc/
- /ggg/
------
-Solution 53:
-    -----
-   /dee/
-  /bbe/
- /gbb/
------
-    -----
-   /dfe/
-  /dac/
- /gac/
------
-    -----
-   /dff/
-  /gaf/
- /gcc/
------
-Solution 54:
-    -----
-   /bca/
+   /gga/
   /baa/
  /ddd/
 -----
     -----
-   /ecf/
+   /bgc/
   /bcc/
- /bdg/
+ /fde/
 -----
     -----
-   /eef/
-  /eff/
- /ggg/
+   /bgc/
+  /ffe/
+ /fee/
 -----
-Solution 55:
-    -----
-   /abb/
-  /bbe/
- /dee/
------
-    -----
-   /acg/
-  /acf/
- /dde/
------
-    -----
-   /ggg/
-  /ccf/
- /dff/
------
-Solution 56:
-    -----
-   /bcc/
-  /bac/
- /ddd/
------
-    -----
-   /ecf/
-  /baa/
- /bdg/
------
-    -----
-   /eef/
-  /eff/
- /ggg/
------
-Solution 57:
-    -----
-   /dee/
-  /dde/
- /dff/
------
-    -----
-   /bae/
-  /bcf/
- /ccf/
------
-    -----
-   /aag/
-  /bcg/
- /bgg/
------
-Solution 58:
-    -----
-   /bff/
-  /efc/
- /eec/
------
-    -----
-   /bbf/
-  /aad/
- /ecc/
------
-    -----
-   /gbd/
-  /gad/
- /ggd/
------
-Solution 59:
-    -----
-   /ffa/
-  /efa/
- /eed/
------
-    -----
-   /ggg/
-  /cfa/
- /edd/
------
-    -----
-   /bbg/
-  /cbb/
- /ccd/
------
-Solution 60:
-    -----
-   /bcc/
-  /bdc/
- /ddd/
------
-    -----
-   /ecf/
-  /baa/
- /bag/
------
-    -----
-   /eef/
-  /eff/
- /ggg/
------
-Solution 61:
-    -----
-   /ddd/
-  /edb/
- /gaa/
------
-    -----
-   /ecf/
-  /eeb/
- /gab/
------
-    -----
-   /ccf/
-  /cff/
- /ggb/
------
-Solution 62:
-    -----
-   /cee/
-  /cbe/
- /aff/
------
-    -----
-   /cce/
-  /abf/
- /abf/
------
-    -----
-   /dgg/
-  /ddg/
- /dbg/
------
-Solution 63:
-    -----
-   /dbb/
-  /bbf/
- /gff/
------
-    -----
-   /dee/
-  /dec/
- /gfc/
------
-    -----
-   /dea/
-  /gaa/
- /gcc/
------
-Solution 64:
+Solution 7:
     -----
    /ggd/
-  /cff/
- /cfa/
+  /bcd/
+ /ccd/
 -----
     -----
-   /gdd/
-  /ccf/
+   /bgf/
+  /bcd/
  /eaa/
 -----
     -----
-   /gbd/
-  /ebb/
+   /bgf/
+  /eff/
+ /eea/
+-----
+Solution 8:
+    -----
+   /ggc/
+  /bdc/
+ /ddd/
+-----
+    -----
+   /bgf/
+  /bcc/
+ /eaa/
+-----
+    -----
+   /bgf/
+  /eff/
+ /eea/
+-----
+Solution 9:
+    -----
+   /ggf/
+  /bff/
+ /ddd/
+-----
+    -----
+   /bga/
+  /bfa/
+ /edc/
+-----
+    -----
+   /bga/
+  /ecc/
+ /eec/
+-----
+Solution 10:
+    -----
+   /ggd/
+  /bdd/
+ /ffd/
+-----
+    -----
+   /bga/
+  /bfa/
+ /efc/
+-----
+    -----
+   /bga/
+  /ecc/
+ /eec/
+-----
+Solution 11:
+    -----
+   /ggc/
+  /bcc/
+ /ddd/
+-----
+    -----
+   /bgc/
+  /bff/
+ /edf/
+-----
+    -----
+   /bga/
+  /eaa/
+ /eef/
+-----
+Solution 12:
+    -----
+   /ggc/
+  /bcc/
+ /ffd/
+-----
+    -----
+   /bgc/
+  /bfd/
+ /efd/
+-----
+    -----
+   /bga/
+  /eaa/
+ /eed/
+-----
+Solution 13:
+    -----
+   /ggd/
+  /bac/
+ /aac/
+-----
+    -----
+   /bgd/
+  /bfd/
+ /ecc/
+-----
+    -----
+   /bgd/
+  /eff/
+ /eef/
+-----
+Solution 14:
+    -----
+   /ggf/
+  /bac/
+ /aac/
+-----
+    -----
+   /bgf/
+  /bff/
+ /ecc/
+-----
+    -----
+   /bgd/
+  /edd/
+ /eed/
+-----
+Solution 15:
+    -----
+   /ggd/
+  /bad/
+ /aad/
+-----
+    -----
+   /bgf/
+  /bcd/
+ /ecc/
+-----
+    -----
+   /bgf/
+  /eff/
+ /eec/
+-----
+Solution 16:
+    -----
+   /ggc/
+  /bac/
+ /aad/
+-----
+    -----
+   /bgf/
+  /bcc/
+ /edd/
+-----
+    -----
+   /bgf/
+  /eff/
+ /eed/
+-----
+Solution 17:
+    -----
+   /gga/
+  /bca/
+ /ccd/
+-----
+    -----
+   /bgf/
+  /bca/
+ /edd/
+-----
+    -----
+   /bgf/
+  /eff/
+ /eed/
+-----
+Solution 18:
+    -----
+   /gga/
+  /bda/
+ /ddd/
+-----
+    -----
+   /bgf/
+  /bca/
+ /ecc/
+-----
+    -----
+   /bgf/
+  /eff/
+ /eec/
+-----
+Solution 19:
+    -----
+   /ggd/
+  /baa/
+ /ffa/
+-----
+    -----
+   /bgd/
+  /bfd/
+ /efc/
+-----
+    -----
+   /bgd/
+  /ecc/
+ /eec/
+-----
+Solution 20:
+    -----
+   /ggc/
+  /bcc/
+ /ffa/
+-----
+    -----
+   /bgc/
+  /bfa/
+ /efa/
+-----
+    -----
+   /bgd/
+  /edd/
+ /eed/
+-----
+Solution 21:
+    -----
+   /ggc/
+  /ecc/
  /eeb/
 -----
-Solution 65:
     -----
-   /dbb/
+   /fgc/
+  /ffd/
+ /ebb/
+-----
+    -----
+   /fgd/
+  /aad/
+ /abd/
+-----
+Solution 22:
+    -----
+   /bgg/
+  /bbc/
+ /dbc/
+-----
+    -----
+   /aag/
+  /def/
+ /dcc/
+-----
+    -----
+   /aeg/
+  /eef/
+ /dff/
+-----
+Solution 23:
+    -----
+   /dgg/
+  /bac/
+ /aac/
+-----
+    -----
+   /ddg/
+  /bef/
+ /bcc/
+-----
+    -----
+   /deg/
+  /eef/
+ /bff/
+-----
+Solution 24:
+    -----
+   /dgg/
+  /ddc/
+ /dcc/
+-----
+    -----
+   /bag/
+  /bbc/
+ /fbe/
+-----
+    -----
+   /aag/
+  /ffe/
+ /fee/
+-----
+Solution 25:
+    -----
+   /dgg/
+  /ddf/
+ /dbf/
+-----
+    -----
+   /aag/
+  /cff/
+ /bbe/
+-----
+    -----
+   /acg/
+  /cce/
+ /bee/
+-----
+Solution 26:
+    -----
+   /dgg/
+  /dcf/
+ /dcf/
+-----
+    -----
+   /aag/
+  /dff/
+ /cce/
+-----
+    -----
+   /abg/
+  /bbe/
+ /bee/
+-----
+Solution 27:
+    -----
+   /dgg/
+  /dfc/
+ /dcc/
+-----
+    -----
+   /aag/
+  /dfc/
+ /ffe/
+-----
+    -----
+   /abg/
+  /bbe/
+ /bee/
+-----
+Solution 28:
+    -----
+   /bgg/
   /bbf/
- /gff/
+ /dbf/
 -----
     -----
-   /dae/
-  /dac/
- /gfc/
+   /aag/
+  /cff/
+ /dde/
 -----
     -----
-   /dee/
-  /gae/
- /gcc/
+   /acg/
+  /cce/
+ /dee/
 -----
-Solution 66:
+Solution 29:
     -----
-   /aeb/
-  /cee/
- /ccg/
------
-    -----
-   /adb/
-  /aeb/
- /fcg/
+   /bgg/
+  /ccf/
+ /cff/
 -----
     -----
-   /ddd/
-  /ffb/
- /fgg/
------
-Solution 67:
-    -----
-   /dbb/
-  /bbf/
- /gff/
+   /bbg/
+  /daa/
+ /cfe/
 -----
     -----
-   /daa/
-  /dec/
- /gfc/
+   /dbg/
+  /dae/
+ /dee/
 -----
+Solution 30:
     -----
-   /dea/
-  /gee/
- /gcc/
+   /cgg/
+  /cdb/
+ /ddd/
 -----
-Solution 68:
     -----
    /ccg/
-  /ecf/
- /eeb/
+  /fbb/
+ /aae/
+-----
+    -----
+   /ffg/
+  /fbe/
+ /aee/
+-----
+Solution 31:
+    -----
+   /fgg/
+  /ffb/
+ /daa/
+-----
+    -----
+   /fcg/
+  /dbb/
+ /dae/
+-----
+    -----
+   /ccg/
+  /cbe/
+ /dee/
+-----
+Solution 32:
+    -----
+   /dgg/
+  /ccf/
+ /caa/
+-----
+    -----
+   /dfg/
+  /dff/
+ /cae/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 33:
+    -----
+   /bgg/
+  /ccf/
+ /acf/
+-----
+    -----
+   /bbg/
+  /cff/
+ /aae/
+-----
+    -----
+   /dbg/
+  /dde/
+ /dee/
+-----
+Solution 34:
+    -----
+   /dgg/
+  /ffc/
+ /acc/
+-----
+    -----
+   /dfg/
+  /dfc/
+ /aae/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 35:
+    -----
+   /dgg/
+  /ccf/
+ /acf/
+-----
+    -----
+   /ddg/
+  /cff/
+ /aae/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 36:
+    -----
+   /bgg/
+  /bbf/
+ /abf/
+-----
+    -----
+   /ccg/
+  /dff/
+ /aae/
+-----
+    -----
+   /dcg/
+  /dce/
+ /dee/
+-----
+Solution 37:
+    -----
+   /fgg/
+  /ffb/
+ /ddd/
+-----
+    -----
+   /fcg/
+  /abb/
+ /ade/
+-----
+    -----
+   /ccg/
+  /cbe/
+ /aee/
+-----
+Solution 38:
+    -----
+   /dgg/
+  /ddc/
+ /dcc/
+-----
+    -----
+   /ffg/
+  /abc/
+ /abe/
+-----
+    -----
+   /fbg/
+  /fbe/
+ /aee/
+-----
+Solution 39:
+    -----
+   /dgg/
+  /ddf/
+ /dbf/
+-----
+    -----
+   /ccg/
+  /aff/
+ /bbe/
+-----
+    -----
+   /acg/
+  /ace/
+ /bee/
+-----
+Solution 40:
+    -----
+   /bgg/
+  /bbf/
+ /dbf/
+-----
+    -----
+   /ccg/
+  /aff/
+ /dde/
+-----
+    -----
+   /acg/
+  /ace/
+ /dee/
+-----
+Solution 41:
+    -----
+   /bgg/
+  /cca/
+ /dca/
+-----
+    -----
+   /bbg/
+  /cfa/
+ /dde/
+-----
+    -----
+   /fbg/
+  /ffe/
+ /dee/
+-----
+Solution 42:
+    -----
+   /dgg/
+  /ffa/
+ /fba/
+-----
+    -----
+   /ddg/
+  /cfa/
+ /bbe/
+-----
+    -----
+   /dcg/
+  /cce/
+ /bee/
+-----
+Solution 43:
+    -----
+   /dgg/
+  /cba/
+ /cca/
+-----
+    -----
+   /dbg/
+  /dba/
+ /fce/
+-----
+    -----
+   /dbg/
+  /ffe/
+ /fee/
+-----
+Solution 44:
+    -----
+   /fgg/
+  /ffa/
+ /dba/
+-----
+    -----
+   /fcg/
+  /dba/
+ /dbe/
+-----
+    -----
+   /ccg/
+  /cbe/
+ /dee/
+-----
+Solution 45:
+    -----
+   /cgg/
+  /cfa/
+ /ffa/
+-----
+    -----
+   /ccg/
+  /dba/
+ /fbe/
+-----
+    -----
+   /dbg/
+  /dbe/
+ /dee/
+-----
+Solution 46:
+    -----
+   /dgg/
+  /dda/
+ /dfa/
+-----
+    -----
+   /ccg/
+  /fca/
+ /ffe/
+-----
+    -----
+   /cbg/
+  /bbe/
+ /bee/
+-----
+Solution 47:
+    -----
+   /bgg/
+  /bba/
+ /cba/
+-----
+    -----
+   /ffg/
+  /fca/
+ /cce/
+-----
+    -----
+   /dfg/
+  /dde/
+ /dee/
+-----
+Solution 48:
+    -----
+   /dgg/
+  /dba/
+ /dba/
+-----
+    -----
+   /fbg/
+  /dba/
+ /cce/
+-----
+    -----
+   /ffg/
+  /cfe/
+ /cee/
+-----
+Solution 49:
+    -----
+   /bgg/
+  /ccf/
+ /dcf/
+-----
+    -----
+   /bbg/
+  /cff/
+ /dde/
+-----
+    -----
+   /abg/
+  /aae/
+ /dee/
+-----
+Solution 50:
+    -----
+   /dgg/
+  /ccf/
+ /cff/
+-----
+    -----
+   /dag/
+  /daa/
+ /cfe/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 51:
+    -----
+   /bgg/
+  /ffc/
+ /fcc/
+-----
+    -----
+   /bbg/
+  /afc/
+ /aae/
+-----
+    -----
+   /dbg/
+  /dde/
+ /dee/
+-----
+Solution 52:
+    -----
+   /dgg/
+  /ffc/
+ /fcc/
+-----
+    -----
+   /ddg/
+  /afc/
+ /aae/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 53:
+    -----
+   /cgg/
+  /cab/
+ /daa/
+-----
+    -----
+   /ccg/
+  /fbb/
+ /dde/
+-----
+    -----
+   /ffg/
+  /fbe/
+ /dee/
+-----
+Solution 54:
+    -----
+   /dgg/
+  /ddf/
+ /dbf/
+-----
+    -----
+   /ccg/
+  /cff/
+ /bbe/
+-----
+    -----
+   /aag/
+  /cae/
+ /bee/
+-----
+Solution 55:
+    -----
+   /bgg/
+  /ffc/
+ /dcc/
+-----
+    -----
+   /bfg/
+  /bfc/
+ /dde/
+-----
+    -----
+   /aag/
+  /bae/
+ /dee/
+-----
+Solution 56:
+    -----
+   /bgg/
+  /bbf/
+ /dbf/
+-----
+    -----
+   /ccg/
+  /cff/
+ /dde/
+-----
+    -----
+   /aag/
+  /cae/
+ /dee/
+-----
+Solution 57:
+    -----
+   /dgg/
+  /daa/
+ /dba/
+-----
+    -----
+   /ffg/
+  /dcc/
+ /bbe/
+-----
+    -----
+   /fcg/
+  /fce/
+ /bee/
+-----
+Solution 58:
+    -----
+   /dgg/
+  /daa/
+ /dba/
 -----
     -----
    /cfg/
   /dff/
- /ebb/
------
-    -----
-   /dgg/
-  /daa/
- /dba/
------
-Solution 69:
-    -----
-   /fee/
-  /bde/
- /ddd/
------
-    -----
-   /ffe/
-  /bfa/
- /bcc/
------
-    -----
-   /ggg/
-  /gca/
- /bca/
------
-Solution 70:
-    -----
-   /aee/
-  /cce/
- /cbd/
------
-    -----
-   /afe/
-  /abd/
- /cbd/
------
-    -----
-   /gff/
-  /gbf/
- /ggd/
------
-Solution 71:
-    -----
-   /bgg/
-  /ecc/
- /eec/
------
-    -----
-   /bag/
-  /bcf/
- /edf/
------
-    -----
-   /aag/
-  /bff/
- /ddd/
------
-Solution 72:
-    -----
-   /dba/
-  /ebb/
- /eeb/
------
-    -----
-   /daa/
-  /dcc/
- /efc/
------
-    -----
-   /dgg/
-  /fcg/
- /ffg/
------
-Solution 73:
-    -----
-   /dbb/
-  /ddf/
- /dff/
------
-    -----
-   /bbe/
-  /acc/
- /gfc/
------
-    -----
-   /aee/
-  /ace/
- /ggg/
------
-Solution 74:
-    -----
-   /ffd/
-  /cce/
- /cee/
------
-    -----
-   /fdd/
-  /faa/
- /cae/
------
-    -----
-   /bbd/
-  /gbb/
- /ggg/
------
-Solution 75:
-    -----
-   /aag/
-  /eag/
- /eeg/
------
-    -----
-   /bfg/
-  /bbc/
- /ebc/
------
-    -----
-   /dff/
-  /ddf/
- /dcc/
------
-Solution 76:
-    -----
-   /aag/
-  /bag/
- /beg/
------
-    -----
-   /bfg/
-  /bec/
- /eec/
------
-    -----
-   /dff/
-  /ddf/
- /dcc/
------
-Solution 77:
-    -----
-   /eec/
-  /ecc/
- /ddd/
------
-    -----
-   /efc/
-  /baa/
- /bdg/
------
-    -----
-   /bff/
-  /baf/
- /ggg/
------
-Solution 78:
-    -----
-   /dcc/
-  /daa/
- /dba/
------
-    -----
-   /ffc/
-  /dfc/
- /ebb/
------
-    -----
-   /ggg/
-  /efg/
- /eeb/
------
-Solution 79:
-    -----
-   /dgg/
-  /dde/
- /dee/
------
-    -----
-   /fcg/
-  /acc/
  /bbe/
 -----
     -----
-   /ffg/
-  /afc/
- /abb/
+   /cfg/
+  /cce/
+ /bee/
 -----
-Solution 80:
+Solution 59:
     -----
-   /acc/
-  /abb/
- /bbd/
------
-    -----
-   /ffc/
-  /afc/
- /edd/
+   /dgg/
+  /ddf/
+ /dbb/
 -----
     -----
-   /ggg/
-  /efg/
- /eed/
------
-Solution 81:
-    -----
-   /gaa/
-  /gcb/
- /gcb/
+   /cfg/
+  /cff/
+ /bbe/
 -----
     -----
-   /gab/
-  /ffb/
+   /ccg/
+  /aae/
+ /aee/
+-----
+Solution 60:
+    -----
+   /dgg/
+  /fbc/
+ /fcc/
+-----
+    -----
+   /dbg/
+  /dbc/
+ /ffe/
+-----
+    -----
+   /dbg/
+  /aae/
+ /aee/
+-----
+Solution 61:
+    -----
+   /bgg/
+  /acf/
+ /acf/
+-----
+    -----
+   /bbg/
+  /aff/
  /cce/
 -----
     -----
-   /ddd/
-  /fde/
- /fee/
+   /dbg/
+  /dde/
+ /dee/
 -----
-Solution 82:
+Solution 62:
     -----
-   /eed/
-  /edd/
- /aad/
------
-    -----
-   /eff/
-  /ccb/
- /gab/
------
-    -----
-   /cfb/
-  /cfb/
- /ggg/
------
-Solution 83:
-    -----
-   /agg/
-  /aag/
- /dbg/
------
-    -----
-   /ffe/
-  /dbc/
- /dbc/
------
-    -----
-   /fee/
-  /fbe/
+   /bgg/
+  /aac/
  /dcc/
 -----
-Solution 84:
     -----
-   /bbd/
-  /cbb/
- /ccg/
+   /bbg/
+  /afc/
+ /dde/
 -----
     -----
-   /edd/
-  /aff/
- /acg/
+   /fbg/
+  /ffe/
+ /dee/
+-----
+Solution 63:
+    -----
+   /bgg/
+  /fac/
+ /fcc/
 -----
     -----
-   /eed/
-  /efg/
- /afg/
+   /bbg/
+  /aac/
+ /ffe/
 -----
-Solution 85:
     -----
-   /dee/
+   /dbg/
   /dde/
- /dgb/
+ /dee/
+-----
+Solution 64:
+    -----
+   /bgg/
+  /afc/
+ /acc/
 -----
     -----
-   /ffe/
-  /ccb/
- /cgb/
+   /bbg/
+  /afc/
+ /ffe/
 -----
     -----
-   /faa/
-  /fab/
- /cgg/
+   /dbg/
+  /dde/
+ /dee/
 -----
-Solution 86:
+Solution 65:
     -----
-   /ccb/
-  /cbb/
- /dbg/
+   /bgg/
+  /caf/
+ /aaf/
 -----
     -----
-   /eaa/
+   /bbg/
   /cff/
- /ddg/
+ /cce/
 -----
     -----
-   /eea/
-  /efg/
- /dfg/
+   /dbg/
+  /dde/
+ /dee/
 -----
-Solution 87:
+Solution 66:
     -----
-   /eec/
-  /ecc/
- /ddd/
------
-    -----
-   /efc/
-  /bff/
- /bdg/
+   /dgg/
+  /aaf/
+ /abf/
 -----
     -----
-   /bfg/
-  /bag/
- /aag/
+   /ddg/
+  /cff/
+ /bbe/
 -----
-Solution 88:
     -----
-   /cee/
-  /cae/
+   /dcg/
+  /cce/
+ /bee/
+-----
+Solution 67:
+    -----
+   /agg/
+  /fbc/
+ /fcc/
+-----
+    -----
+   /abg/
+  /abc/
+ /ffe/
+-----
+    -----
+   /dbg/
+  /dde/
+ /dee/
+-----
+Solution 68:
+    -----
+   /agg/
+  /aac/
+ /dcc/
+-----
+    -----
+   /ffg/
+  /dbc/
+ /dbe/
+-----
+    -----
+   /fbg/
+  /fbe/
+ /dee/
+-----
+Solution 69:
+    -----
+   /dgg/
+  /fac/
+ /fcc/
+-----
+    -----
+   /ddg/
+  /aac/
+ /ffe/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 70:
+    -----
+   /dgg/
+  /fac/
+ /fcc/
+-----
+    -----
+   /dag/
+  /dac/
+ /ffe/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 71:
+    -----
+   /dgg/
+  /acf/
+ /acf/
+-----
+    -----
+   /ddg/
+  /aff/
+ /cce/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 72:
+    -----
+   /dgg/
+  /afc/
+ /acc/
+-----
+    -----
+   /ddg/
+  /afc/
+ /ffe/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 73:
+    -----
+   /dgg/
+  /caf/
+ /aaf/
+-----
+    -----
+   /ddg/
+  /cff/
+ /cce/
+-----
+    -----
+   /dbg/
+  /bbe/
+ /bee/
+-----
+Solution 74:
+    -----
+   /dgg/
+  /ddc/
+ /dcc/
+-----
+    -----
+   /ffg/
+  /aec/
+ /aee/
+-----
+    -----
+   /fbg/
+  /fbb/
+ /aeb/
+-----
+Solution 75:
+    -----
+   /cgg/
+  /cfa/
+ /ffa/
+-----
+    -----
+   /ccg/
+  /dea/
+ /fee/
+-----
+    -----
+   /dbg/
+  /dbb/
+ /deb/
+-----
+Solution 76:
+    -----
+   /agg/
+  /aac/
+ /dcc/
+-----
+    -----
+   /ffg/
+  /dec/
+ /dee/
+-----
+    -----
+   /fbg/
+  /fbb/
+ /deb/
+-----
+Solution 77:
+    -----
+   /dgg/
+  /ddc/
+ /dcc/
+-----
+    -----
+   /eeg/
+  /aec/
+ /aff/
+-----
+    -----
+   /beg/
+  /bbf/
+ /abf/
+-----
+Solution 78:
+    -----
+   /dgg/
+  /ddc/
+ /dcc/
+-----
+    -----
+   /eeg/
+  /bec/
  /bff/
 -----
     -----
-   /cce/
-  /aaf/
- /bbf/
+   /beg/
+  /baf/
+ /aaf/
+-----
+Solution 79:
+    -----
+   /bgg/
+  /bbc/
+ /dbc/
 -----
     -----
+   /eeg/
+  /def/
+ /dcc/
+-----
+    -----
+   /aeg/
+  /aaf/
+ /dff/
+-----
+Solution 80:
+    -----
+   /bgg/
+  /bac/
+ /aac/
+-----
+    -----
+   /eeg/
+  /bef/
+ /bcc/
+-----
+    -----
+   /deg/
+  /ddf/
+ /dff/
+-----
+Solution 81:
+    -----
+   /agg/
+  /aac/
+ /dcc/
+-----
+    -----
+   /eeg/
+  /dec/
+ /dff/
+-----
+    -----
+   /beg/
+  /bbf/
+ /dbf/
+-----
+Solution 82:
+    -----
+   /bgg/
+  /bbc/
+ /abc/
+-----
+    -----
+   /eeg/
+  /aef/
+ /acc/
+-----
+    -----
+   /deg/
+  /ddf/
+ /dff/
+-----
+Solution 83:
+    -----
+   /bgg/
+  /ccf/
+ /cff/
+-----
+    -----
+   /bag/
+  /bee/
+ /cfe/
+-----
+    -----
+   /aag/
+  /bde/
+ /ddd/
+-----
+Solution 84:
+    -----
+   /bgg/
+  /ccf/
+ /cff/
+-----
+    -----
+   /bbg/
+  /aee/
+ /cfe/
+-----
+    -----
+   /abg/
+  /ade/
+ /ddd/
+-----
+Solution 85:
+    -----
+   /bgg/
+  /ccf/
+ /cff/
+-----
+    -----
+   /bbg/
+  /dee/
+ /cfe/
+-----
+    -----
+   /dbg/
+  /dae/
+ /daa/
+-----
+Solution 86:
+    -----
    /dgg/
-  /ddg/
- /dbg/
+  /fab/
+ /faa/
+-----
+    -----
+   /ddg/
+  /ceb/
+ /ffb/
+-----
+    -----
+   /deg/
+  /cee/
+ /ccb/
+-----
+Solution 87:
+    -----
+   /dgg/
+  /daa/
+ /dba/
+-----
+    -----
+   /ffg/
+  /dec/
+ /bbc/
+-----
+    -----
+   /feg/
+  /fee/
+ /bcc/
+-----
+Solution 88:
+    -----
+   /dgg/
+  /dff/
+ /dfa/
+-----
+    -----
+   /ccg/
+  /dcf/
+ /eaa/
+-----
+    -----
+   /cbg/
+  /ebb/
+ /eeb/
 -----
 Solution 89:
     -----
-   /eea/
-  /eaa/
- /ddd/
+   /dgg/
+  /cff/
+ /cfa/
 -----
     -----
-   /eff/
-  /ccb/
- /gdb/
+   /ddg/
+  /ccf/
+ /eaa/
 -----
     -----
-   /cfb/
-  /cfb/
- /ggg/
+   /dbg/
+  /ebb/
+ /eeb/
 -----
 Solution 90:
     -----
    /dgg/
-  /dda/
- /dba/
+  /dcc/
+ /dbc/
 -----
     -----
-   /fcg/
-  /ffa/
+   /aag/
+  /dcf/
  /ebb/
 -----
     -----
-   /fcg/
-  /ecc/
+   /afg/
+  /eff/
  /eeb/
 -----
 Solution 91:
     -----
-   /dgg/
-  /ddg/
- /dbg/
+   /fgg/
+  /fcc/
+ /ddd/
 -----
     -----
-   /fca/
-  /ffa/
- /ebb/
+   /aag/
+  /ffc/
+ /edc/
 -----
     -----
-   /fca/
-  /ecc/
+   /abg/
+  /ebb/
  /eeb/
 -----
 Solution 92:
     -----
-   /bee/
-  /bbe/
- /abg/
+   /dgg/
+  /ffb/
+ /faa/
 -----
     -----
-   /cce/
-  /dff/
- /aag/
+   /dcg/
+  /dfb/
+ /eab/
 -----
     -----
-   /dcf/
-  /dcf/
- /dgg/
+   /dcg/
+  /ecc/
+ /eeb/
 -----
 Solution 93:
     -----
@@ -1489,757 +1971,21 @@ Solution 93:
 -----
 Solution 94:
     -----
-   /ffc/
-  /fcc/
- /ddd/
+   /dgg/
+  /ddb/
+ /daa/
 -----
     -----
-   /gfc/
-  /bba/
- /eda/
+   /cfg/
+  /cfb/
+ /eab/
 -----
     -----
-   /ggg/
-  /ebb/
- /eea/
+   /ccg/
+  /eff/
+ /eeb/
 -----
 Solution 95:
-    -----
-   /ffc/
-  /fcc/
- /ddd/
------
-    -----
-   /gfc/
-  /eea/
- /eda/
------
-    -----
-   /ggg/
-  /ebb/
- /bba/
------
-Solution 96:
-    -----
-   /eeb/
-  /ebb/
- /dbg/
------
-    -----
-   /eff/
-  /cca/
- /ddg/
------
-    -----
-   /cfa/
-  /cfa/
- /dgg/
------
-Solution 97:
-    -----
-   /ddd/
-  /bdc/
- /gcc/
------
-    -----
-   /eaa/
-  /bbc/
- /gff/
------
-    -----
-   /eea/
-  /ebf/
- /ggf/
------
-Solution 98:
-    -----
-   /eed/
-  /edd/
- /aad/
------
-    -----
-   /ebb/
-  /bbc/
- /fac/
------
-    -----
-   /ggg/
-  /ffg/
- /fcc/
------
-Solution 99:
-    -----
-   /ddd/
-  /bdc/
- /ggc/
------
-    -----
-   /eaa/
-  /bbf/
- /gcc/
------
-    -----
-   /eea/
-  /ebf/
- /gff/
------
-Solution 100:
-    -----
-   /cbd/
-  /cbb/
- /ggb/
------
-    -----
-   /ccd/
-  /fad/
- /gae/
------
-    -----
-   /ffd/
-  /fae/
- /gee/
------
-Solution 101:
-    -----
-   /eed/
-  /edd/
- /ggd/
------
-    -----
-   /ecc/
-  /fcb/
- /gab/
------
-    -----
-   /ffb/
-  /fcb/
- /gaa/
------
-Solution 102:
-    -----
-   /dcg/
-  /ccg/
- /aag/
------
-    -----
-   /dcb/
-  /dfb/
- /eag/
------
-    -----
-   /dff/
-  /efb/
- /eeb/
------
-Solution 103:
-    -----
-   /ddd/
-  /fdc/
- /ffc/
------
-    -----
-   /aae/
-  /fee/
- /gcc/
------
-    -----
-   /abb/
-  /bbe/
- /ggg/
------
-Solution 104:
-    -----
-   /fbd/
-  /fad/
- /gad/
------
-    -----
-   /ebb/
-  /ffd/
- /gac/
------
-    -----
-   /eeb/
-  /ecc/
- /ggc/
------
-Solution 105:
-    -----
-   /ddd/
-  /fde/
- /bee/
------
-    -----
-   /ffg/
-  /fcc/
- /bbe/
------
-    -----
-   /ggg/
-  /aac/
- /abc/
------
-Solution 106:
-    -----
-   /gee/
-  /gbe/
- /gba/
------
-    -----
-   /cbe/
-  /cba/
- /gfa/
------
-    -----
-   /ccd/
-  /fdd/
- /ffd/
------
-Solution 107:
-    -----
-   /dcc/
-  /ddf/
- /dff/
------
-    -----
-   /ebc/
-  /bbc/
- /bfg/
------
-    -----
-   /eea/
-  /eaa/
- /ggg/
------
-Solution 108:
-    -----
-   /ddd/
-  /cce/
- /aee/
------
-    -----
-   /cdb/
-  /cfb/
- /aae/
------
-    -----
-   /gff/
-  /gfb/
- /ggb/
------
-Solution 109:
-    -----
-   /aee/
-  /bbe/
- /dbb/
------
-    -----
-   /aae/
-  /fcc/
- /ddc/
------
-    -----
-   /ffg/
-  /fcg/
- /dgg/
------
-Solution 110:
-    -----
-   /dff/
-  /dfc/
- /dcc/
------
-    -----
-   /bbf/
-  /dac/
- /gae/
------
-    -----
-   /gbb/
-  /gae/
- /gee/
------
-Solution 111:
-    -----
-   /ggg/
-  /gdb/
- /ddd/
------
-    -----
-   /ecc/
-  /ffb/
- /fab/
------
-    -----
-   /eec/
-  /efc/
- /aab/
------
-Solution 112:
-    -----
-   /ddd/
-  /gdb/
- /ggg/
------
-    -----
-   /ecc/
-  /ffb/
- /fab/
------
-    -----
-   /eec/
-  /efc/
- /aab/
------
-Solution 113:
-    -----
-   /ccf/
-  /cdf/
- /ddd/
------
-    -----
-   /gff/
-  /cbb/
- /aae/
------
-    -----
-   /ggg/
-  /bbe/
- /aee/
------
-Solution 114:
-    -----
-   /acc/
-  /eeg/
- /deg/
------
-    -----
-   /aac/
-  /fec/
- /ddg/
------
-    -----
-   /ffb/
-  /fbb/
- /dbg/
------
-Solution 115:
-    -----
-   /ggg/
-  /cce/
- /cee/
------
-    -----
-   /aag/
-  /ffd/
- /cfe/
------
-    -----
-   /abd/
-  /bbd/
- /bfd/
------
-Solution 116:
-    -----
-   /ggg/
-  /ebg/
- /eed/
------
-    -----
-   /faa/
-  /cbb/
- /edd/
------
-    -----
-   /ffa/
-  /cfb/
- /ccd/
------
-Solution 117:
-    -----
-   /dbb/
-  /bbe/
- /gee/
------
-    -----
-   /dca/
-  /dfa/
- /gfe/
------
-    -----
-   /dca/
-  /gcc/
- /gff/
------
-Solution 118:
-    -----
-   /dbb/
-  /dca/
- /dca/
------
-    -----
-   /bbe/
-  /dfa/
- /ccg/
------
-    -----
-   /fee/
-  /ffe/
- /ggg/
------
-Solution 119:
-    -----
-   /ddd/
-  /bca/
- /bca/
------
-    -----
-   /bde/
-  /bfa/
- /ccg/
------
-    -----
-   /fee/
-  /ffe/
- /ggg/
------
-Solution 120:
-    -----
-   /ddd/
-  /cdb/
- /ccg/
------
-    -----
-   /eab/
-  /fab/
- /fcg/
------
-    -----
-   /eeb/
-  /eag/
- /ffg/
------
-Solution 121:
-    -----
-   /dbb/
-  /bbe/
- /ggg/
------
-    -----
-   /dae/
-  /dee/
- /fcg/
------
-    -----
-   /daa/
-  /ffc/
- /fcc/
------
-Solution 122:
-    -----
-   /ddd/
-  /gdb/
- /gcc/
------
-    -----
-   /fab/
-  /fcb/
- /gce/
------
-    -----
-   /aab/
-  /ffe/
- /gee/
------
-Solution 123:
-    -----
-   /bgg/
-  /bbg/
- /dbg/
------
-    -----
-   /ffe/
-  /dac/
- /dac/
------
-    -----
-   /fee/
-  /fae/
- /dcc/
------
-Solution 124:
-    -----
-   /abg/
-  /ebb/
- /eeb/
------
-    -----
-   /aag/
-  /ffg/
- /ecg/
------
-    -----
-   /ddd/
-  /fdc/
- /fcc/
------
-Solution 125:
-    -----
-   /ddd/
-  /eaa/
- /eea/
------
-    -----
-   /gdc/
-  /bbf/
- /ebb/
------
-    -----
-   /gcc/
-  /gcf/
- /gff/
------
-Solution 126:
-    -----
-   /aag/
-  /bag/
- /ddd/
------
-    -----
-   /efg/
-  /bfc/
- /bdc/
------
-    -----
-   /eeg/
-  /eff/
- /bcc/
------
-Solution 127:
-    -----
-   /aag/
-  /bag/
- /ddd/
------
-    -----
-   /ecg/
-  /bcc/
- /bdf/
------
-    -----
-   /eeg/
-  /efc/
- /bff/
------
-Solution 128:
-    -----
-   /ccb/
-  /cbb/
- /gbd/
------
-    -----
-   /eaf/
-  /caa/
- /gdd/
------
-    -----
-   /eef/
-  /eff/
- /ggd/
------
-Solution 129:
-    -----
-   /cca/
-  /cba/
- /gbd/
------
-    -----
-   /ebf/
-  /cba/
- /gdd/
------
-    -----
-   /eef/
-  /eff/
- /ggd/
------
-Solution 130:
-    -----
-   /ggd/
-  /bdd/
- /aad/
------
-    -----
-   /gfc/
-  /bcc/
- /bae/
------
-    -----
-   /gfc/
-  /ffe/
- /bee/
------
-Solution 131:
-    -----
-   /gbd/
-  /gbb/
- /ggb/
------
-    -----
-   /cad/
-  /ccd/
- /eff/
------
-    -----
-   /aad/
-  /ecf/
- /eef/
------
-Solution 132:
-    -----
-   /bee/
-  /bce/
- /ccd/
------
-    -----
-   /gae/
-  /bcd/
- /bfd/
------
-    -----
-   /gaa/
-  /gff/
- /gfd/
------
-Solution 133:
-    -----
-   /gcb/
-  /cce/
- /aee/
------
-    -----
-   /gcb/
-  /afb/
- /ade/
------
-    -----
-   /gff/
-  /gfb/
- /ddd/
------
-Solution 134:
-    -----
-   /deg/
-  /eec/
- /bcc/
------
-    -----
-   /ddg/
-  /bec/
- /bff/
------
-    -----
-   /dgg/
-  /baf/
- /aaf/
------
-Solution 135:
-    -----
-   /eea/
-  /eaa/
- /ddd/
------
-    -----
-   /ebb/
-  /cff/
- /cdg/
------
-    -----
-   /bbf/
-  /ccf/
- /ggg/
------
-Solution 136:
-    -----
-   /aed/
-  /add/
- /bbd/
------
-    -----
-   /eec/
-  /aef/
- /gbb/
------
-    -----
-   /gcc/
-  /gcf/
- /gff/
------
-Solution 137:
-    -----
-   /dbg/
-  /bbg/
- /bgg/
------
-    -----
-   /ddf/
-  /eef/
- /eac/
------
-    -----
-   /dff/
-  /ecc/
- /aac/
------
-Solution 138:
-    -----
-   /ddd/
-  /gdb/
- /ggg/
------
-    -----
-   /aab/
-  /cfb/
- /ffe/
------
-    -----
-   /acb/
-  /cce/
- /fee/
------
-Solution 139:
-    -----
-   /ggd/
-  /gaa/
- /gba/
------
-    -----
-   /cfd/
-  /cfd/
- /ebb/
------
-    -----
-   /ccd/
-  /eff/
- /eeb/
------
-Solution 140:
-    -----
-   /eed/
-  /edd/
- /ccd/
------
-    -----
-   /ebb/
-  /cfa/
- /cff/
------
-    -----
-   /bba/
-  /gfa/
- /ggg/
------
-Solution 141:
     -----
    /agg/
   /abb/
@@ -2255,759 +2001,135 @@ Solution 141:
   /efc/
  /eed/
 -----
-Solution 142:
+Solution 96:
     -----
-   /ccd/
-  /cfd/
- /gbd/
------
-    -----
-   /eff/
-  /cfd/
- /gbb/
------
-    -----
-   /eea/
-  /eaa/
- /ggb/
------
-Solution 143:
-    -----
-   /aag/
-  /bcg/
- /ccd/
------
-    -----
-   /eag/
-  /bcd/
- /bfd/
------
-    -----
-   /eeg/
-  /eff/
- /bfd/
------
-Solution 144:
-    -----
-   /gga/
-  /baa/
- /ddd/
------
-    -----
-   /gfc/
-  /bcc/
- /bde/
------
-    -----
-   /gfc/
-  /ffe/
- /bee/
------
-Solution 145:
-    -----
-   /dcb/
-  /ddb/
- /daa/
------
-    -----
-   /ccg/
-  /cfb/
- /eab/
------
-    -----
-   /ggg/
-  /eff/
- /eef/
------
-Solution 146:
-    -----
-   /aab/
-  /ccb/
- /ddd/
------
-    -----
-   /cag/
-  /cfb/
- /edb/
------
-    -----
-   /ggg/
-  /eff/
- /eef/
------
-Solution 147:
-    -----
-   /fee/
-  /aae/
- /ggd/
------
-    -----
-   /ffe/
-  /afc/
- /gdd/
------
-    -----
-   /bcc/
-  /bbc/
- /gbd/
------
-Solution 148:
-    -----
-   /deb/
-  /eef/
- /gff/
------
-    -----
-   /dbb/
-  /dec/
- /gfc/
------
-    -----
-   /dba/
-  /gaa/
- /gcc/
------
-Solution 149:
-    -----
-   /fee/
-  /ffe/
- /ggd/
------
-    -----
-   /fae/
-  /aac/
- /gdd/
------
-    -----
-   /bcc/
-  /bbc/
- /gbd/
------
-Solution 150:
-    -----
-   /gee/
-  /gde/
- /ddd/
------
-    -----
-   /gce/
-  /fcc/
- /faa/
------
-    -----
-   /gbb/
-  /bbc/
- /ffa/
------
-Solution 151:
-    -----
-   /ddd/
-  /fab/
- /ffg/
------
-    -----
-   /edb/
-  /fab/
- /cag/
------
-    -----
-   /eeb/
-  /ecg/
- /ccg/
------
-Solution 152:
-    -----
-   /ggd/
-  /aae/
- /aee/
------
-    -----
-   /gcd/
-  /ffd/
- /bbe/
------
-    -----
-   /gcd/
-  /fcc/
- /fbb/
------
-Solution 153:
-    -----
-   /ccd/
-  /ace/
- /aee/
------
-    -----
-   /cdd/
-  /abf/
- /gbe/
------
-    -----
-   /gbd/
-  /gbf/
- /gff/
------
-Solution 154:
-    -----
-   /ddd/
-  /gdb/
- /ggg/
------
-    -----
-   /eaa/
-  /fcb/
- /fcb/
------
-    -----
-   /eea/
-  /ecc/
- /ffb/
------
-Solution 155:
-    -----
-   /bfd/
-  /bbd/
- /abd/
------
-    -----
-   /gfc/
-  /ffd/
- /aae/
------
-    -----
-   /gcc/
-  /gce/
- /gee/
------
-Solution 156:
-    -----
-   /gcc/
-  /gbb/
+   /agg/
+  /abb/
  /bbd/
 -----
     -----
-   /gfc/
-  /aec/
- /add/
+   /ccg/
+  /acf/
+ /edd/
 -----
     -----
-   /gff/
-  /eef/
- /aed/
+   /cfg/
+  /eff/
+ /eed/
 -----
-Solution 157:
+Solution 97:
     -----
-   /ddd/
-  /gdb/
- /ggg/
------
-    -----
-   /fcc/
-  /eeb/
- /eab/
+   /agg/
+  /adf/
+ /ddd/
 -----
     -----
-   /ffc/
-  /efc/
- /aab/
------
-Solution 158:
-    -----
-   /daa/
-  /ddb/
- /dgg/
+   /ccg/
+  /acf/
+ /eff/
 -----
     -----
-   /eab/
-  /fcb/
- /fcg/
+   /cbg/
+  /ebb/
+ /eeb/
+-----
+Solution 98:
+    -----
+   /dgg/
+  /dcf/
+ /dff/
 -----
     -----
-   /eeb/
-  /ecc/
- /ffg/
------
-Solution 159:
-    -----
-   /ddd/
-  /edc/
- /eec/
+   /ccg/
+  /dca/
+ /efa/
 -----
     -----
-   /fbb/
-  /bba/
- /ecc/
+   /bbg/
+  /ebb/
+ /eea/
+-----
+Solution 99:
+    -----
+   /dgg/
+  /ddf/
+ /dbf/
 -----
     -----
-   /ffa/
-  /gfa/
- /ggg/
------
-Solution 160:
-    -----
-   /dbb/
-  /bbc/
- /acc/
------
-    -----
-   /dde/
-  /afc/
- /afg/
------
-    -----
-   /dee/
-  /ffe/
- /ggg/
------
-Solution 161:
-    -----
-   /dcc/
-  /daa/
- /dba/
------
-    -----
-   /gfc/
-  /dfc/
+   /acg/
+  /aff/
  /ebb/
 -----
     -----
-   /ggg/
+   /acg/
+  /ecc/
+ /eeb/
+-----
+Solution 100:
+    -----
+   /dgg/
+  /acc/
+ /abc/
+-----
+    -----
+   /ddg/
+  /acf/
+ /ebb/
+-----
+    -----
+   /dfg/
   /eff/
  /eeb/
 -----
-Solution 162:
+Solution 101:
     -----
-   /dee/
-  /dde/
- /dfc/
+   /fgg/
+  /acc/
+ /acd/
 -----
     -----
-   /aae/
+   /ffg/
+  /afd/
+ /ecd/
+-----
+    -----
+   /bbg/
+  /ebb/
+ /eed/
+-----
+Solution 102:
+    -----
+   /dgg/
+  /dbc/
+ /dbc/
+-----
+    -----
+   /fbg/
+  /dba/
+ /ecc/
+-----
+    -----
+   /ffg/
+  /efa/
+ /eea/
+-----
+Solution 103:
+    -----
+   /dgg/
   /fcc/
  /ffc/
 -----
     -----
-   /abb/
-  /bbg/
- /ggg/
------
-Solution 163:
-    -----
-   /gcc/
-  /gfc/
- /gff/
------
-    -----
-   /gce/
-  /bfa/
- /baa/
------
-    -----
-   /bee/
-  /bde/
- /ddd/
------
-Solution 164:
-    -----
-   /ddd/
-  /aae/
- /aee/
------
-    -----
-   /gdb/
-  /cfb/
- /cce/
------
-    -----
-   /gff/
-  /gfb/
- /gcb/
------
-Solution 165:
-    -----
-   /gbf/
-  /gff/
- /ddd/
------
-    -----
-   /bbe/
-  /gfa/
- /cda/
------
-    -----
-   /bee/
-  /gce/
- /cca/
------
-Solution 166:
-    -----
-   /gcc/
-  /bbc/
- /fbb/
------
-    -----
-   /gce/
-  /ffa/
- /faa/
------
-    -----
-   /gee/
-  /gde/
- /ddd/
------
-Solution 167:
-    -----
-   /ffb/
-  /fdb/
- /ddd/
------
-    -----
-   /afe/
-  /acb/
- /ccb/
------
-    -----
-   /aee/
-  /gce/
- /ggg/
------
-Solution 168:
-    -----
-   /ggd/
-  /bdd/
- /aad/
------
-    -----
-   /bgc/
-  /bcc/
- /fae/
------
-    -----
-   /bgc/
-  /ffe/
- /fee/
------
-Solution 169:
-    -----
-   /caa/
-  /cag/
- /dfg/
------
-    -----
-   /cce/
-  /dff/
- /dfg/
------
-    -----
-   /bee/
-  /bbe/
- /dbg/
------
-Solution 170:
-    -----
-   /ddd/
-  /gde/
- /bee/
------
-    -----
-   /faa/
-  /gcc/
- /bbe/
------
-    -----
-   /ffa/
-  /gfc/
- /gbc/
------
-Solution 171:
-    -----
-   /abb/
-  /adc/
- /ddd/
------
-    -----
-   /bbe/
-  /acc/
- /gcf/
------
-    -----
-   /gee/
-  /gfe/
- /gff/
------
-Solution 172:
-    -----
-   /ggc/
-  /gcc/
- /gbd/
------
-    -----
-   /afc/
-  /aed/
- /bbd/
------
-    -----
-   /aff/
-  /eef/
- /bed/
------
-Solution 173:
-    -----
-   /abd/
-  /cbb/
- /ccb/
------
-    -----
-   /aad/
-  /ffd/
- /fce/
------
-    -----
-   /ggd/
-  /gfe/
- /gee/
------
-Solution 174:
-    -----
-   /dbg/
-  /bbf/
- /bff/
------
-    -----
-   /dag/
-  /daa/
- /efc/
------
-    -----
-   /dgg/
-  /ecc/
- /eec/
------
-Solution 175:
-    -----
-   /aaf/
-  /baf/
- /ddd/
------
-    -----
-   /bff/
-  /bcc/
- /edc/
------
-    -----
-   /bgg/
-  /ecg/
- /eeg/
------
-Solution 176:
-    -----
-   /ffg/
-  /fbb/
- /bbd/
------
-    -----
-   /afg/
-  /acc/
- /edd/
------
-    -----
-   /acg/
-  /ecg/
- /eed/
------
-Solution 177:
-    -----
-   /dbg/
-  /dag/
- /daa/
------
-    -----
-   /fbb/
-  /dcg/
- /ecc/
------
-    -----
-   /ffb/
-  /efg/
- /eec/
------
-Solution 178:
-    -----
-   /acg/
-  /ccg/
- /dgg/
------
-    -----
-   /ace/
-  /aff/
- /ddf/
------
-    -----
-   /bee/
-  /bbe/
- /dbf/
------
-Solution 179:
-    -----
-   /ggg/
-  /gdb/
- /ddd/
------
-    -----
-   /cab/
-  /ccb/
- /eff/
------
-    -----
-   /aab/
-  /ecf/
- /eef/
------
-Solution 180:
-    -----
-   /abc/
-  /aac/
- /ggd/
------
-    -----
-   /bbe/
-  /fcc/
- /gdd/
------
-    -----
-   /bee/
-  /ffe/
- /gfd/
------
-Solution 181:
-    -----
-   /gbc/
-  /fbb/
- /ffb/
------
-    -----
-   /gcc/
+   /ddg/
   /fca/
  /eaa/
 -----
     -----
-   /ggd/
-  /edd/
- /eed/
+   /dbg/
+  /ebb/
+ /eeb/
 -----
-Solution 182:
-    -----
-   /gba/
-  /gaa/
- /ggd/
------
-    -----
-   /ebb/
-  /ccd/
- /cfd/
------
-    -----
-   /eeb/
-  /eff/
- /cfd/
------
-Solution 183:
-    -----
-   /ggg/
-  /cce/
- /cee/
------
-    -----
-   /gbb/
-  /aad/
- /cfe/
------
-    -----
-   /bbd/
-  /fad/
- /ffd/
------
-Solution 184:
-    -----
-   /ggd/
-  /bcc/
- /aac/
------
-    -----
-   /bgd/
-  /bcd/
- /fae/
------
-    -----
-   /bgd/
-  /ffe/
- /fee/
------
-Solution 185:
-    -----
-   /dff/
-  /dcb/
- /dcb/
------
-    -----
-   /efb/
-  /dfb/
- /ccg/
------
-    -----
-   /eea/
-  /eaa/
- /ggg/
------
-Solution 186:
-    -----
-   /dbb/
-  /bbg/
- /ggg/
------
-    -----
-   /dde/
-  /aff/
- /acf/
------
-    -----
-   /dee/
-  /cce/
- /acf/
------
-Solution 187:
-    -----
-   /ggg/
-  /fdb/
- /ddd/
------
-    -----
-   /gab/
-  /ffb/
- /efc/
------
-    -----
-   /aab/
-  /ecc/
- /eec/
------
-Solution 188:
-    -----
-   /aaf/
-  /cag/
- /ggg/
------
-    -----
-   /bbf/
-  /cff/
- /cce/
------
-    -----
-   /dbb/
-  /dde/
- /dee/
------
-Solution 189:
+Solution 104:
     -----
    /dgg/
   /ddf/
@@ -3023,2215 +2145,151 @@ Solution 189:
   /eaa/
  /eea/
 -----
-Solution 190:
-    -----
-   /aad/
-  /cad/
- /ccd/
------
-    -----
-   /gbb/
-  /bbd/
- /fce/
------
-    -----
-   /ggg/
-  /ffe/
- /fee/
------
-Solution 191:
-    -----
-   /gbd/
-  /cbb/
- /ccb/
------
-    -----
-   /gdd/
-  /fea/
- /fca/
------
-    -----
-   /ged/
-  /gee/
- /ffa/
------
-Solution 192:
-    -----
-   /aab/
-  /cbb/
- /cbd/
------
-    -----
-   /gae/
-  /ccd/
- /ffd/
------
-    -----
-   /gee/
-  /gfe/
- /gfd/
------
-Solution 193:
-    -----
-   /bba/
-  /gaa/
- /ggg/
------
-    -----
-   /cbb/
-  /ced/
- /fee/
------
-    -----
-   /ccd/
-  /ffd/
- /fed/
------
-Solution 194:
-    -----
-   /gff/
-  /gdb/
- /ddd/
------
-    -----
-   /gfe/
-  /cfb/
- /ccb/
------
-    -----
-   /gee/
-  /aae/
- /acb/
------
-Solution 195:
-    -----
-   /gff/
-  /bbf/
- /dbb/
------
-    -----
-   /ggg/
-  /ccf/
- /dde/
------
-    -----
-   /caa/
-  /cae/
- /dee/
------
-Solution 196:
-    -----
-   /ggg/
-  /bdg/
- /ddd/
------
-    -----
-   /ecc/
-  /bff/
- /baf/
------
-    -----
-   /eec/
-  /eac/
- /baf/
------
-Solution 197:
-    -----
-   /dbg/
-  /bbg/
- /bgg/
------
-    -----
-   /dde/
-  /aff/
- /acf/
------
-    -----
-   /dee/
-  /cce/
- /acf/
------
-Solution 198:
-    -----
-   /bgg/
-  /bbg/
- /dbg/
------
-    -----
-   /eaf/
-  /eec/
- /ddc/
------
-    -----
-   /aaf/
-  /eff/
- /dcc/
------
-Solution 199:
-    -----
-   /ffd/
-  /fbb/
- /bbg/
------
-    -----
-   /efd/
-  /ccd/
- /cag/
------
-    -----
-   /eed/
-  /eag/
- /cag/
------
-Solution 200:
-    -----
-   /ddd/
-  /bdg/
- /ggg/
------
-    -----
-   /ecc/
-  /bff/
- /baf/
------
-    -----
-   /eec/
-  /eac/
- /baf/
------
-Solution 201:
-    -----
-   /gfd/
-  /gdd/
- /gbd/
------
-    -----
-   /gff/
-  /ccf/
- /bbe/
------
-    -----
-   /caa/
-  /cae/
- /bee/
------
-Solution 202:
-    -----
-   /gbc/
-  /gac/
- /daa/
------
-    -----
-   /fbb/
-  /gcc/
- /dde/
------
-    -----
-   /ffb/
-  /gfe/
- /dee/
------
-Solution 203:
-    -----
-   /eea/
-  /eff/
- /ccb/
------
-    -----
-   /eaa/
-  /cfb/
- /cfb/
------
-    -----
-   /ddd/
-  /gdb/
- /ggg/
------
-Solution 204:
-    -----
-   /ggg/
-  /bdg/
- /ddd/
------
-    -----
-   /bff/
-  /bca/
- /ecc/
------
-    -----
-   /bfa/
-  /efa/
- /eec/
------
-Solution 205:
-    -----
-   /ffd/
-  /edd/
- /eed/
------
-    -----
-   /fbb/
-  /fcc/
- /ecg/
------
-    -----
-   /bbg/
-  /aag/
- /acg/
------
-Solution 206:
-    -----
-   /fee/
-  /ffe/
- /ggd/
------
-    -----
-   /fbe/
-  /abc/
- /gdd/
------
-    -----
-   /acc/
-  /abc/
- /gbd/
------
-Solution 207:
-    -----
-   /gba/
-  /gbb/
- /ggb/
------
-    -----
-   /caa/
-  /ced/
- /fee/
------
-    -----
-   /ccd/
-  /ffd/
- /fed/
------
-Solution 208:
-    -----
-   /aad/
-  /ffd/
- /bbd/
------
-    -----
-   /gae/
-  /fcd/
- /fbb/
------
-    -----
-   /gee/
-  /gce/
- /gcc/
------
-Solution 209:
-    -----
-   /ggb/
-  /cbb/
- /cbd/
------
-    -----
-   /gff/
-  /ccf/
- /edd/
------
-    -----
-   /gaa/
-  /eaf/
- /eed/
------
-Solution 210:
-    -----
-   /bcc/
-  /faa/
- /ffa/
------
-    -----
-   /bbc/
-  /fec/
- /eeg/
------
-    -----
-   /dbg/
-  /ddg/
- /deg/
------
-Solution 211:
-    -----
-   /aab/
-  /ffb/
- /ddd/
------
-    -----
-   /gae/
-  /fcb/
- /fdb/
------
-    -----
-   /gee/
-  /gce/
- /gcc/
------
-Solution 212:
-    -----
-   /ggc/
-  /gcc/
- /gaa/
------
-    -----
-   /ebc/
-  /fbb/
- /fab/
------
-    -----
-   /eed/
-  /edd/
- /ffd/
------
-Solution 213:
-    -----
-   /ggc/
-  /gcc/
- /gff/
------
-    -----
-   /ebc/
-  /bbf/
- /baf/
------
-    -----
-   /eed/
-  /edd/
- /aad/
------
-Solution 214:
-    -----
-   /cgg/
-  /cce/
- /bee/
------
-    -----
-   /ffg/
-  /fca/
- /bbe/
------
-    -----
-   /dfg/
-  /dda/
- /dba/
------
-Solution 215:
-    -----
-   /bba/
-  /gbb/
- /ggg/
------
-    -----
-   /caa/
-  /ced/
- /fee/
------
-    -----
-   /ccd/
-  /ffd/
- /fed/
------
-Solution 216:
-    -----
-   /fgg/
-  /ccg/
- /bcg/
------
-    -----
-   /ffe/
-  /cfa/
- /bba/
------
-    -----
-   /dee/
-  /dde/
- /dba/
------
-Solution 217:
-    -----
-   /dbb/
-  /bbg/
- /ggg/
------
-    -----
-   /daa/
-  /dcf/
- /ecc/
------
-    -----
-   /dfa/
-  /eff/
- /eec/
------
-Solution 218:
-    -----
-   /cgg/
-  /cab/
- /daa/
------
-    -----
-   /ccg/
-  /fbb/
- /dde/
------
-    -----
-   /ffg/
-  /fbe/
- /dee/
------
-Solution 219:
-    -----
-   /gea/
-  /gee/
- /gbb/
------
-    -----
-   /gaa/
-  /dec/
- /bbf/
------
-    -----
-   /dcc/
-  /dfc/
- /dff/
------
-Solution 220:
-    -----
-   /ccf/
-  /ecf/
- /ddd/
------
-    -----
-   /cff/
-  /eea/
- /eda/
------
-    -----
-   /ggg/
-  /gbb/
- /bba/
------
-Solution 221:
-    -----
-   /gba/
-  /gbb/
- /geb/
------
-    -----
-   /gaa/
-  /dec/
- /eef/
------
-    -----
-   /dcc/
-  /dfc/
- /dff/
------
-Solution 222:
-    -----
-   /gee/
-  /gce/
- /gcc/
------
-    -----
-   /bae/
-  /bbf/
- /gbc/
------
-    -----
-   /daa/
-  /ddf/
- /dff/
------
-Solution 223:
-    -----
-   /aeb/
-  /adb/
- /ddd/
------
-    -----
-   /fee/
-  /aeb/
- /ccb/
------
-    -----
-   /ffg/
-  /cfg/
- /cgg/
------
-Solution 224:
-    -----
-   /eec/
-  /eff/
- /dfa/
------
-    -----
-   /ecc/
-  /dcf/
- /daa/
------
-    -----
-   /bgg/
-  /bbg/
- /dbg/
------
-Solution 225:
-    -----
-   /aag/
-  /fdb/
- /ddd/
------
-    -----
-   /eag/
-  /ffb/
- /cfb/
------
-    -----
-   /eeg/
-  /ecg/
- /ccb/
------
-Solution 226:
-    -----
-   /bbd/
-  /cad/
- /ccd/
------
-    -----
-   /gbb/
-  /aad/
- /fce/
------
-    -----
-   /ggg/
-  /ffe/
- /fee/
------
-Solution 227:
-    -----
-   /gbd/
-  /cdd/
- /ccd/
------
-    -----
-   /gbb/
-  /fea/
- /fca/
------
-    -----
-   /geb/
-  /gee/
- /ffa/
------
-Solution 228:
-    -----
-   /ggg/
-  /aae/
- /aee/
------
-    -----
-   /gbb/
-  /bbf/
- /cce/
------
-    -----
-   /ddd/
-  /cdf/
- /cff/
------
-Solution 229:
-    -----
-   /ggg/
-  /aae/
- /aee/
------
-    -----
-   /gcb/
-  /dcb/
- /ffe/
------
-    -----
-   /dcc/
-  /dfb/
- /dfb/
------
-Solution 230:
-    -----
-   /gbc/
-  /bbe/
- /bee/
------
-    -----
-   /gcc/
-  /fca/
- /ffe/
------
-    -----
-   /gga/
-  /fda/
- /ddd/
------
-Solution 231:
-    -----
-   /cca/
-  /cfg/
- /ggg/
------
-    -----
-   /eaa/
-  /cfb/
- /ffb/
------
-    -----
-   /eeb/
-  /edb/
- /ddd/
------
-Solution 232:
-    -----
-   /gbb/
-  /bbc/
- /dcc/
------
-    -----
-   /gff/
-  /afc/
- /dde/
------
-    -----
-   /ggf/
-  /aae/
- /dee/
------
-Solution 233:
-    -----
-   /ffg/
-  /aae/
- /aee/
------
-    -----
-   /fcg/
-  /fbb/
- /bbe/
------
-    -----
-   /ccg/
-  /cdg/
- /ddd/
------
-Solution 234:
-    -----
-   /eec/
-  /ecc/
- /ggg/
------
-    -----
-   /efc/
-  /baa/
- /bag/
------
-    -----
-   /bff/
-  /bdf/
- /ddd/
------
-Solution 235:
-    -----
-   /ddd/
-  /bbg/
- /ggg/
------
-    -----
-   /adc/
-  /abb/
- /eff/
------
-    -----
-   /acc/
-  /ecf/
- /eef/
------
-Solution 236:
-    -----
-   /dcc/
-  /ddc/
- /dbb/
------
-    -----
-   /gce/
-  /aee/
- /bbf/
------
-    -----
-   /ggg/
-  /afe/
- /aff/
------
-Solution 237:
-    -----
-   /ggd/
-  /eff/
- /eef/
------
-    -----
-   /gad/
-  /aad/
- /ecf/
------
-    -----
-   /gbd/
-  /bbc/
- /bcc/
------
-Solution 238:
-    -----
-   /ggd/
-  /ffe/
- /fee/
------
-    -----
-   /gcd/
-  /afd/
- /bbe/
------
-    -----
-   /gcd/
-  /acc/
- /abb/
------
-Solution 239:
-    -----
-   /gbb/
-  /ggg/
- /cff/
------
-    -----
-   /bbe/
-  /acf/
- /ccf/
------
-    -----
-   /aee/
-  /ade/
- /ddd/
------
-Solution 240:
-    -----
-   /abd/
-  /eff/
- /eef/
------
-    -----
-   /abd/
-  /abd/
- /ecf/
------
-    -----
-   /ggd/
-  /gbc/
- /gcc/
------
-Solution 241:
-    -----
-   /eef/
-  /ecf/
- /cca/
------
-    -----
-   /eff/
-  /bcd/
- /baa/
------
-    -----
-   /bgd/
-  /bgd/
- /ggd/
------
-Solution 242:
-    -----
-   /gea/
-  /gaa/
- /gbb/
------
-    -----
-   /gee/
-  /dec/
- /bbf/
------
-    -----
-   /dcc/
-  /dfc/
- /dff/
------
-Solution 243:
-    -----
-   /bee/
-  /bfe/
- /ddd/
------
-    -----
-   /cae/
-  /bff/
- /bdf/
------
-    -----
-   /caa/
-  /ccg/
- /ggg/
------
-Solution 244:
-    -----
-   /ddd/
-  /ccb/
- /gaa/
------
-    -----
-   /cde/
-  /cfb/
- /gab/
------
-    -----
-   /fee/
-  /ffe/
- /ggb/
------
-Solution 245:
-    -----
-   /dbg/
-  /aac/
- /acc/
------
-    -----
-   /dbg/
-  /dbc/
- /eff/
------
+Solution 105:
     -----
    /dgg/
-  /ebf/
- /eef/
------
-Solution 246:
-    -----
-   /daa/
-  /eac/
- /eec/
------
-    -----
-   /ddb/
-  /ffb/
- /ecc/
------
-    -----
-   /dgg/
-  /fgb/
- /fgb/
------
-Solution 247:
-    -----
-   /ffg/
-  /fbb/
- /bbd/
------
-    -----
-   /afg/
-  /acd/
- /ecd/
------
-    -----
-   /agg/
-  /ecc/
- /eed/
------
-Solution 248:
-    -----
-   /eed/
-  /ead/
- /aad/
------
-    -----
-   /eff/
-  /cfd/
- /ggg/
------
-    -----
-   /bbf/
-  /cbb/
- /ccg/
------
-Solution 249:
-    -----
-   /gcc/
-  /bdc/
- /ddd/
------
-    -----
-   /gca/
-  /bba/
- /eff/
------
-    -----
-   /gga/
-  /ebf/
- /eef/
------
-Solution 250:
-    -----
-   /eec/
-  /eff/
- /afd/
------
-    -----
-   /ecc/
-  /acf/
- /add/
------
-    -----
-   /ggb/
-  /gbb/
- /gbd/
------
-Solution 251:
-    -----
-   /eef/
-  /eff/
- /daa/
------
-    -----
-   /ebb/
-  /dfc/
- /dac/
------
-    -----
-   /bbg/
-  /ggg/
- /dcc/
------
-Solution 252:
-    -----
-   /acc/
-  /fbb/
- /bbg/
------
-    -----
-   /aac/
-  /ffc/
- /efg/
------
-    -----
-   /ddd/
-  /edg/
- /eeg/
------
-Solution 253:
-    -----
-   /gff/
-  /gcf/
- /gcc/
------
-    -----
-   /eaa/
-  /eef/
- /gdc/
------
-    -----
-   /bba/
-  /ebb/
- /ddd/
------
-Solution 254:
-    -----
-   /ddd/
-  /bcf/
- /bcf/
------
-    -----
-   /bdg/
-  /bff/
- /cce/
------
-    -----
-   /ggg/
-  /aae/
- /aee/
------
-Solution 255:
-    -----
-   /ddd/
-  /bfc/
- /bcc/
------
-    -----
-   /bdg/
-  /bfc/
- /ffe/
------
-    -----
-   /ggg/
-  /aae/
- /aee/
------
-Solution 256:
-    -----
-   /ccf/
-  /ace/
- /aee/
------
-    -----
-   /cdf/
-  /aff/
- /bbe/
------
-    -----
-   /ddd/
-  /ggg/
- /gbb/
------
-Solution 257:
-    -----
-   /gee/
-  /gfe/
- /ffd/
------
-    -----
-   /gae/
-  /ccd/
- /fcd/
------
-    -----
-   /gaa/
-  /cbb/
- /bbd/
------
-Solution 258:
-    -----
-   /cbd/
-  /cbb/
- /ggb/
------
-    -----
-   /ccd/
-  /fed/
- /gee/
------
-    -----
-   /ffd/
-  /faa/
- /gea/
------
-Solution 259:
-    -----
-   /acc/
-  /gbb/
- /ggg/
------
-    -----
-   /aac/
-  /bbc/
- /eff/
------
-    -----
-   /ddd/
-  /edf/
- /eef/
------
-Solution 260:
-    -----
-   /gfa/
-  /gaa/
- /ggb/
------
-    -----
-   /eff/
-  /ccf/
- /cbb/
------
-    -----
-   /eed/
-  /edd/
- /cbd/
------
-Solution 261:
-    -----
-   /bbd/
-  /fbb/
- /ffa/
------
-    -----
-   /edd/
-  /fca/
- /gca/
------
-    -----
-   /eed/
-  /ecc/
- /ggg/
------
-Solution 262:
-    -----
-   /eed/
-  /ecc/
- /faa/
------
-    -----
-   /edd/
-  /ffc/
- /fac/
------
-    -----
-   /bbd/
-  /gbb/
- /ggg/
------
-Solution 263:
-    -----
-   /aac/
-  /ecc/
- /dff/
------
-    -----
-   /eac/
-  /eef/
- /ddf/
------
-    -----
-   /ggg/
-  /bbg/
- /dbb/
------
-Solution 264:
-    -----
-   /fgg/
-  /ffg/
- /ccg/
------
-    -----
-   /fbb/
-  /ced/
- /cee/
------
-    -----
-   /bbd/
-  /aad/
- /aed/
------
-Solution 265:
-    -----
-   /daa/
-  /ddb/
- /dfb/
------
-    -----
-   /eab/
-  /fcb/
- /ffg/
------
-    -----
-   /eec/
-  /ecc/
- /ggg/
------
-Solution 266:
-    -----
-   /daa/
-  /cag/
- /ccg/
------
-    -----
-   /ddf/
-  /eef/
- /ecg/
------
-    -----
-   /dff/
-  /ebb/
- /bbg/
------
-Solution 267:
-    -----
-   /gga/
-  /gff/
- /gbf/
------
-    -----
-   /eaa/
-  /ccd/
- /bbf/
------
-    -----
-   /eed/
-  /ecd/
- /bcd/
------
-Solution 268:
-    -----
-   /ccf/
-  /ecf/
- /eeb/
------
-    -----
-   /cff/
-  /aad/
- /ebb/
------
-    -----
-   /ggd/
-  /gad/
- /gbd/
------
-Solution 269:
-    -----
-   /eeb/
-  /ebb/
- /gbd/
------
-    -----
-   /eff/
-  /ccf/
- /gdd/
------
-    -----
-   /caa/
-  /caf/
- /ggd/
------
-Solution 270:
-    -----
-   /ffd/
-  /aad/
- /abd/
------
-    -----
-   /fcc/
-  /fcd/
- /ebb/
------
-    -----
-   /ggg/
-  /ecg/
- /eeb/
------
-Solution 271:
-    -----
-   /ggg/
-  /bff/
- /bfd/
------
-    -----
-   /bag/
-  /bcf/
- /edd/
------
-    -----
-   /aac/
-  /ecc/
- /eed/
------
-Solution 272:
-    -----
-   /bff/
-  /bbf/
- /gbd/
------
-    -----
-   /aae/
-  /ccf/
- /gdd/
------
-    -----
-   /aee/
-  /gce/
- /gcd/
------
-Solution 273:
-    -----
-   /cbd/
-  /ebb/
- /eeb/
------
-    -----
-   /cdd/
-  /ccf/
- /eaf/
------
-    -----
-   /ggd/
-  /gff/
- /gaa/
------
-Solution 274:
-    -----
-   /gff/
-  /gbf/
- /ggd/
------
-    -----
-   /aae/
-  /bbf/
- /cdd/
------
-    -----
-   /aee/
-  /bce/
- /ccd/
------
-Solution 275:
-    -----
-   /bgg/
-  /cce/
- /cee/
------
-    -----
-   /bbg/
   /aaf/
- /cae/
------
-    -----
-   /dbg/
-  /ddf/
- /dff/
------
-Solution 276:
-    -----
-   /ggd/
-  /bad/
- /aad/
------
-    -----
-   /bgf/
-  /bcd/
- /ecc/
------
-    -----
-   /bgf/
-  /eff/
- /eec/
------
-Solution 277:
-    -----
-   /ggb/
-  /ffe/
- /fee/
------
-    -----
-   /gbb/
-  /cfd/
- /cae/
------
-    -----
-   /gbd/
-  /ccd/
- /aad/
------
-Solution 278:
-    -----
-   /acd/
-  /fce/
- /fee/
------
-    -----
-   /aad/
-  /ccd/
- /ffe/
------
-    -----
-   /bbd/
-  /gbb/
- /ggg/
------
-Solution 279:
-    -----
-   /cad/
-  /fae/
- /fee/
------
-    -----
-   /cad/
-  /ccd/
- /ffe/
------
-    -----
-   /bbd/
-  /gbb/
- /ggg/
------
-Solution 280:
-    -----
-   /ccd/
-  /gcf/
- /gbf/
------
-    -----
-   /cdd/
-  /gff/
- /bbe/
------
-    -----
-   /aad/
-  /gae/
- /bee/
------
-Solution 281:
-    -----
-   /dff/
-  /dfg/
- /dbg/
------
-    -----
-   /ccf/
-  /dcg/
- /ebb/
------
-    -----
-   /caa/
-  /eag/
- /eeb/
------
-Solution 282:
-    -----
-   /bgc/
-  /ecc/
- /eed/
------
-    -----
-   /bgc/
-  /bff/
- /edd/
------
-    -----
-   /ggf/
-  /baf/
- /aad/
------
-Solution 283:
-    -----
-   /dbb/
-  /bba/
- /gga/
------
-    -----
-   /dde/
-  /fca/
- /gcc/
------
-    -----
-   /dee/
-  /ffe/
- /gfc/
------
-Solution 284:
-    -----
-   /bbd/
-  /gbb/
- /ggg/
------
-    -----
-   /add/
-  /acf/
- /ecc/
------
-    -----
-   /afd/
-  /eff/
- /eec/
------
-Solution 285:
-    -----
-   /gcd/
-  /bdd/
- /aad/
------
-    -----
-   /gce/
-  /bcc/
- /baf/
------
-    -----
-   /gee/
-  /gfe/
- /bff/
------
-Solution 286:
-    -----
-   /aee/
-  /gce/
- /gcb/
------
-    -----
-   /aae/
-  /fcc/
- /gbb/
------
-    -----
-   /ffd/
-  /fdd/
- /gbd/
------
-Solution 287:
-    -----
-   /afb/
-  /abb/
- /gbd/
------
-    -----
-   /eff/
-  /acf/
- /gdd/
------
-    -----
-   /eec/
-  /ecc/
- /ggd/
------
-Solution 288:
-    -----
-   /ddd/
-  /gcc/
- /ggg/
------
-    -----
-   /fde/
-  /ffc/
- /bbc/
------
-    -----
-   /fee/
-  /aae/
- /abb/
------
-Solution 289:
-    -----
-   /ffg/
-  /fee/
- /deb/
------
-    -----
-   /cfg/
-  /dea/
- /dbb/
------
-    -----
-   /cgg/
-  /cca/
- /dba/
------
-Solution 290:
-    -----
-   /ccd/
-  /caf/
- /aaf/
------
-    -----
-   /edd/
-  /cff/
- /ggg/
------
-    -----
-   /eed/
-  /ebb/
- /bbg/
------
-Solution 291:
-    -----
-   /gee/
-  /bde/
- /ddd/
------
-    -----
-   /gce/
-  /bcf/
- /bff/
------
-    -----
-   /gcc/
-  /gaa/
- /bfa/
------
-Solution 292:
-    -----
-   /dbb/
-  /dcc/
- /dca/
------
-    -----
-   /bbg/
-  /dfa/
- /eca/
------
-    -----
-   /ggg/
-  /eff/
- /eef/
------
-Solution 293:
-    -----
-   /eef/
-  /ecf/
- /acb/
------
-    -----
-   /eff/
-  /acc/
- /abb/
------
-    -----
-   /ggd/
-  /gdd/
- /gbd/
------
-Solution 294:
-    -----
-   /ddd/
-  /aab/
- /gcc/
------
-    -----
-   /edf/
-  /acb/
- /gcb/
------
-    -----
-   /eef/
-  /eff/
- /ggb/
------
-Solution 295:
-    -----
-   /cad/
-  /fae/
- /fee/
------
-    -----
-   /cad/
-  /ccd/
- /ffe/
------
-    -----
-   /gbd/
-  /gbb/
- /ggb/
------
-Solution 296:
-    -----
-   /gbd/
-  /gdd/
- /ggd/
------
-    -----
-   /cbb/
-  /cee/
- /fae/
------
-    -----
-   /ccb/
-  /ffe/
- /faa/
------
-Solution 297:
-    -----
-   /ffb/
-  /fdb/
- /ddd/
------
-    -----
-   /cfg/
-  /ceb/
- /aab/
------
-    -----
-   /ccg/
-  /eeg/
- /aeg/
------
-Solution 298:
-    -----
-   /gff/
-  /gcf/
- /gcc/
------
-    -----
-   /gbe/
-  /bbf/
- /bdc/
------
-    -----
-   /aee/
-  /aae/
- /ddd/
------
-Solution 299:
-    -----
-   /ffd/
-  /cce/
- /cee/
------
-    -----
-   /fdd/
-  /faa/
- /cae/
------
-    -----
-   /gbd/
-  /gbb/
- /ggb/
------
-Solution 300:
-    -----
-   /dcc/
-  /aff/
  /abf/
 -----
     -----
-   /ddc/
-  /aec/
- /bbf/
+   /dcg/
+  /dff/
+ /ebb/
 -----
+    -----
+   /dcg/
+  /ecc/
+ /eeb/
+-----
+Solution 106:
     -----
    /dgg/
-  /eeg/
- /beg/
------
-Solution 301:
-    -----
-   /bee/
-  /gae/
- /gaa/
+  /ffa/
+ /fba/
 -----
     -----
-   /bbe/
-  /ccf/
- /gff/
+   /dcg/
+  /dfa/
+ /ebb/
 -----
     -----
-   /cbd/
-  /cdd/
- /gfd/
------
-Solution 302:
-    -----
-   /ggg/
-  /fcg/
- /fcc/
------
-    -----
-   /ebb/
-  /eed/
- /ffc/
------
-    -----
-   /bbd/
-  /ead/
- /aad/
------
-Solution 303:
-    -----
-   /ggb/
-  /cbb/
- /cbd/
------
-    -----
-   /gff/
-  /cca/
- /edd/
------
-    -----
-   /gfa/
-  /efa/
- /eed/
------
-Solution 304:
-    -----
-   /abc/
-  /aac/
- /dgg/
------
-    -----
-   /bbe/
-  /fcc/
- /ddg/
------
-    -----
-   /bee/
-  /ffe/
- /dfg/
------
-Solution 305:
-    -----
-   /eeg/
+   /dcg/
   /ecc/
- /bca/
+ /eeb/
+-----
+Solution 107:
+    -----
+   /dgg/
+  /dda/
+ /dba/
 -----
     -----
-   /efg/
-  /bfa/
- /bca/
+   /fcg/
+  /ffa/
+ /ebb/
+-----
+    -----
+   /fcg/
+  /ecc/
+ /eeb/
+-----
+Solution 108:
+    -----
+   /dgg/
+  /dda/
+ /dba/
+-----
+    -----
+   /cfg/
+  /cfa/
+ /ebb/
+-----
+    -----
+   /ccg/
+  /eff/
+ /eeb/
+-----
+Solution 109:
+    -----
+   /dgg/
+  /daa/
+ /dba/
+-----
+    -----
+   /fcg/
+  /dcc/
+ /ebb/
 -----
     -----
    /ffg/
-  /bdg/
- /ddd/
+  /efc/
+ /eeb/
 -----
-Solution 306:
+Solution 110:
     -----
-   /dcc/
-  /bbc/
- /aag/
------
-    -----
-   /dce/
-  /dbb/
- /fag/
+   /dgg/
+  /daa/
+ /dba/
 -----
     -----
-   /dee/
-  /ffe/
- /fgg/
------
-Solution 307:
-    -----
-   /ddd/
-  /ecc/
- /eec/
+   /ccg/
+  /dcf/
+ /ebb/
 -----
     -----
-   /bda/
-  /bca/
- /eff/
------
-    -----
-   /gga/
-  /bgf/
- /bgf/
------
-Solution 308:
-    -----
-   /bee/
-  /bde/
- /ddd/
------
-    -----
-   /gce/
-  /bcf/
- /bff/
------
-    -----
-   /gcc/
-  /gaa/
- /gfa/
------
-Solution 309:
-    -----
-   /aag/
-  /bcg/
- /ccd/
------
-    -----
-   /bag/
-  /bcf/
- /edd/
------
-    -----
-   /bfg/
+   /cfg/
   /eff/
- /eed/
+ /eeb/
 -----
-Solution 310:
+Solution 111:
     -----
-   /dba/
-  /bba/
- /bcc/
+   /dgg/
+  /caa/
+ /cba/
 -----
     -----
-   /dff/
-  /dca/
- /ecg/
+   /ddg/
+  /ccf/
+ /ebb/
 -----
     -----
    /dfg/
-  /efg/
- /eeg/
------
-Solution 311:
-    -----
-   /ddd/
-  /cda/
- /cca/
------
-    -----
-   /eef/
-  /bea/
- /bcg/
------
-    -----
-   /bef/
-  /bff/
- /ggg/
------
-Solution 312:
-    -----
-   /dee/
-  /cce/
- /cgg/
------
-    -----
-   /dde/
-  /ffa/
- /cfg/
------
-    -----
-   /dba/
-  /bba/
- /bfg/
------
-Solution 313:
-    -----
-   /dee/
-  /bbe/
- /gbb/
------
-    -----
-   /dde/
-  /cfa/
- /ggg/
------
-    -----
-   /dff/
-  /cfa/
- /cca/
------
-Solution 314:
-    -----
-   /eeb/
-  /ebb/
- /gbd/
------
-    -----
-   /eaa/
-  /fca/
- /gdd/
------
-    -----
-   /ffc/
-  /fcc/
- /ggd/
------
-Solution 315:
-    -----
-   /dbb/
-  /bbe/
- /gee/
------
-    -----
-   /ddc/
-  /aaf/
- /gae/
------
-    -----
-   /dcc/
-  /gcf/
- /gff/
------
-Solution 316:
-    -----
-   /gbb/
-  /bbc/
- /daa/
------
-    -----
-   /gcc/
-  /dfc/
- /dae/
------
-    -----
-   /gff/
-  /gfe/
- /dee/
------
-Solution 317:
-    -----
-   /dbg/
-  /dfg/
- /dff/
------
-    -----
-   /bbc/
-  /dfg/
- /eaa/
------
-    -----
-   /bcc/
-  /ecg/
- /eea/
------
-Solution 318:
-    -----
-   /ggb/
-  /gbb/
- /gbd/
------
-    -----
-   /ecc/
-  /fad/
- /fad/
------
-    -----
-   /eec/
-  /eac/
- /ffd/
------
-Solution 319:
-    -----
-   /ggb/
-  /gbb/
- /gbd/
------
-    -----
-   /ecc/
-  /afd/
- /aad/
------
-    -----
-   /eec/
-  /efc/
- /ffd/
------
-Solution 320:
-    -----
-   /bfg/
-  /bbg/
- /dbg/
------
-    -----
-   /efg/
-  /ffc/
- /ddc/
------
-    -----
-   /eea/
-  /eaa/
- /dcc/
------
-Solution 321:
-    -----
-   /eeb/
   /eff/
- /ggf/
------
-    -----
-   /ebb/
-  /ccd/
- /cgf/
------
-    -----
-   /abd/
-  /aad/
- /cgd/
------
-Solution 322:
-    -----
-   /ggg/
-  /eaa/
- /eea/
------
-    -----
-   /gcc/
-  /fcd/
- /ebb/
------
-    -----
-   /ffd/
-  /fcd/
- /bbd/
------
-Solution 323:
-    -----
-   /eec/
-  /ecc/
- /dgg/
------
-    -----
-   /ebc/
-  /fba/
- /ddg/
------
-    -----
-   /ffa/
-  /fba/
- /dbg/
------
-Solution 324:
-    -----
-   /ccd/
-  /ecg/
  /eeb/
 -----
+Solution 112:
     -----
-   /cdd/
-  /ffg/
- /ebb/
+   /agg/
+  /aab/
+ /ddd/
 -----
     -----
-   /aad/
-  /fag/
- /fbg/
------
-Solution 325:
-    -----
-   /ffb/
-  /aac/
- /acc/
+   /fcg/
+  /ffb/
+ /edb/
 -----
     -----
-   /fbb/
-  /fec/
- /gee/
+   /fcg/
+  /ecc/
+ /eeb/
+-----
+Solution 113:
+    -----
+   /agg/
+  /aab/
+ /ddd/
 -----
     -----
-   /gbd/
-  /gdd/
- /ged/
------
-Solution 326:
-    -----
-   /dff/
-  /dfe/
- /dee/
+   /cfg/
+  /cfb/
+ /edb/
 -----
     -----
-   /gcf/
-  /dcc/
- /bbe/
+   /ccg/
+  /eff/
+ /eeb/
 -----
-    -----
-   /gaa/
-  /gac/
- /gbb/
------
-Solution 327:
-    -----
-   /bfa/
-  /gff/
- /gcc/
------
-    -----
-   /bfa/
-  /bca/
- /gce/
------
-    -----
-   /ddd/
-  /bde/
- /gee/
------
-Solution 328:
+Solution 114:
     -----
    /agg/
   /cff/
@@ -5247,187 +2305,475 @@ Solution 328:
   /ebb/
  /eed/
 -----
-Solution 329:
-    -----
-   /acc/
-  /bbc/
- /dbb/
------
-    -----
-   /acf/
-  /aff/
- /dde/
------
-    -----
-   /ggg/
-  /gfe/
- /dee/
------
-Solution 330:
-    -----
-   /eeg/
-  /efg/
- /ffg/
------
-    -----
-   /ecg/
-  /ccb/
- /fdb/
------
-    -----
-   /acb/
-  /aab/
- /ddd/
------
-Solution 331:
-    -----
-   /ggg/
-  /bbg/
- /dbb/
------
-    -----
-   /ffc/
-  /fcc/
- /dde/
------
-    -----
-   /afc/
-  /aae/
- /dee/
------
-Solution 332:
-    -----
-   /bbg/
-  /ebb/
- /eea/
------
-    -----
-   /ffg/
-  /dfa/
- /eca/
------
+Solution 115:
     -----
    /dgg/
-  /dfc/
- /dcc/
------
-Solution 333:
-    -----
-   /dcb/
-  /ccg/
- /ffg/
+  /fac/
+ /ffc/
 -----
     -----
-   /dcb/
-  /dfb/
- /efg/
+   /ddg/
+  /faa/
+ /ecc/
 -----
-    -----
-   /daa/
-  /eab/
- /eeg/
------
-Solution 334:
-    -----
-   /aee/
-  /abe/
- /ggd/
------
-    -----
-   /cfe/
-  /abd/
- /gbd/
------
-    -----
-   /cff/
-  /ccf/
- /gbd/
------
-Solution 335:
-    -----
-   /bee/
-  /bbe/
- /gbd/
------
-    -----
-   /gfe/
-  /gcd/
- /gcd/
------
-    -----
-   /aff/
-  /aaf/
- /ccd/
------
-Solution 336:
-    -----
-   /ffd/
-  /cca/
- /cea/
------
-    -----
-   /fdd/
-  /fea/
- /cee/
------
-    -----
-   /gbd/
-  /gbb/
- /ggb/
------
-Solution 337:
     -----
    /dbg/
-  /dag/
- /daa/
+  /ebb/
+ /eeb/
+-----
+Solution 116:
+    -----
+   /dgg/
+  /fca/
+ /ffa/
 -----
     -----
-   /bbg/
-  /dcc/
+   /ddg/
+  /fca/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /ebb/
+ /eeb/
+-----
+Solution 117:
+    -----
+   /dgg/
+  /dfa/
+ /dfa/
+-----
+    -----
+   /ccg/
+  /dca/
  /eff/
 -----
     -----
-   /bcg/
-  /ecf/
- /eef/
+   /cbg/
+  /ebb/
+ /eeb/
 -----
-Solution 338:
+Solution 118:
     -----
-   /dba/
+   /dgg/
+  /cfa/
+ /cfa/
+-----
+    -----
+   /ddg/
+  /cca/
+ /eff/
+-----
+    -----
+   /dbg/
+  /ebb/
+ /eeb/
+-----
+Solution 119:
+    -----
+   /dgg/
+  /cff/
+ /ccf/
+-----
+    -----
+   /dag/
   /daa/
+ /ecf/
+-----
+    -----
+   /dbg/
+  /ebb/
+ /eeb/
+-----
+Solution 120:
+    -----
+   /dgg/
+  /daf/
+ /daa/
+-----
+    -----
+   /ccg/
+  /dcf/
+ /eff/
+-----
+    -----
+   /cbg/
+  /ebb/
+ /eeb/
+-----
+Solution 121:
+    -----
+   /dgg/
+  /caf/
+ /caa/
+-----
+    -----
+   /ddg/
+  /ccf/
+ /eff/
+-----
+    -----
+   /dbg/
+  /ebb/
+ /eeb/
+-----
+Solution 122:
+    -----
+   /bgg/
+  /bdf/
+ /ddd/
+-----
+    -----
+   /efg/
+  /bff/
+ /bac/
+-----
+    -----
+   /eeg/
+  /ecc/
+ /aac/
+-----
+Solution 123:
+    -----
+   /bgg/
+  /bbc/
+ /dbc/
+-----
+    -----
+   /eag/
+  /daf/
  /dcc/
 -----
     -----
-   /ebb/
-  /dcf/
- /gcf/
+   /eeg/
+  /eaf/
+ /dff/
 -----
-    -----
-   /eeb/
-  /eff/
- /ggg/
------
-Solution 339:
-    -----
-   /dba/
-  /bbc/
- /bcc/
------
-    -----
-   /daa/
-  /dec/
- /fee/
------
+Solution 124:
     -----
    /dgg/
-  /ffg/
- /feg/
+  /ddc/
+ /dcc/
 -----
-Solution 340:
+    -----
+   /ebg/
+  /abc/
+ /aff/
+-----
+    -----
+   /eeg/
+  /ebf/
+ /abf/
+-----
+Solution 125:
+    -----
+   /dgg/
+  /ddc/
+ /dcc/
+-----
+    -----
+   /ebg/
+  /bbc/
+ /bff/
+-----
+    -----
+   /eeg/
+  /eaf/
+ /aaf/
+-----
+Solution 126:
+    -----
+   /agg/
+  /aaf/
+ /ccd/
+-----
+    -----
+   /efg/
+  /cff/
+ /cdd/
+-----
+    -----
+   /eeg/
+  /ebb/
+ /bbd/
+-----
+Solution 127:
+    -----
+   /agg/
+  /aac/
+ /dcc/
+-----
+    -----
+   /ebg/
+  /dbc/
+ /dff/
+-----
+    -----
+   /eeg/
+  /ebf/
+ /dbf/
+-----
+Solution 128:
+    -----
+   /dgg/
+  /dff/
+ /dbf/
+-----
+    -----
+   /ecg/
+  /dcc/
+ /bbf/
+-----
+    -----
+   /eeg/
+  /eac/
+ /baa/
+-----
+Solution 129:
+    -----
+   /dgg/
+  /daa/
+ /dba/
+-----
+    -----
+   /efg/
+  /dfc/
+ /bbc/
+-----
+    -----
+   /eeg/
+  /eff/
+ /bcc/
+-----
+Solution 130:
+    -----
+   /dgg/
+  /daa/
+ /dba/
+-----
+    -----
+   /ecg/
+  /dcc/
+ /bbf/
+-----
+    -----
+   /eeg/
+  /efc/
+ /bff/
+-----
+Solution 131:
+    -----
+   /bgg/
+  /bff/
+ /aaf/
+-----
+    -----
+   /ecg/
+  /bcc/
+ /baf/
+-----
+    -----
+   /eeg/
+  /edc/
+ /ddd/
+-----
+Solution 132:
+    -----
+   /dgg/
+  /dba/
+ /dba/
+-----
+    -----
+   /ebg/
+  /dba/
+ /cff/
+-----
+    -----
+   /eeg/
+  /ecf/
+ /ccf/
+-----
+Solution 133:
+    -----
+   /cgg/
+  /cdb/
+ /ddd/
+-----
+    -----
+   /ccg/
+  /feb/
+ /aab/
+-----
+    -----
+   /ffg/
+  /fee/
+ /aeb/
+-----
+Solution 134:
+    -----
+   /cgg/
+  /cbb/
+ /bbd/
+-----
+    -----
+   /ccg/
+  /fed/
+ /aad/
+-----
+    -----
+   /ffg/
+  /fee/
+ /aed/
+-----
+Solution 135:
+    -----
+   /fgg/
+  /ffb/
+ /daa/
+-----
+    -----
+   /fcg/
+  /deb/
+ /dab/
+-----
+    -----
+   /ccg/
+  /cee/
+ /deb/
+-----
+Solution 136:
+    -----
+   /fgg/
+  /ffb/
+ /ddd/
+-----
+    -----
+   /fcg/
+  /aeb/
+ /adb/
+-----
+    -----
+   /ccg/
+  /cee/
+ /aeb/
+-----
+Solution 137:
+    -----
+   /bgg/
+  /ccf/
+ /cff/
+-----
+    -----
+   /bbg/
+  /dea/
+ /cfa/
+-----
+    -----
+   /dbg/
+  /dee/
+ /dea/
+-----
+Solution 138:
+    -----
+   /fgg/
+  /ffa/
+ /dba/
+-----
+    -----
+   /fcg/
+  /dea/
+ /dbb/
+-----
+    -----
+   /ccg/
+  /cee/
+ /deb/
+-----
+Solution 139:
+    -----
+   /cgg/
+  /cab/
+ /daa/
+-----
+    -----
+   /ccg/
+  /feb/
+ /ddb/
+-----
+    -----
+   /ffg/
+  /fee/
+ /deb/
+-----
+Solution 140:
+    -----
+   /fgg/
+  /ffe/
+ /dee/
+-----
+    -----
+   /fag/
+  /dbb/
+ /dce/
+-----
     -----
    /aag/
-  /fcg/
- /fcg/
+  /bbc/
+ /dcc/
+-----
+Solution 141:
+    -----
+   /bgg/
+  /ecc/
+ /eec/
+-----
+    -----
+   /bag/
+  /bcf/
+ /edf/
+-----
+    -----
+   /aag/
+  /bff/
+ /ddd/
+-----
+Solution 142:
+    -----
+   /bgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /bag/
+  /bff/
+ /cfe/
+-----
+    -----
+   /aag/
+  /bdf/
+ /ddd/
+-----
+Solution 143:
+    -----
+   /dgg/
+  /dde/
+ /dee/
+-----
+    -----
+   /bag/
+  /bcf/
+ /cce/
+-----
+    -----
+   /aag/
+  /bcf/
+ /bff/
+-----
+Solution 144:
+    -----
+   /dgg/
+  /dde/
+ /dee/
 -----
     -----
    /bag/
@@ -5435,527 +2781,1055 @@ Solution 340:
  /ffe/
 -----
     -----
-   /ddd/
-  /bde/
- /bee/
+   /aag/
+  /bfc/
+ /bfc/
 -----
-Solution 341:
+Solution 145:
     -----
-   /ggb/
+   /bgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /bbg/
+  /dfa/
+ /cfe/
+-----
+    -----
+   /dbg/
+  /daa/
+ /dff/
+-----
+Solution 146:
+    -----
+   /bgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /bfg/
+  /bfa/
+ /cde/
+-----
+    -----
+   /ffg/
+  /baa/
+ /ddd/
+-----
+Solution 147:
+    -----
+   /bgg/
   /eff/
  /eef/
 -----
     -----
-   /gbb/
-  /acc/
- /ecf/
------
-    -----
-   /gbd/
-  /add/
- /acd/
------
-Solution 342:
-    -----
-   /gcc/
-  /bfc/
- /ffa/
------
-    -----
-   /gce/
-  /bba/
- /fda/
------
-    -----
-   /gee/
-  /gbe/
- /ddd/
------
-Solution 343:
-    -----
-   /ggb/
-  /ffe/
- /fee/
------
-    -----
-   /gbb/
-  /cfa/
- /cde/
------
-    -----
-   /gba/
+   /bbg/
   /cca/
+ /edf/
+-----
+    -----
+   /cbg/
+  /caa/
  /ddd/
 -----
-Solution 344:
+Solution 148:
     -----
-   /eed/
-  /edd/
- /bbd/
------
-    -----
-   /ecg/
-  /aff/
- /abb/
------
-    -----
-   /ccg/
-  /cfg/
- /afg/
------
-Solution 345:
-    -----
-   /gbc/
-  /gbb/
- /ggb/
------
-    -----
-   /ecc/
-  /acf/
- /aff/
------
-    -----
-   /eed/
-  /edd/
- /afd/
------
-Solution 346:
-    -----
-   /gaa/
-  /gfb/
- /dff/
------
-    -----
-   /gae/
-  /dfb/
- /dcb/
------
-    -----
-   /gee/
-  /cce/
- /dcb/
------
-Solution 347:
-    -----
-   /ggg/
-  /ccg/
- /caa/
------
-    -----
-   /bbe/
-  /dee/
- /caf/
------
-    -----
-   /dbb/
-  /dfe/
- /dff/
------
-Solution 348:
-    -----
-   /dag/
-  /eag/
- /eec/
------
-    -----
-   /dag/
-  /dcc/
- /efc/
------
-    -----
-   /dbg/
-  /fbb/
- /ffb/
------
-Solution 349:
-    -----
-   /ggd/
-  /baa/
- /ffa/
------
-    -----
-   /cgd/
-  /bfd/
- /bfe/
------
-    -----
-   /cgd/
+   /cgg/
   /cce/
  /bee/
 -----
-Solution 350:
     -----
-   /beg/
-  /eef/
- /dff/
+   /aag/
+  /bcf/
+ /bde/
+-----
+    -----
+   /afg/
+  /bff/
+ /ddd/
+-----
+Solution 149:
+    -----
+   /bgg/
+  /eff/
+ /eef/
 -----
     -----
    /bbg/
-  /dec/
- /dfc/
+  /daa/
+ /ecf/
 -----
     -----
-   /abg/
-  /aag/
+   /dbg/
+  /dac/
  /dcc/
 -----
-Solution 351:
+Solution 150:
     -----
-   /eea/
-  /eaa/
- /ggb/
+   /dgg/
+  /dbe/
+ /dee/
 -----
     -----
-   /ecc/
-  /fcd/
- /gbb/
------
-    -----
-   /ffd/
-  /fcd/
- /gbd/
------
-Solution 352:
-    -----
-   /bbg/
-  /ggg/
- /cca/
------
-    -----
-   /ebb/
-  /cfd/
- /caa/
------
-    -----
-   /eed/
-  /efd/
- /ffd/
------
-Solution 353:
-    -----
-   /gaa/
-  /cdb/
- /ddd/
------
-    -----
-   /gae/
-  /cfb/
- /ccb/
------
-    -----
-   /gee/
-  /gfe/
- /ffb/
------
-Solution 354:
-    -----
-   /eeb/
-  /ebb/
- /abd/
------
-    -----
-   /ecc/
-  /ffd/
- /aad/
------
-    -----
-   /ggc/
-  /fgc/
- /fgd/
------
-Solution 355:
-    -----
-   /daa/
-  /ddf/
- /dff/
------
-    -----
-   /eag/
-  /ccg/
- /cfg/
------
-    -----
-   /eeb/
-  /ebb/
- /cbg/
------
-Solution 356:
-    -----
-   /gbc/
-  /gcc/
- /gga/
------
-    -----
-   /ebc/
-  /fbd/
- /faa/
------
-    -----
-   /eed/
-  /ebd/
- /ffd/
------
-Solution 357:
-    -----
-   /ddd/
-  /edb/
- /ggg/
------
-    -----
-   /ecc/
-  /eeb/
- /gfb/
------
-    -----
-   /aac/
-  /fac/
- /ffb/
------
-Solution 358:
-    -----
-   /bba/
-  /eaa/
- /eec/
------
-    -----
-   /fbb/
-  /fcc/
- /edc/
------
-    -----
-   /ggg/
-  /ffg/
- /ddd/
------
-Solution 359:
-    -----
-   /dcc/
-  /ebc/
- /eeg/
------
-    -----
-   /dcf/
+   /cbg/
   /dbf/
- /ebg/
+ /aae/
 -----
     -----
-   /dff/
-  /aag/
- /abg/
+   /cbg/
+  /ccf/
+ /aff/
 -----
-Solution 360:
+Solution 151:
     -----
-   /dcc/
+   /dgg/
   /dde/
  /dee/
 -----
     -----
-   /aac/
-  /afc/
- /ffe/
+   /ffg/
+  /fcc/
+ /aae/
 -----
+    -----
+   /bfg/
+  /bbc/
+ /abc/
+-----
+Solution 152:
     -----
    /bgg/
-  /bbg/
- /fbg/
------
-Solution 361:
-    -----
-   /eed/
   /ecc/
- /ggb/
------
-    -----
-   /ecd/
-  /fcd/
- /gbb/
------
-    -----
-   /ffd/
-  /faa/
- /gba/
------
-Solution 362:
-    -----
-   /bba/
-  /fbb/
- /ffd/
------
-    -----
-   /gaa/
-  /fcd/
- /ecd/
------
-    -----
-   /ggg/
-  /ecc/
- /eed/
------
-Solution 363:
-    -----
-   /dcc/
-  /gbb/
- /ggg/
------
-    -----
-   /ddc/
-  /bbc/
- /eff/
------
-    -----
-   /daa/
-  /eaf/
- /eef/
------
-Solution 364:
-    -----
-   /eef/
-  /ebb/
- /bbg/
------
-    -----
-   /edf/
-  /aff/
- /acg/
------
-    -----
-   /ddd/
-  /ccg/
- /acg/
------
-Solution 365:
-    -----
-   /eed/
-  /efd/
- /ffd/
------
-    -----
-   /ebb/
-  /acd/
- /fcg/
+ /eec/
 -----
     -----
    /bbg/
-  /aag/
- /ccg/
------
-Solution 366:
-    -----
-   /dff/
-  /gbf/
- /gaa/
+  /dcf/
+ /eaf/
 -----
     -----
-   /ddc/
-  /bbf/
- /gae/
+   /dbg/
+  /dff/
+ /daa/
 -----
-    -----
-   /dcc/
-  /bce/
- /gee/
------
-Solution 367:
-    -----
-   /fee/
-  /ffe/
- /ggg/
------
-    -----
-   /fae/
-  /ccb/
- /gcb/
------
-    -----
-   /aab/
-  /cdb/
- /ddd/
------
-Solution 368:
+Solution 153:
     -----
    /dgg/
-  /dfg/
- /dfg/
+  /eff/
+ /eef/
 -----
     -----
-   /aac/
+   /dcg/
   /dcc/
+ /eaf/
+-----
+    -----
+   /dbg/
+  /bbc/
+ /baa/
+-----
+Solution 154:
+    -----
+   /dgg/
+  /dde/
+ /dee/
+-----
+    -----
+   /ffg/
+  /acc/
+ /ace/
+-----
+    -----
+   /fbg/
+  /fbb/
+ /acb/
+-----
+Solution 155:
+    -----
+   /bgg/
+  /ecc/
+ /eec/
+-----
+    -----
+   /bbg/
+  /dca/
+ /efa/
+-----
+    -----
+   /dbg/
+  /dff/
+ /dfa/
+-----
+Solution 156:
+    -----
+   /bgg/
+  /ecc/
+ /eec/
+-----
+    -----
+   /bbg/
+  /acf/
+ /edf/
+-----
+    -----
+   /abg/
+  /aff/
+ /ddd/
+-----
+Solution 157:
+    -----
+   /bgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /bbg/
+  /aff/
+ /cfe/
+-----
+    -----
+   /abg/
+  /adf/
+ /ddd/
+-----
+Solution 158:
+    -----
+   /bgg/
+  /eff/
+ /eef/
+-----
+    -----
+   /bbg/
+  /dcc/
+ /eaf/
+-----
+    -----
+   /dbg/
+  /dac/
+ /dac/
+-----
+Solution 159:
+    -----
+   /bgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /bbg/
+  /daf/
+ /cae/
+-----
+    -----
+   /dbg/
+  /daf/
+ /dff/
+-----
+Solution 160:
+    -----
+   /fgg/
+  /ffe/
+ /bee/
+-----
+    -----
+   /fag/
+  /dcc/
+ /bbe/
+-----
+    -----
+   /dag/
+  /dac/
+ /dbc/
+-----
+Solution 161:
+    -----
+   /dgg/
+  /eff/
+ /eef/
+-----
+    -----
+   /ddg/
+  /acc/
+ /ecf/
+-----
+    -----
+   /dbg/
+  /abb/
+ /acb/
+-----
+Solution 162:
+    -----
+   /dgg/
+  /ecc/
+ /eec/
+-----
+    -----
+   /ddg/
+  /acf/
  /eff/
 -----
     -----
-   /abc/
-  /ebb/
- /eeb/
+   /dbg/
+  /abb/
+ /afb/
 -----
-Solution 369:
+Solution 163:
     -----
-   /dff/
-  /gab/
- /gaa/
------
-    -----
-   /dfe/
-  /dfb/
- /gcb/
+   /dgg/
+  /dde/
+ /dee/
 -----
     -----
-   /dee/
+   /fcg/
+  /acc/
+ /bbe/
+-----
+    -----
+   /ffg/
+  /afc/
+ /abb/
+-----
+Solution 164:
+    -----
+   /dgg/
+  /dde/
+ /dee/
+-----
+    -----
+   /ccg/
+  /acf/
+ /bbe/
+-----
+    -----
+   /cfg/
+  /aff/
+ /abb/
+-----
+Solution 165:
+    -----
+   /dgg/
   /cce/
- /gcb/
------
-Solution 370:
-    -----
-   /ddd/
-  /fdc/
- /ffc/
+ /cee/
 -----
     -----
-   /bbe/
-  /fee/
- /gcc/
+   /ddg/
+  /abf/
+ /cbe/
 -----
     -----
-   /gbb/
-  /gae/
- /gaa/
+   /dbg/
+  /abf/
+ /aff/
 -----
-Solution 371:
+Solution 166:
     -----
-   /ggb/
-  /gbb/
- /gba/
+   /bgg/
+  /ffe/
+ /fee/
 -----
     -----
-   /ecc/
+   /bbg/
+  /cfa/
+ /cce/
+-----
+    -----
+   /dbg/
+  /dda/
+ /dca/
+-----
+Solution 167:
+    -----
+   /bgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /bbg/
   /ffa/
- /fda/
+ /cfe/
 -----
     -----
-   /eec/
-  /efc/
+   /dbg/
+  /dda/
+ /dfa/
+-----
+Solution 168:
+    -----
+   /fgg/
+  /ffe/
+ /bee/
+-----
+    -----
+   /fcg/
+  /cca/
+ /bbe/
+-----
+    -----
+   /dcg/
+  /dda/
+ /dba/
+-----
+Solution 169:
+    -----
+   /cgg/
+  /cce/
+ /bee/
+-----
+    -----
+   /ffg/
+  /fca/
+ /bbe/
+-----
+    -----
+   /dfg/
+  /dda/
+ /dba/
+-----
+Solution 170:
+    -----
+   /dgg/
+  /ffe/
+ /fee/
+-----
+    -----
+   /ddg/
+  /cfa/
+ /cce/
+-----
+    -----
+   /dbg/
+  /bba/
+ /bca/
+-----
+Solution 171:
+    -----
+   /dgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /ddg/
+  /ffa/
+ /cfe/
+-----
+    -----
+   /dbg/
+  /bba/
+ /bfa/
+-----
+Solution 172:
+    -----
+   /fgg/
+  /ffe/
+ /dee/
+-----
+    -----
+   /fcg/
+  /cca/
+ /dde/
+-----
+    -----
+   /bcg/
+  /bba/
+ /dba/
+-----
+Solution 173:
+    -----
+   /cgg/
+  /cce/
+ /dee/
+-----
+    -----
+   /ffg/
+  /fca/
+ /dde/
+-----
+    -----
+   /bfg/
+  /bba/
+ /dba/
+-----
+Solution 174:
+    -----
+   /dgg/
+  /ecc/
+ /eec/
+-----
+    -----
+   /dfg/
+  /dca/
+ /ebb/
+-----
+    -----
+   /dfg/
+  /ffa/
+ /bba/
+-----
+Solution 175:
+    -----
+   /dgg/
+  /eff/
+ /eef/
+-----
+    -----
+   /ddg/
+  /cba/
+ /ebf/
+-----
+    -----
+   /dbg/
+  /cba/
+ /cca/
+-----
+Solution 176:
+    -----
+   /bgg/
+  /eec/
+ /dec/
+-----
+    -----
+   /bbg/
+  /def/
+ /dcc/
+-----
+    -----
+   /abg/
+  /aaf/
+ /dff/
+-----
+Solution 177:
+    -----
+   /bgg/
+  /cce/
+ /dee/
+-----
+    -----
+   /bbg/
+  /dcf/
+ /dce/
+-----
+    -----
+   /abg/
+  /aaf/
+ /dff/
+-----
+Solution 178:
+    -----
+   /bgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /bbg/
+  /dff/
+ /cfe/
+-----
+    -----
+   /dbg/
+  /daf/
+ /daa/
+-----
+Solution 179:
+    -----
+   /cgg/
+  /cbe/
+ /dee/
+-----
+    -----
+   /ccg/
+  /fbb/
+ /dde/
+-----
+    -----
+   /ffg/
+  /fab/
+ /daa/
+-----
+Solution 180:
+    -----
+   /cgg/
+  /cee/
+ /deb/
+-----
+    -----
+   /ccg/
+  /feb/
+ /ddb/
+-----
+    -----
+   /ffg/
+  /fab/
+ /daa/
+-----
+Solution 181:
+    -----
+   /cgg/
+  /cbe/
+ /dee/
+-----
+    -----
+   /ccg/
+  /bbf/
+ /dde/
+-----
+    -----
+   /aag/
+  /baf/
+ /dff/
+-----
+Solution 182:
+    -----
+   /bgg/
+  /eff/
+ /eef/
+-----
+    -----
+   /bcg/
+  /bcc/
+ /edf/
+-----
+    -----
+   /aag/
+  /bac/
  /ddd/
 -----
-Solution 372:
+Solution 183:
     -----
-   /bcd/
-  /bcd/
- /ffd/
+   /fgg/
+  /ffe/
+ /bee/
 -----
     -----
-   /ecc/
-  /bfd/
- /bfg/
+   /fcg/
+  /bcc/
+ /bde/
 -----
     -----
-   /eea/
+   /aag/
+  /bac/
+ /ddd/
+-----
+Solution 184:
+    -----
+   /bgg/
+  /eff/
+ /eef/
+-----
+    -----
+   /bbg/
+  /dcc/
+ /ecf/
+-----
+    -----
+   /dbg/
+  /daa/
+ /dca/
+-----
+Solution 185:
+    -----
+   /bgg/
+  /ecc/
+ /eec/
+-----
+    -----
+   /bbg/
+  /dcf/
+ /eff/
+-----
+    -----
+   /dbg/
+  /daa/
+ /dfa/
+-----
+Solution 186:
+    -----
+   /dgg/
+  /ebc/
+ /eec/
+-----
+    -----
+   /dbg/
+  /dbf/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /aaf/
+ /aff/
+-----
+Solution 187:
+    -----
+   /bgg/
+  /aae/
+ /aee/
+-----
+    -----
+   /bbg/
+  /dcf/
+ /cce/
+-----
+    -----
+   /dbg/
+  /dcf/
+ /dff/
+-----
+Solution 188:
+    -----
+   /bgg/
+  /aae/
+ /aee/
+-----
+    -----
+   /bbg/
+  /dcc/
+ /ffe/
+-----
+    -----
+   /dbg/
+  /dfc/
+ /dfc/
+-----
+Solution 189:
+    -----
+   /bgg/
   /eaa/
- /ggg/
+ /eea/
 -----
-Solution 373:
+    -----
+   /bbg/
+  /ccf/
+ /edf/
+-----
+    -----
+   /cbg/
+  /cff/
+ /ddd/
+-----
+Solution 190:
+    -----
+   /bgg/
+  /eac/
+ /eec/
+-----
+    -----
+   /bbg/
+  /aaf/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /ddf/
+ /dff/
+-----
+Solution 191:
+    -----
+   /bgg/
+  /eec/
+ /aec/
+-----
+    -----
+   /bbg/
+  /aef/
+ /acc/
+-----
+    -----
+   /dbg/
+  /ddf/
+ /dff/
+-----
+Solution 192:
+    -----
+   /bgg/
+  /eac/
+ /aac/
+-----
+    -----
+   /bbg/
+  /eef/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /ddf/
+ /dff/
+-----
+Solution 193:
+    -----
+   /bgg/
+  /aae/
+ /cee/
+-----
+    -----
+   /bbg/
+  /acf/
+ /cce/
+-----
+    -----
+   /dbg/
+  /ddf/
+ /dff/
+-----
+Solution 194:
+    -----
+   /bgg/
+  /cce/
+ /aee/
+-----
+    -----
+   /bbg/
+  /acf/
+ /ace/
+-----
+    -----
+   /dbg/
+  /ddf/
+ /dff/
+-----
+Solution 195:
+    -----
+   /bgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /bbg/
+  /aaf/
+ /cae/
+-----
+    -----
+   /dbg/
+  /ddf/
+ /dff/
+-----
+Solution 196:
+    -----
+   /agg/
+  /fbe/
+ /fee/
+-----
     -----
    /acg/
-  /ccg/
- /ffd/
+  /abb/
+ /ffe/
+-----
+    -----
+   /ccg/
+  /cdb/
+ /ddd/
+-----
+Solution 197:
+    -----
+   /cgg/
+  /cbe/
+ /aee/
+-----
+    -----
+   /ccg/
+  /fbb/
+ /aae/
+-----
+    -----
+   /ffg/
+  /fdb/
+ /ddd/
+-----
+Solution 198:
+    -----
+   /agg/
+  /ebc/
+ /eec/
+-----
+    -----
+   /aag/
+  /fbb/
+ /ecc/
+-----
+    -----
+   /ffg/
+  /fdb/
+ /ddd/
+-----
+Solution 199:
+    -----
+   /agg/
+  /aae/
+ /bee/
+-----
+    -----
+   /ffg/
+  /fcc/
+ /bbe/
+-----
+    -----
+   /dfg/
+  /ddc/
+ /dbc/
+-----
+Solution 200:
+    -----
+   /dgg/
+  /eaa/
+ /eea/
+-----
+    -----
+   /dfg/
+  /dcc/
+ /ebb/
+-----
+    -----
+   /dfg/
+  /ffc/
+ /bbc/
+-----
+Solution 201:
+    -----
+   /bgg/
+  /eaa/
+ /eea/
+-----
+    -----
+   /bfg/
+  /bfc/
+ /ecc/
+-----
+    -----
+   /ffg/
+  /bdc/
+ /ddd/
+-----
+Solution 202:
+    -----
+   /dgg/
+  /eba/
+ /eea/
+-----
+    -----
+   /dbg/
+  /dba/
+ /efc/
+-----
+    -----
+   /dbg/
+  /fcc/
+ /ffc/
+-----
+Solution 203:
+    -----
+   /agg/
+  /abe/
+ /dee/
+-----
+    -----
+   /cbg/
+  /abf/
+ /dde/
+-----
+    -----
+   /cbg/
+  /ccf/
+ /dff/
+-----
+Solution 204:
+    -----
+   /agg/
+  /ebc/
+ /eec/
+-----
+    -----
+   /abg/
+  /abf/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /ddf/
+ /dff/
+-----
+Solution 205:
+    -----
+   /agg/
+  /aae/
+ /bee/
+-----
+    -----
+   /fcg/
+  /bcc/
+ /bde/
+-----
+    -----
+   /ffg/
+  /bfc/
+ /ddd/
+-----
+Solution 206:
+    -----
+   /agg/
+  /aae/
+ /bee/
+-----
+    -----
+   /ccg/
+  /bcf/
+ /bde/
+-----
+    -----
+   /cfg/
+  /bff/
+ /ddd/
+-----
+Solution 207:
+    -----
+   /agg/
+  /fee/
+ /feb/
+-----
+    -----
+   /acg/
+  /aeb/
+ /ffb/
+-----
+    -----
+   /ccg/
+  /cdb/
+ /ddd/
+-----
+Solution 208:
+    -----
+   /cgg/
+  /cee/
+ /aeb/
+-----
+    -----
+   /ccg/
+  /feb/
+ /aab/
+-----
+    -----
+   /ffg/
+  /fdb/
+ /ddd/
+-----
+Solution 209:
+    -----
+   /agg/
+  /eff/
+ /eeb/
+-----
+    -----
+   /acg/
+  /afb/
+ /efb/
+-----
+    -----
+   /ccg/
+  /cdb/
+ /ddd/
+-----
+Solution 210:
+    -----
+   /agg/
+  /eff/
+ /eed/
 -----
     -----
    /acg/
@@ -5963,667 +3837,907 @@ Solution 373:
  /efd/
 -----
     -----
-   /bbg/
-  /ebb/
- /eed/
+   /ccg/
+  /cbb/
+ /bbd/
 -----
-Solution 374:
+Solution 211:
     -----
-   /ggg/
-  /ccf/
- /cff/
------
-    -----
-   /bdg/
-  /bee/
- /cfe/
+   /cgg/
+  /cee/
+ /aed/
 -----
     -----
-   /ddd/
-  /bae/
- /baa/
------
-Solution 375:
-    -----
-   /gbb/
-  /bbe/
- /dee/
+   /ccg/
+  /fed/
+ /aad/
 -----
     -----
-   /gaf/
-  /dff/
- /dce/
+   /ffg/
+  /fbb/
+ /bbd/
+-----
+Solution 212:
+    -----
+   /agg/
+  /fee/
+ /fed/
 -----
     -----
-   /gaa/
-  /gfc/
- /dcc/
------
-Solution 376:
-    -----
-   /ffd/
-  /ecc/
- /eec/
------
-    -----
-   /fad/
-  /fcd/
- /ebb/
------
-    -----
-   /aad/
-  /ggg/
- /bbg/
------
-Solution 377:
-    -----
-   /bed/
-  /gee/
- /ggg/
------
-    -----
-   /bad/
-  /bed/
- /cff/
------
-    -----
-   /aad/
-  /bcf/
- /ccf/
------
-Solution 378:
-    -----
-   /dee/
-  /cce/
- /acb/
------
-    -----
-   /dde/
-  /cfb/
- /aab/
------
-    -----
-   /dff/
-  /gfb/
- /ggg/
------
-Solution 379:
-    -----
-   /eec/
-  /eaa/
- /ggb/
------
-    -----
-   /ecc/
-  /fca/
- /gbb/
------
-    -----
-   /ffd/
-  /fdd/
- /gbd/
------
-Solution 380:
-    -----
-   /eeb/
-  /ecg/
- /acc/
------
-    -----
-   /ebb/
-  /afg/
- /afc/
------
-    -----
-   /dbg/
-  /ddg/
- /dff/
------
-Solution 381:
-    -----
-   /fgg/
-  /ffg/
- /ccg/
------
-    -----
-   /fab/
-  /ceb/
- /cee/
------
-    -----
-   /daa/
-  /ddb/
- /deb/
------
-Solution 382:
-    -----
-   /ddd/
-  /edc/
- /eef/
------
-    -----
-   /bcc/
-  /bfc/
- /eff/
------
-    -----
-   /ggg/
-  /bag/
- /baa/
------
-Solution 383:
-    -----
-   /cee/
-  /cfe/
- /ddd/
------
-    -----
-   /cce/
-  /bff/
- /bdf/
------
-    -----
-   /bgg/
-  /bag/
- /aag/
------
-Solution 384:
-    -----
-   /dgg/
-  /ecg/
- /eeg/
------
-    -----
-   /daa/
-  /dcf/
- /ecc/
------
-    -----
-   /dba/
-  /bbf/
- /bff/
------
-Solution 385:
-    -----
-   /ggg/
-  /fbg/
+   /acg/
+  /aed/
  /ffd/
 -----
     -----
-   /eaa/
+   /ccg/
+  /cbb/
+ /bbd/
+-----
+Solution 213:
+    -----
+   /agg/
+  /fee/
+ /fed/
+-----
+    -----
+   /aag/
+  /ced/
+ /ffd/
+-----
+    -----
+   /bbg/
+  /cbb/
+ /ccd/
+-----
+Solution 214:
+    -----
+   /cgg/
+  /cee/
+ /aed/
+-----
+    -----
+   /ccg/
+  /aed/
+ /afd/
+-----
+    -----
+   /bbg/
   /fbb/
- /cdd/
+ /ffd/
+-----
+Solution 215:
+    -----
+   /fgg/
+  /eaa/
+ /eed/
 -----
     -----
-   /eea/
-  /ecb/
- /ccd/
------
-Solution 386:
-    -----
-   /aad/
-  /cad/
- /ccd/
------
-    -----
-   /ebf/
-  /bbd/
- /bcg/
------
-    -----
-   /eef/
-  /eff/
- /ggg/
------
-Solution 387:
-    -----
-   /ccb/
+   /ffg/
   /cfa/
- /ffa/
+ /edd/
 -----
     -----
-   /gbb/
-  /cea/
- /fee/
+   /bbg/
+  /cbb/
+ /ccd/
+-----
+Solution 216:
+    -----
+   /agg/
+  /eff/
+ /eed/
 -----
     -----
-   /gbd/
-  /gdd/
- /ged/
------
-Solution 388:
-    -----
-   /ggg/
-  /ffe/
- /fee/
+   /aag/
+  /cfd/
+ /efd/
 -----
     -----
-   /gcc/
-  /bfc/
- /bde/
+   /bbg/
+  /cbb/
+ /ccd/
+-----
+Solution 217:
+    -----
+   /agg/
+  /ecc/
+ /eed/
 -----
     -----
-   /bca/
-  /baa/
- /ddd/
------
-Solution 389:
-    -----
-   /dee/
-  /cce/
- /cgb/
+   /acg/
+  /acd/
+ /efd/
 -----
     -----
-   /dde/
-  /afb/
- /cgb/
------
-    -----
-   /dff/
-  /afb/
- /agg/
------
-Solution 390:
-    -----
-   /daa/
-  /fac/
- /ffc/
------
-    -----
-   /dde/
+   /bbg/
   /fbb/
- /gcc/
+ /ffd/
+-----
+Solution 218:
+    -----
+   /agg/
+  /cce/
+ /cee/
 -----
     -----
-   /dee/
-  /bbe/
- /ggg/
+   /aag/
+  /dbf/
+ /cbe/
 -----
-Solution 391:
+    -----
+   /dbg/
+  /dbf/
+ /dff/
+-----
+Solution 219:
+    -----
+   /dgg/
+  /eac/
+ /eec/
+-----
+    -----
+   /ddg/
+  /aaf/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 220:
+    -----
+   /dgg/
+  /eac/
+ /eec/
+-----
+    -----
+   /dag/
+  /daf/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 221:
+    -----
+   /dgg/
+  /eff/
+ /eef/
+-----
+    -----
+   /dag/
+  /daa/
+ /ecf/
+-----
+    -----
+   /dbg/
+  /bbc/
+ /bcc/
+-----
+Solution 222:
+    -----
+   /dgg/
+  /ecc/
+ /eea/
+-----
+    -----
+   /dcg/
+  /dcf/
+ /eaa/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 223:
+    -----
+   /dgg/
+  /eec/
+ /aec/
+-----
+    -----
+   /ddg/
+  /aef/
+ /acc/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 224:
+    -----
+   /dgg/
+  /eac/
+ /aac/
+-----
+    -----
+   /ddg/
+  /eef/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 225:
+    -----
+   /dgg/
+  /aae/
+ /cee/
+-----
+    -----
+   /ddg/
+  /acf/
+ /cce/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 226:
+    -----
+   /dgg/
+  /cce/
+ /aee/
+-----
+    -----
+   /ddg/
+  /acf/
+ /ace/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 227:
+    -----
+   /dgg/
+  /dde/
+ /dee/
+-----
+    -----
+   /ccg/
+  /acf/
+ /aae/
+-----
     -----
    /cbg/
   /bbf/
  /bff/
 -----
+Solution 228:
     -----
-   /cdg/
-  /ccg/
- /efg/
------
-    -----
-   /ddd/
-  /eaa/
- /eea/
------
-Solution 392:
-    -----
-   /dcc/
-  /dcb/
- /dgg/
------
-    -----
-   /aae/
-  /dcb/
- /fgb/
------
-    -----
-   /aee/
-  /ffe/
- /fgb/
------
-Solution 393:
-    -----
-   /ffc/
-  /fcc/
- /daa/
------
-    -----
-   /gfc/
-  /dbb/
- /dae/
------
-    -----
-   /ggg/
-  /bbe/
- /dee/
------
-Solution 394:
-    -----
-   /ddd/
-  /edb/
- /ggg/
------
-    -----
-   /ecf/
-  /eeb/
- /gab/
------
-    -----
-   /ccf/
-  /cff/
- /aab/
------
-Solution 395:
-    -----
-   /bbg/
-  /cbb/
- /ccd/
------
-    -----
-   /eeg/
-  /fed/
- /fcd/
------
-    -----
-   /aeg/
-  /aag/
- /ffd/
------
-Solution 396:
-    -----
-   /ggg/
+   /dgg/
   /cce/
  /cee/
 -----
     -----
-   /bdg/
-  /bfa/
- /cfe/
+   /ddg/
+  /aaf/
+ /cae/
 -----
-    -----
-   /ddd/
-  /baa/
- /bff/
------
-Solution 397:
-    -----
-   /gga/
-  /cce/
- /cee/
------
-    -----
-   /gaa/
-  /ffd/
- /cfe/
------
-    -----
-   /gbd/
-  /bbd/
- /bfd/
------
-Solution 398:
-    -----
-   /bgg/
-  /bbg/
- /abg/
------
-    -----
-   /ffe/
-  /dfc/
- /aac/
------
-    -----
-   /dee/
-  /dfe/
- /dcc/
------
-Solution 399:
     -----
    /dbg/
-  /ddc/
- /dcc/
+  /bbf/
+ /bff/
 -----
-    -----
-   /bbg/
-  /afc/
- /ffe/
------
-    -----
-   /bgg/
-  /aae/
- /fee/
------
-Solution 400:
-    -----
-   /fed/
-  /ffd/
- /ccd/
------
-    -----
-   /fee/
-  /ced/
- /cbb/
------
+Solution 229:
     -----
    /agg/
-  /aag/
- /bbg/
------
-Solution 401:
-    -----
-   /gbf/
-  /gbf/
- /gga/
------
-    -----
-   /cff/
-  /cba/
- /eba/
------
-    -----
-   /ccd/
-  /edd/
- /eed/
------
-Solution 402:
-    -----
-   /aee/
   /aae/
- /ccb/
+ /dee/
 -----
     -----
-   /ffe/
-  /cfb/
- /cdb/
+   /ffg/
+  /fcc/
+ /dde/
 -----
     -----
-   /ggg/
-  /gfb/
- /ddd/
+   /bfg/
+  /bbc/
+ /dbc/
 -----
-Solution 403:
+Solution 230:
     -----
-   /eeg/
-  /eag/
- /dag/
------
-    -----
-   /ecg/
-  /dff/
- /daf/
+   /dgg/
+  /fae/
+ /fee/
 -----
     -----
-   /ccb/
-  /cbb/
- /dbf/
------
-Solution 404:
-    -----
-   /cca/
-  /cfg/
- /ggg/
------
-    -----
-   /bba/
-  /cfa/
+   /ddg/
+  /caa/
  /ffe/
 -----
     -----
-   /dbb/
-  /dde/
+   /dbg/
+  /cbb/
+ /ccb/
+-----
+Solution 231:
+    -----
+   /dgg/
+  /cce/
+ /cee/
+-----
+    -----
+   /dag/
+  /daa/
+ /cfe/
+-----
+    -----
+   /dbg/
+  /fbb/
+ /ffb/
+-----
+Solution 232:
+    -----
+   /agg/
+  /aae/
  /dee/
 -----
-Solution 405:
     -----
-   /ffa/
-  /bba/
- /dbb/
+   /ffg/
+  /dcc/
+ /dce/
 -----
     -----
-   /fcc/
-  /fca/
- /dde/
+   /fbg/
+  /fbb/
+ /dcb/
+-----
+Solution 233:
+    -----
+   /dgg/
+  /fae/
+ /faa/
 -----
     -----
-   /ggg/
-  /gce/
- /dee/
------
-Solution 406:
-    -----
-   /gff/
-  /bbf/
- /dbb/
+   /ddg/
+  /cee/
+ /ffe/
 -----
     -----
-   /gcc/
-  /def/
- /daa/
+   /dbg/
+  /cbb/
+ /ccb/
+-----
+Solution 234:
+    -----
+   /dgg/
+  /fee/
+ /fea/
 -----
     -----
-   /ggc/
-  /eec/
- /dea/
------
-Solution 407:
-    -----
-   /abd/
-  /bbd/
- /bed/
+   /ddg/
+  /cea/
+ /ffa/
 -----
     -----
-   /acf/
-  /aed/
- /eeg/
+   /dbg/
+  /cbb/
+ /ccb/
 -----
+Solution 235:
     -----
-   /ccf/
-  /cff/
- /ggg/
------
-Solution 408:
-    -----
-   /ccb/
-  /aab/
- /ddd/
------
-    -----
-   /ecf/
-  /acb/
- /gdb/
------
-    -----
-   /eef/
-  /eff/
- /ggg/
------
-Solution 409:
-    -----
-   /bff/
-  /gfc/
- /gcc/
------
-    -----
-   /baf/
-  /bec/
- /gee/
------
-    -----
-   /aad/
-  /bdd/
- /ged/
------
-Solution 410:
-    -----
-   /gff/
-  /bfc/
- /dcc/
------
-    -----
-   /gaf/
-  /bbc/
- /dde/
------
-    -----
-   /gaa/
-  /gbe/
- /dee/
------
-Solution 411:
-    -----
-   /ggg/
+   /dgg/
   /eaa/
- /eea/
+ /eef/
 -----
     -----
-   /gbb/
-  /ffd/
- /ecc/
+   /ddg/
+  /cfa/
+ /eff/
 -----
     -----
-   /bbd/
-  /fcd/
- /fcd/
+   /dbg/
+  /cbb/
+ /ccb/
 -----
-Solution 412:
+Solution 236:
     -----
-   /dee/
-  /bbe/
- /ggg/
+   /agg/
+  /eff/
+ /eef/
 -----
     -----
-   /dae/
+   /aag/
+  /dcc/
+ /ecf/
+-----
+    -----
+   /dbg/
   /dbb/
- /fcg/
+ /dcb/
 -----
+Solution 237:
     -----
-   /daa/
-  /ffc/
- /fcc/
------
-Solution 413:
-    -----
-   /ggg/
+   /agg/
   /ecc/
  /eec/
 -----
     -----
-   /fag/
-  /fcd/
- /ebb/
+   /aag/
+  /dcf/
+ /eff/
 -----
+    -----
+   /dbg/
+  /dbb/
+ /dfb/
+-----
+Solution 238:
+    -----
+   /dgg/
+  /ecc/
+ /eea/
+-----
+    -----
+   /dcg/
+  /dca/
+ /efa/
+-----
+    -----
+   /dbg/
+  /fbb/
+ /ffb/
+-----
+Solution 239:
+    -----
+   /dgg/
+  /eff/
+ /eea/
+-----
+    -----
+   /ddg/
+  /cfa/
+ /efa/
+-----
+    -----
+   /dbg/
+  /cbb/
+ /ccb/
+-----
+Solution 240:
+    -----
+   /dgg/
+  /eff/
+ /eef/
+-----
+    -----
+   /ddg/
+  /caa/
+ /eaf/
+-----
+    -----
+   /dbg/
+  /cbb/
+ /ccb/
+-----
+Solution 241:
+    -----
+   /aaf/
+  /bff/
+ /ggd/
+-----
+    -----
+   /cae/
+  /bfd/
+ /bgd/
+-----
+    -----
+   /cee/
+  /cce/
+ /bgd/
+-----
+Solution 242:
     -----
    /aad/
-  /ffd/
- /bbd/
------
-Solution 414:
-    -----
-   /gbb/
-  /bbc/
- /dcc/
+  /bdd/
+ /ggd/
 -----
     -----
-   /gaa/
+   /cae/
+  /bff/
+ /bgf/
+-----
+    -----
+   /cee/
+  /cce/
+ /bgf/
+-----
+Solution 243:
+    -----
+   /ccd/
+  /bdd/
+ /ggd/
+-----
+    -----
+   /bce/
+  /bca/
+ /fga/
+-----
+    -----
+   /bee/
+  /ffe/
+ /fga/
+-----
+Solution 244:
+    -----
+   /ddd/
+  /bcc/
+ /ggc/
+-----
+    -----
+   /bde/
+  /bca/
+ /fga/
+-----
+    -----
+   /bee/
+  /ffe/
+ /fga/
+-----
+Solution 245:
+    -----
+   /cca/
+  /baa/
+ /ggd/
+-----
+    -----
+   /bce/
+  /bcd/
+ /fgd/
+-----
+    -----
+   /bee/
+  /ffe/
+ /fgd/
+-----
+Solution 246:
+    -----
+   /ddd/
+  /baa/
+ /gga/
+-----
+    -----
+   /cde/
+  /bff/
+ /bgf/
+-----
+    -----
+   /cee/
+  /cce/
+ /bgf/
+-----
+Solution 247:
+    -----
+   /ddd/
+  /bdf/
+ /ggf/
+-----
+    -----
+   /eaa/
+  /bff/
+ /bgc/
+-----
+    -----
+   /eea/
+  /ecc/
+ /bgc/
+-----
+Solution 248:
+    -----
+   /ffd/
+  /bfd/
+ /ggd/
+-----
+    -----
+   /eaa/
+  /bfd/
+ /bgc/
+-----
+    -----
+   /eea/
+  /ecc/
+ /bgc/
+-----
+Solution 249:
+    -----
+   /ccd/
+  /bdd/
+ /ggd/
+-----
+    -----
+   /ecf/
+  /bca/
+ /bga/
+-----
+    -----
+   /eef/
+  /eff/
+ /bga/
+-----
+Solution 250:
+    -----
+   /ddd/
+  /bcc/
+ /ggc/
+-----
+    -----
+   /edf/
+  /bca/
+ /bga/
+-----
+    -----
+   /eef/
+  /eff/
+ /bga/
+-----
+Solution 251:
+    -----
+   /aaf/
+  /baf/
+ /ggd/
+-----
+    -----
+   /eff/
+  /bcd/
+ /bgd/
+-----
+    -----
+   /eec/
+  /ecc/
+ /bgd/
+-----
+Solution 252:
+    -----
+   /aad/
+  /baf/
+ /ggf/
+-----
+    -----
+   /edd/
+  /bff/
+ /bgc/
+-----
+    -----
+   /eed/
+  /ecc/
+ /bgc/
+-----
+Solution 253:
+    -----
+   /aad/
+  /bad/
+ /ggd/
+-----
+    -----
+   /eff/
+  /bfd/
+ /bgc/
+-----
+    -----
+   /eef/
+  /ecc/
+ /bgc/
+-----
+Solution 254:
+    -----
+   /aaf/
+  /baf/
+ /ggc/
+-----
+    -----
+   /eff/
+  /bcc/
+ /bgc/
+-----
+    -----
+   /eed/
+  /edd/
+ /bgd/
+-----
+Solution 255:
+    -----
+   /ddd/
+  /bff/
+ /ggf/
+-----
+    -----
+   /edc/
+  /bcc/
+ /bgf/
+-----
+    -----
+   /eec/
+  /eaa/
+ /bga/
+-----
+Solution 256:
+    -----
+   /ccd/
+  /bff/
+ /ggf/
+-----
+    -----
+   /ecd/
+  /bcd/
+ /bgf/
+-----
+    -----
+   /eed/
+  /eaa/
+ /bga/
+-----
+Solution 257:
+    -----
+   /cca/
+  /baa/
+ /ggd/
+-----
+    -----
+   /ecf/
+  /bcd/
+ /bgd/
+-----
+    -----
+   /eef/
+  /eff/
+ /bgd/
+-----
+Solution 258:
+    -----
+   /cca/
+  /bff/
+ /ggf/
+-----
+    -----
+   /eca/
+  /bca/
+ /bgf/
+-----
+    -----
+   /eed/
+  /edd/
+ /bgd/
+-----
+Solution 259:
+    -----
+   /ffd/
+  /bfa/
+ /gga/
+-----
+    -----
+   /edd/
+  /bfa/
+ /bgc/
+-----
+    -----
+   /eed/
+  /ecc/
+ /bgc/
+-----
+Solution 260:
+    -----
+   /ddd/
+  /bda/
+ /gga/
+-----
+    -----
+   /eff/
+  /bfa/
+ /bgc/
+-----
+    -----
+   /eef/
+  /ecc/
+ /bgc/
+-----
+Solution 261:
+    -----
+   /eeb/
+  /eff/
+ /ggf/
+-----
+    -----
+   /ebb/
+  /ccd/
+ /cgf/
+-----
+    -----
+   /abd/
+  /aad/
+ /cgd/
+-----
+Solution 262:
+    -----
+   /fcc/
   /ffc/
- /dde/
+ /bgg/
 -----
     -----
-   /gfa/
-  /gfe/
- /dee/
+   /fce/
+  /bee/
+ /bag/
 -----
-Solution 415:
+    -----
+   /ddd/
+  /bde/
+ /aag/
+-----
+Solution 263:
+    -----
+   /fcc/
+  /ffc/
+ /bgg/
+-----
+    -----
+   /fce/
+  /aee/
+ /bbg/
+-----
+    -----
+   /ddd/
+  /ade/
+ /abg/
+-----
+Solution 264:
+    -----
+   /fcc/
+  /ffc/
+ /bgg/
+-----
+    -----
+   /fce/
+  /dee/
+ /bbg/
+-----
+    -----
+   /daa/
+  /dae/
+ /dbg/
+-----
+Solution 265:
+    -----
+   /dff/
+  /ddf/
+ /dgg/
+-----
+    -----
+   /acc/
+  /aef/
+ /eeg/
+-----
+    -----
+   /abc/
+  /bbc/
+ /beg/
+-----
+Solution 266:
+    -----
+   /dff/
+  /ddf/
+ /dgg/
+-----
+    -----
+   /bcc/
+  /bef/
+ /eeg/
+-----
+    -----
+   /aac/
+  /bac/
+ /beg/
+-----
+Solution 267:
     -----
    /dbf/
   /bbf/
@@ -6639,327 +4753,1719 @@ Solution 415:
   /aac/
  /aeg/
 -----
-Solution 416:
+Solution 268:
     -----
-   /bca/
-  /eca/
- /eef/
------
-    -----
-   /bcc/
-  /bfa/
- /eff/
------
-    -----
-   /ddd/
-  /bdg/
- /ggg/
------
-Solution 417:
-    -----
-   /ccd/
-  /ffg/
- /ggg/
------
-    -----
-   /ecd/
-  /fcd/
- /faa/
------
-    -----
-   /eed/
-  /ebb/
- /bba/
------
-Solution 418:
-    -----
-   /dcb/
-  /ecc/
- /eef/
------
-    -----
-   /dbb/
-  /dfc/
- /eff/
------
-    -----
-   /dba/
-  /gaa/
- /ggg/
------
-Solution 419:
-    -----
-   /abb/
-  /afc/
- /ffc/
------
-    -----
-   /bbe/
-  /aee/
- /fcc/
------
-    -----
-   /ggg/
-  /gde/
- /ddd/
------
-Solution 420:
-    -----
-   /gad/
-  /cad/
- /cbd/
------
-    -----
-   /gaf/
-  /ccd/
- /ebb/
------
-    -----
-   /ggf/
-  /eff/
- /eeb/
------
-Solution 421:
-    -----
-   /gff/
-  /gcf/
- /bcc/
------
-    -----
-   /gae/
+   /aaf/
   /baf/
- /bdc/
+ /bgg/
 -----
     -----
-   /gee/
-  /bae/
- /ddd/
+   /bff/
+  /bec/
+ /eeg/
 -----
-Solution 422:
-    -----
-   /ggb/
-  /fee/
- /fea/
------
-    -----
-   /gbb/
-  /cea/
- /ffa/
------
-    -----
-   /gbd/
-  /cdd/
- /ccd/
------
-Solution 423:
     -----
    /dcc/
-  /eeg/
- /beg/
+  /ddc/
+ /deg/
 -----
-    -----
-   /dfc/
-  /dec/
- /bbg/
------
+Solution 269:
     -----
    /dff/
   /aaf/
- /abg/
------
-Solution 424:
-    -----
-   /ggg/
-  /gbb/
- /bbd/
+ /agg/
 -----
     -----
-   /ecc/
-  /ffd/
- /fad/
+   /dcc/
+  /def/
+ /eeg/
 -----
     -----
-   /eec/
-  /efc/
- /aad/
+   /dbc/
+  /bbc/
+ /beg/
 -----
-Solution 425:
+Solution 270:
     -----
-   /gcc/
-  /gdc/
- /ddd/
------
-    -----
-   /gce/
-  /abb/
- /bbf/
+   /abf/
+  /bbf/
+ /bgg/
 -----
     -----
-   /gee/
-  /afe/
- /aff/
+   /aff/
+  /aec/
+ /eeg/
 -----
-Solution 426:
+    -----
+   /dcc/
+  /ddc/
+ /deg/
+-----
+Solution 271:
+    -----
+   /ddd/
+  /fdb/
+ /fgg/
+-----
+    -----
+   /aab/
+  /ceb/
+ /ffg/
+-----
+    -----
+   /aeb/
+  /cee/
+ /ccg/
+-----
+Solution 272:
+    -----
+   /bbd/
+  /fbb/
+ /fgg/
+-----
+    -----
+   /aad/
+  /ced/
+ /ffg/
+-----
+    -----
+   /aed/
+  /cee/
+ /ccg/
+-----
+Solution 273:
+    -----
+   /daa/
+  /ccb/
+ /cgg/
+-----
+    -----
+   /dab/
+  /deb/
+ /cfg/
+-----
+    -----
+   /deb/
+  /fee/
+ /ffg/
+-----
+Solution 274:
+    -----
+   /dba/
+  /cca/
+ /cgg/
+-----
+    -----
+   /dbb/
+  /dea/
+ /cfg/
+-----
+    -----
+   /deb/
+  /fee/
+ /ffg/
+-----
+Solution 275:
+    -----
+   /ddd/
+  /ccb/
+ /cgg/
+-----
+    -----
+   /adb/
+  /aeb/
+ /cfg/
+-----
+    -----
+   /aeb/
+  /fee/
+ /ffg/
+-----
+Solution 276:
+    -----
+   /fcc/
+  /ffc/
+ /bgg/
+-----
+    -----
+   /fca/
+  /dea/
+ /bbg/
+-----
+    -----
+   /dea/
+  /dee/
+ /dbg/
+-----
+Solution 277:
+    -----
+   /daa/
+  /fab/
+ /fgg/
+-----
+    -----
+   /ddb/
+  /ceb/
+ /ffg/
+-----
+    -----
+   /deb/
+  /cee/
+ /ccg/
+-----
+Solution 278:
+    -----
+   /ddd/
+  /bdc/
+ /bgg/
+-----
+    -----
+   /baf/
+  /bcc/
+ /ecg/
+-----
+    -----
+   /aaf/
+  /eff/
+ /eeg/
+-----
+Solution 279:
+    -----
+   /dff/
+  /ddf/
+ /dgg/
+-----
+    -----
+   /acc/
+  /abf/
+ /ebg/
+-----
+    -----
+   /abc/
+  /ebc/
+ /eeg/
+-----
+Solution 280:
+    -----
+   /dbf/
+  /bbf/
+ /bgg/
+-----
+    -----
+   /dff/
+  /dac/
+ /eag/
+-----
+    -----
+   /dcc/
+  /eac/
+ /eeg/
+-----
+Solution 281:
+    -----
+   /dff/
+  /ddf/
+ /dgg/
+-----
+    -----
+   /bcc/
+  /bbf/
+ /ebg/
+-----
+    -----
+   /aac/
+  /eac/
+ /eeg/
+-----
+Solution 282:
+    -----
+   /dbc/
+  /dcc/
+ /dgg/
+-----
+    -----
+   /bbc/
+  /dff/
+ /efg/
+-----
+    -----
+   /baa/
+  /eaf/
+ /eeg/
+-----
+Solution 283:
     -----
    /ffd/
-  /fad/
- /aad/
+  /aac/
+ /agg/
 -----
     -----
-   /gfe/
-  /gcd/
- /gcc/
+   /fdd/
+  /fcc/
+ /ecg/
+-----
+    -----
+   /bbd/
+  /ebb/
+ /eeg/
+-----
+Solution 284:
+    -----
+   /dff/
+  /aaf/
+ /agg/
+-----
+    -----
+   /dcc/
+  /dbf/
+ /ebg/
+-----
+    -----
+   /dbc/
+  /ebc/
+ /eeg/
+-----
+Solution 285:
+    -----
+   /dba/
+  /daa/
+ /dgg/
+-----
+    -----
+   /bbc/
+  /dff/
+ /efg/
+-----
+    -----
+   /bcc/
+  /ecf/
+ /eeg/
+-----
+Solution 286:
+    -----
+   /dba/
+  /daa/
+ /dgg/
+-----
+    -----
+   /bbf/
+  /dcf/
+ /ecg/
+-----
+    -----
+   /bff/
+  /ecc/
+ /eeg/
+-----
+Solution 287:
+    -----
+   /dba/
+  /dba/
+ /dgg/
+-----
+    -----
+   /fcc/
+  /dba/
+ /ebg/
+-----
+    -----
+   /ffc/
+  /efc/
+ /eeg/
+-----
+Solution 288:
+    -----
+   /aac/
+  /bcc/
+ /bgg/
+-----
+    -----
+   /bac/
+  /bff/
+ /efg/
+-----
+    -----
+   /ddd/
+  /edf/
+ /eeg/
+-----
+Solution 289:
+    -----
+   /dff/
+  /ddf/
+ /dgg/
+-----
+    -----
+   /cbe/
+  /bbf/
+ /bag/
+-----
+    -----
+   /cee/
+  /cce/
+ /aag/
+-----
+Solution 290:
+    -----
+   /ddd/
+  /fdb/
+ /fgg/
+-----
+    -----
+   /aae/
+  /cbb/
+ /ffg/
+-----
+    -----
+   /aee/
+  /cbe/
+ /ccg/
+-----
+Solution 291:
+    -----
+   /daa/
+  /ccb/
+ /cgg/
+-----
+    -----
+   /dae/
+  /dbb/
+ /cfg/
+-----
+    -----
+   /dee/
+  /fbe/
+ /ffg/
+-----
+Solution 292:
+    -----
+   /faa/
+  /ffc/
+ /dgg/
+-----
+    -----
+   /fae/
+  /dcc/
+ /dcg/
 -----
     -----
    /bee/
   /bbe/
- /gbc/
+ /dbg/
 -----
-Solution 427:
+Solution 293:
     -----
-   /eef/
-  /eaf/
- /ccb/
------
-    -----
-   /eff/
-  /cab/
- /cab/
+   /fcc/
+  /ffc/
+ /bgg/
 -----
     -----
-   /ddd/
-  /gdb/
- /ggg/
+   /fce/
+  /daa/
+ /bbg/
 -----
-Solution 428:
-    -----
-   /ddd/
-  /eaa/
- /bba/
------
-    -----
-   /edc/
-  /eef/
- /gbb/
------
-    -----
-   /gcc/
-  /gcf/
- /gff/
------
-Solution 429:
-    -----
-   /bed/
-  /eef/
- /gff/
------
-    -----
-   /bad/
-  /bed/
- /gfc/
------
-    -----
-   /aad/
-  /bcc/
- /ggc/
------
-Solution 430:
-    -----
-   /aad/
-  /bag/
- /ffg/
------
-    -----
-   /bcd/
-  /bfd/
- /efg/
------
-    -----
-   /bcd/
-  /ecc/
- /eeg/
------
-Solution 431:
     -----
    /dee/
-  /dce/
- /dcb/
+  /dae/
+ /dbg/
+-----
+Solution 294:
+    -----
+   /dbc/
+  /ddc/
+ /dgg/
+-----
+    -----
+   /bbe/
+  /fcc/
+ /aag/
+-----
+    -----
+   /bee/
+  /ffe/
+ /afg/
+-----
+Solution 295:
+    -----
+   /dbc/
+  /bbc/
+ /bgg/
+-----
+    -----
+   /dde/
+  /fcc/
+ /aag/
+-----
+    -----
+   /dee/
+  /ffe/
+ /afg/
+-----
+Solution 296:
+    -----
+   /dfc/
+  /dfc/
+ /dgg/
+-----
+    -----
+   /ffe/
+  /dcc/
+ /aag/
+-----
+    -----
+   /bee/
+  /bbe/
+ /abg/
+-----
+Solution 297:
+    -----
+   /dff/
+  /dcf/
+ /dgg/
+-----
+    -----
+   /cce/
+  /dcf/
+ /aag/
+-----
+    -----
+   /bee/
+  /bbe/
+ /abg/
+-----
+Solution 298:
+    -----
+   /afc/
+  /ffc/
+ /bgg/
 -----
     -----
    /aae/
-  /dfb/
- /ccb/
+  /fcc/
+ /bbg/
 -----
+    -----
+   /dee/
+  /dde/
+ /dbg/
+-----
+Solution 299:
+    -----
+   /abc/
+  /bbc/
+ /bgg/
+-----
+    -----
+   /aae/
+  /dcc/
+ /ffg/
+-----
+    -----
+   /dee/
+  /dfe/
+ /dfg/
+-----
+Solution 300:
+    -----
+   /afc/
+  /ffc/
+ /dgg/
+-----
+    -----
+   /aae/
+  /fcc/
+ /ddg/
+-----
+    -----
+   /bee/
+  /bbe/
+ /dbg/
+-----
+Solution 301:
     -----
    /aff/
-  /gfb/
- /ggg/
------
-Solution 432:
-    -----
-   /ggd/
-  /gff/
- /gbf/
+  /ccf/
+ /dgg/
 -----
     -----
-   /cdd/
-  /cea/
- /bbf/
+   /aae/
+  /dcf/
+ /dcg/
 -----
     -----
-   /ccd/
-  /eea/
- /bea/
+   /bee/
+  /bbe/
+ /dbg/
 -----
-Solution 433:
+Solution 302:
     -----
-   /ccf/
-  /acf/
- /abd/
------
-    -----
-   /cff/
-  /aed/
- /bbd/
+   /dfa/
+  /ffa/
+ /bgg/
 -----
     -----
-   /ggg/
-  /gee/
- /bed/
+   /dde/
+  /fca/
+ /bbg/
 -----
-Solution 434:
     -----
-   /bbd/
-  /cbb/
+   /dee/
+  /cce/
+ /cbg/
+-----
+Solution 303:
+    -----
+   /cba/
+  /cca/
+ /dgg/
+-----
+    -----
+   /bbe/
+  /fca/
+ /ddg/
+-----
+    -----
+   /bee/
+  /ffe/
+ /dfg/
+-----
+Solution 304:
+    -----
+   /dba/
+  /cca/
+ /cgg/
+-----
+    -----
+   /dbe/
+  /dba/
+ /cfg/
+-----
+    -----
+   /dee/
+  /fbe/
+ /ffg/
+-----
+Solution 305:
+    -----
+   /ffa/
+  /fba/
+ /dgg/
+-----
+    -----
+   /cfe/
+  /dba/
+ /dbg/
+-----
+    -----
+   /cee/
+  /cce/
+ /dbg/
+-----
+Solution 306:
+    -----
+   /cca/
+  /fca/
+ /fgg/
+-----
+    -----
+   /cbe/
+  /dba/
+ /ffg/
+-----
+    -----
+   /dee/
+  /dbe/
+ /dbg/
+-----
+Solution 307:
+    -----
+   /dca/
+  /dda/
+ /dgg/
+-----
+    -----
+   /cce/
+  /cfa/
+ /ffg/
+-----
+    -----
+   /bee/
+  /bbe/
+ /fbg/
+-----
+Solution 308:
+    -----
+   /dba/
+  /dba/
+ /dgg/
+-----
+    -----
+   /ffe/
+  /dba/
+ /cbg/
+-----
+    -----
+   /fee/
+  /fce/
+ /ccg/
+-----
+Solution 309:
+    -----
+   /fba/
+  /bba/
+ /bgg/
+-----
+    -----
+   /ffe/
+  /cfa/
  /ccg/
 -----
     -----
-   /ead/
-  /fad/
+   /dee/
+  /dde/
+ /dcg/
+-----
+Solution 310:
+    -----
+   /ddd/
+  /ccb/
+ /cgg/
+-----
+    -----
+   /ade/
+  /abb/
+ /cfg/
+-----
+    -----
+   /aee/
+  /fbe/
+ /ffg/
+-----
+Solution 311:
+    -----
+   /dff/
+  /ddf/
+ /dgg/
+-----
+    -----
+   /abe/
+  /abf/
+ /ccg/
+-----
+    -----
+   /aee/
+  /cbe/
+ /cbg/
+-----
+Solution 312:
+    -----
+   /dbc/
+  /ddc/
+ /dgg/
+-----
+    -----
+   /bbe/
+  /acc/
+ /ffg/
+-----
+    -----
+   /bee/
+  /afe/
+ /afg/
+-----
+Solution 313:
+    -----
+   /dbc/
+  /bbc/
+ /bgg/
+-----
+    -----
+   /dde/
+  /acc/
+ /ffg/
+-----
+    -----
+   /dee/
+  /afe/
+ /afg/
+-----
+Solution 314:
+    -----
+   /dba/
+  /daa/
+ /dgg/
+-----
+    -----
+   /bbe/
+  /dcc/
  /fcg/
 -----
     -----
-   /eed/
-  /eag/
+   /bee/
+  /ffe/
+ /fcg/
+-----
+Solution 315:
+    -----
+   /dba/
+  /daa/
+ /dgg/
+-----
+    -----
+   /bbe/
+  /dff/
+ /ccg/
+-----
+    -----
+   /bee/
+  /cfe/
+ /cfg/
+-----
+Solution 316:
+    -----
+   /dbc/
+  /ddc/
+ /dgg/
+-----
+    -----
+   /bbe/
+  /fcc/
  /ffg/
 -----
-Solution 435:
     -----
-   /eeg/
-  /efg/
- /ffb/
+   /bee/
+  /fae/
+ /aag/
+-----
+Solution 317:
+    -----
+   /dff/
+  /ccf/
+ /bgg/
 -----
     -----
-   /eag/
+   /dde/
+  /bcf/
+ /bcg/
+-----
+    -----
+   /dee/
+  /bae/
+ /aag/
+-----
+Solution 318:
+    -----
+   /dbc/
+  /bbc/
+ /bgg/
+-----
+    -----
+   /dde/
+  /fcc/
+ /ffg/
+-----
+    -----
+   /dee/
+  /fae/
+ /aag/
+-----
+Solution 319:
+    -----
+   /dbb/
+  /ddc/
+ /dgg/
+-----
+    -----
+   /bbe/
+  /fcc/
+ /fcg/
+-----
+    -----
+   /aee/
+  /aae/
+ /ffg/
+-----
+Solution 320:
+    -----
+   /cff/
+  /cbf/
+ /dgg/
+-----
+    -----
+   /cce/
+  /dbf/
+ /dbg/
+-----
+    -----
+   /aee/
+  /aae/
+ /dbg/
+-----
+Solution 321:
+    -----
+   /cff/
+  /ccf/
+ /bgg/
+-----
+    -----
+   /aae/
+  /acf/
+ /bbg/
+-----
+    -----
+   /dee/
+  /dde/
+ /dbg/
+-----
+Solution 322:
+    -----
+   /cff/
+  /ccf/
+ /dgg/
+-----
+    -----
+   /aae/
+  /acf/
+ /ddg/
+-----
+    -----
+   /bee/
+  /bbe/
+ /dbg/
+-----
+Solution 323:
+    -----
+   /daa/
+  /fab/
+ /fgg/
+-----
+    -----
+   /dde/
+  /cbb/
+ /ffg/
+-----
+    -----
+   /dee/
+  /cbe/
+ /ccg/
+-----
+Solution 324:
+    -----
+   /dfc/
+  /ffc/
+ /bgg/
+-----
+    -----
+   /dde/
+  /fcc/
+ /bbg/
+-----
+    -----
+   /dee/
+  /aae/
+ /abg/
+-----
+Solution 325:
+    -----
+   /fcc/
+  /ffc/
+ /dgg/
+-----
+    -----
+   /fce/
+  /daa/
+ /dag/
+-----
+    -----
+   /bee/
+  /bbe/
+ /dbg/
+-----
+Solution 326:
+    -----
+   /aac/
+  /fac/
+ /bgg/
+-----
+    -----
+   /ffe/
+  /fcc/
+ /bbg/
+-----
+    -----
+   /dee/
+  /dde/
+ /dbg/
+-----
+Solution 327:
+    -----
+   /afc/
+  /afc/
+ /bgg/
+-----
+    -----
+   /ffe/
+  /acc/
+ /bbg/
+-----
+    -----
+   /dee/
+  /dde/
+ /dbg/
+-----
+Solution 328:
+    -----
+   /aff/
+  /acf/
+ /bgg/
+-----
+    -----
+   /cce/
+  /acf/
+ /bbg/
+-----
+    -----
+   /dee/
+  /dde/
+ /dbg/
+-----
+Solution 329:
+    -----
+   /dff/
+  /aaf/
+ /bgg/
+-----
+    -----
+   /dde/
+  /acf/
+ /bbg/
+-----
+    -----
+   /dee/
+  /cce/
+ /cbg/
+-----
+Solution 330:
+    -----
+   /cff/
+  /caf/
+ /bgg/
+-----
+    -----
+   /cce/
+  /aaf/
+ /bbg/
+-----
+    -----
+   /dee/
+  /dde/
+ /dbg/
+-----
+Solution 331:
+    -----
+   /abc/
+  /aac/
+ /dgg/
+-----
+    -----
+   /bbe/
+  /fcc/
+ /ddg/
+-----
+    -----
+   /bee/
+  /ffe/
+ /dfg/
+-----
+Solution 332:
+    -----
+   /cff/
+  /cbf/
+ /agg/
+-----
+    -----
+   /cce/
+  /abf/
+ /abg/
+-----
+    -----
+   /dee/
+  /dde/
+ /dbg/
+-----
+Solution 333:
+    -----
+   /dff/
+  /aaf/
+ /agg/
+-----
+    -----
+   /dbe/
+  /dbf/
+ /ccg/
+-----
+    -----
+   /dee/
+  /cbe/
+ /cbg/
+-----
+Solution 334:
+    -----
+   /cff/
+  /caf/
+ /dgg/
+-----
+    -----
+   /cce/
+  /aaf/
+ /ddg/
+-----
+    -----
+   /bee/
+  /bbe/
+ /dbg/
+-----
+Solution 335:
+    -----
+   /afc/
+  /afc/
+ /dgg/
+-----
+    -----
+   /ffe/
+  /acc/
+ /ddg/
+-----
+    -----
+   /bee/
+  /bbe/
+ /dbg/
+-----
+Solution 336:
+    -----
+   /aff/
+  /acf/
+ /dgg/
+-----
+    -----
+   /cce/
+  /acf/
+ /ddg/
+-----
+    -----
+   /bee/
+  /bbe/
+ /dbg/
+-----
+Solution 337:
+    -----
+   /cff/
+  /caf/
+ /dgg/
+-----
+    -----
+   /cce/
+  /daf/
+ /dag/
+-----
+    -----
+   /bee/
+  /bbe/
+ /dbg/
+-----
+Solution 338:
+    -----
+   /aac/
+  /fac/
+ /dgg/
+-----
+    -----
+   /ffe/
+  /fcc/
+ /ddg/
+-----
+    -----
+   /bee/
+  /bbe/
+ /dbg/
+-----
+Solution 339:
+    -----
+   /dbf/
+  /bbf/
+ /bgg/
+-----
+    -----
+   /dff/
+  /dec/
+ /aag/
+-----
+    -----
+   /dcc/
+  /eec/
+ /aeg/
+-----
+Solution 340:
+    -----
+   /aaf/
+  /baf/
+ /dgg/
+-----
+    -----
+   /bff/
+  /bec/
+ /ddg/
+-----
+    -----
+   /bcc/
+  /eec/
+ /deg/
+-----
+Solution 341:
+    -----
+   /cca/
+  /fca/
+ /fgg/
+-----
+    -----
+   /cee/
+  /dea/
+ /ffg/
+-----
+    -----
+   /deb/
+  /dbb/
+ /dbg/
+-----
+Solution 342:
+    -----
+   /dff/
+  /ddf/
+ /dgg/
+-----
+    -----
+   /aee/
+  /aef/
+ /ccg/
+-----
+    -----
+   /aeb/
+  /cbb/
+ /cbg/
+-----
+Solution 343:
+    -----
+   /dff/
+  /aaf/
+ /agg/
+-----
+    -----
+   /dee/
+  /def/
+ /ccg/
+-----
+    -----
+   /deb/
+  /cbb/
+ /cbg/
+-----
+Solution 344:
+    -----
+   /fca/
+  /fcc/
+ /dgg/
+-----
+    -----
+   /eaa/
+  /ffc/
+ /ddg/
+-----
+    -----
+   /eeb/
+  /ebb/
+ /dbg/
+-----
+Solution 345:
+    -----
+   /dca/
+  /dcc/
+ /dgg/
+-----
+    -----
+   /eaa/
+  /dfc/
+ /ffg/
+-----
+    -----
+   /eeb/
+  /ebb/
+ /fbg/
+-----
+Solution 346:
+    -----
+   /caa/
   /ccb/
- /fdb/
+ /dgg/
 -----
     -----
-   /cag/
-  /cab/
- /ddd/
+   /eab/
+  /dcb/
+ /dfg/
 -----
-Solution 436:
+    -----
+   /eeb/
+  /eff/
+ /dfg/
+-----
+Solution 347:
+    -----
+   /daa/
+  /ddb/
+ /dgg/
+-----
+    -----
+   /eab/
+  /ccb/
+ /cfg/
+-----
+    -----
+   /eeb/
+  /eff/
+ /cfg/
+-----
+Solution 348:
+    -----
+   /daa/
+  /ddb/
+ /dgg/
+-----
+    -----
+   /eab/
+  /fcb/
+ /fcg/
+-----
+    -----
+   /eeb/
+  /ecc/
+ /ffg/
+-----
+Solution 349:
+    -----
+   /dbf/
+  /dff/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /dfc/
+ /aag/
+-----
+    -----
+   /eeb/
+  /ecc/
+ /acg/
+-----
+Solution 350:
+    -----
+   /ddd/
+  /cff/
+ /cgg/
+-----
+    -----
+   /edf/
+  /ccf/
+ /aag/
+-----
+    -----
+   /eeb/
+  /ebb/
+ /abg/
+-----
+Solution 351:
+    -----
+   /abf/
+  /aff/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /afc/
+ /ddg/
+-----
+    -----
+   /eeb/
+  /ecc/
+ /dcg/
+-----
+Solution 352:
+    -----
+   /afd/
+  /aff/
+ /cgg/
+-----
+    -----
+   /efd/
+  /acd/
+ /ccg/
+-----
+    -----
+   /eed/
+  /ebb/
+ /bbg/
+-----
+Solution 353:
+    -----
+   /dbc/
+  /ddc/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /acc/
+ /afg/
+-----
+    -----
+   /eeb/
+  /eff/
+ /afg/
+-----
+Solution 354:
+    -----
+   /dbf/
+  /dbf/
+ /dgg/
+-----
+    -----
+   /eff/
+  /dba/
+ /cbg/
+-----
+    -----
+   /eea/
+  /eca/
+ /ccg/
+-----
+Solution 355:
+    -----
+   /dcc/
+  /dfc/
+ /dgg/
+-----
+    -----
+   /eca/
+  /dfa/
+ /ffg/
+-----
+    -----
+   /eea/
+  /ebb/
+ /bbg/
+-----
+Solution 356:
+    -----
+   /bbd/
+  /abb/
+ /agg/
+-----
+    -----
+   /edd/
+  /aff/
+ /cfg/
+-----
+    -----
+   /eed/
+  /ecf/
+ /ccg/
+-----
+Solution 357:
+    -----
+   /bbd/
+  /abb/
+ /agg/
+-----
+    -----
+   /edd/
+  /afc/
+ /ffg/
+-----
+    -----
+   /eed/
+  /ecc/
+ /fcg/
+-----
+Solution 358:
+    -----
+   /ddd/
+  /adc/
+ /agg/
+-----
+    -----
+   /ecc/
+  /afc/
+ /ffg/
+-----
+    -----
+   /eeb/
+  /ebb/
+ /fbg/
+-----
+Solution 359:
+    -----
+   /dcc/
+  /ddc/
+ /dgg/
+-----
+    -----
+   /ecb/
+  /fbb/
+ /fbg/
+-----
+    -----
+   /eea/
+  /eaa/
+ /ffg/
+-----
+Solution 360:
+    -----
+   /abc/
+  /aac/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /dcc/
+ /dfg/
+-----
+    -----
+   /eeb/
+  /eff/
+ /dfg/
+-----
+Solution 361:
+    -----
+   /ccf/
+  /cff/
+ /dgg/
+-----
+    -----
+   /eaa/
+  /cfa/
+ /ddg/
+-----
+    -----
+   /eeb/
+  /ebb/
+ /dbg/
+-----
+Solution 362:
+    -----
+   /cba/
+  /cca/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /dca/
+ /dfg/
+-----
+    -----
+   /eeb/
+  /eff/
+ /dfg/
+-----
+Solution 363:
+    -----
+   /dba/
+  /dda/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /cca/
+ /cfg/
+-----
+    -----
+   /eeb/
+  /eff/
+ /cfg/
+-----
+Solution 364:
+    -----
+   /dba/
+  /dda/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /fca/
+ /fcg/
+-----
+    -----
+   /eeb/
+  /ecc/
+ /ffg/
+-----
+Solution 365:
+    -----
+   /dba/
+  /daa/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /dff/
+ /cfg/
+-----
+    -----
+   /eeb/
+  /ecf/
+ /ccg/
+-----
+Solution 366:
+    -----
+   /fba/
+  /faa/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /ffc/
+ /ddg/
+-----
+    -----
+   /eeb/
+  /ecc/
+ /dcg/
+-----
+Solution 367:
+    -----
+   /dba/
+  /daa/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /dfc/
+ /ffg/
+-----
+    -----
+   /eeb/
+  /ecc/
+ /fcg/
+-----
+Solution 368:
+    -----
+   /ddd/
+  /aab/
+ /agg/
+-----
+    -----
+   /edb/
+  /ccb/
+ /cfg/
+-----
+    -----
+   /eeb/
+  /eff/
+ /cfg/
+-----
+Solution 369:
+    -----
+   /ddd/
+  /aab/
+ /agg/
+-----
+    -----
+   /edb/
+  /fcb/
+ /fcg/
+-----
+    -----
+   /eeb/
+  /ecc/
+ /ffg/
+-----
+Solution 370:
+    -----
+   /fcd/
+  /fcc/
+ /agg/
+-----
+    -----
+   /edd/
+  /ffc/
+ /aag/
+-----
+    -----
+   /eed/
+  /ebb/
+ /bbg/
+-----
+Solution 371:
+    -----
+   /ccf/
+  /caf/
+ /dgg/
+-----
+    -----
+   /eff/
+  /caa/
+ /ddg/
+-----
+    -----
+   /eeb/
+  /ebb/
+ /dbg/
+-----
+Solution 372:
+    -----
+   /cca/
+  /cfa/
+ /dgg/
+-----
+    -----
+   /eff/
+  /cfa/
+ /ddg/
+-----
+    -----
+   /eeb/
+  /ebb/
+ /dbg/
+-----
+Solution 373:
+    -----
+   /fca/
+  /fca/
+ /dgg/
+-----
+    -----
+   /ecc/
+  /ffa/
+ /ddg/
+-----
+    -----
+   /eeb/
+  /ebb/
+ /dbg/
+-----
+Solution 374:
+    -----
+   /dca/
+  /dca/
+ /dgg/
+-----
+    -----
+   /ecc/
+  /dfa/
+ /ffg/
+-----
+    -----
+   /eeb/
+  /ebb/
+ /fbg/
+-----
+Solution 375:
     -----
    /ffc/
   /fcc/
@@ -6975,707 +6481,1683 @@ Solution 436:
   /ebb/
  /dbg/
 -----
-Solution 437:
+Solution 376:
     -----
-   /ggg/
-  /gab/
- /aad/
------
-    -----
-   /fcb/
-  /ffb/
- /edd/
------
-    -----
-   /fcb/
-  /ecc/
- /eed/
------
-Solution 438:
-    -----
-   /ggg/
-  /gff/
- /daa/
------
-    -----
-   /ccf/
-  /dcf/
- /dae/
------
-    -----
-   /cbb/
-  /bbe/
- /dee/
------
-Solution 439:
-    -----
-   /eeg/
-  /edb/
- /ddd/
------
-    -----
-   /ecg/
-  /ffb/
- /fab/
------
-    -----
-   /ccg/
-  /cfg/
- /aab/
------
-Solution 440:
-    -----
-   /bba/
-  /caa/
- /ggg/
------
-    -----
-   /ebb/
-  /cff/
- /ccg/
------
-    -----
-   /eef/
-  /edf/
- /ddd/
------
-Solution 441:
-    -----
-   /ggg/
-  /bag/
- /ddd/
------
-    -----
-   /ffc/
-  /baa/
- /bde/
------
-    -----
-   /fcc/
-  /fce/
- /bee/
------
-Solution 442:
-    -----
-   /aee/
-  /aae/
- /ddd/
------
-    -----
-   /bbe/
-  /ccf/
- /gdf/
------
-    -----
-   /cbb/
-  /cff/
- /ggg/
------
-Solution 443:
-    -----
-   /aee/
-  /aae/
- /ggg/
------
-    -----
-   /bde/
-  /bcc/
- /ffg/
------
-    -----
-   /ddd/
-  /bfc/
- /bfc/
------
-Solution 444:
-    -----
-   /eeg/
-  /ecg/
- /ccg/
------
-    -----
-   /ebb/
-  /fcd/
- /ffg/
------
-    -----
-   /bbd/
-  /fad/
- /aad/
------
-Solution 445:
-    -----
-   /ffc/
-  /fcc/
- /ggg/
------
-    -----
-   /bfc/
-  /bea/
- /eeg/
------
-    -----
-   /ddd/
-  /bda/
- /bea/
------
-Solution 446:
-    -----
-   /aff/
-  /aaf/
- /dbg/
------
-    -----
-   /ecc/
-  /dbf/
- /dbg/
------
-    -----
-   /eec/
-  /ebc/
+   /faa/
+  /fac/
  /dgg/
 -----
-Solution 447:
     -----
-   /aad/
-  /bfd/
- /bfd/
+   /ecc/
+  /ffc/
+ /ddg/
 -----
     -----
-   /bae/
-  /bcd/
- /gff/
+   /eeb/
+  /ebb/
+ /dbg/
 -----
+Solution 377:
     -----
-   /gee/
-  /gce/
- /gcc/
------
-Solution 448:
-    -----
-   /acc/
-  /aac/
- /ddd/
------
-    -----
-   /gce/
-  /gff/
- /gdf/
------
-    -----
-   /bee/
-  /bbe/
- /gbf/
------
-Solution 449:
-    -----
-   /cee/
-  /cfe/
- /afd/
------
-    -----
-   /cce/
-  /ffd/
- /aad/
------
-    -----
-   /ggb/
-  /gbb/
- /gbd/
------
-Solution 450:
-    -----
-   /ddd/
-  /gdb/
- /ggg/
------
-    -----
-   /cce/
-  /fcb/
- /ffb/
------
-    -----
-   /cee/
-  /fae/
- /aab/
------
-Solution 451:
-    -----
-   /eed/
-  /edd/
- /bbd/
+   /daa/
+  /dac/
+ /dgg/
 -----
     -----
    /ecc/
-  /afc/
- /abb/
+  /dfc/
+ /ffg/
 -----
     -----
-   /fcg/
-  /ffg/
- /agg/
+   /eeb/
+  /ebb/
+ /fbg/
 -----
-Solution 452:
+Solution 378:
+    -----
+   /dba/
+  /daa/
+ /dgg/
+-----
+    -----
+   /bbf/
+  /def/
+ /ccg/
+-----
+    -----
+   /bff/
+  /cee/
+ /ceg/
+-----
+Solution 379:
+    -----
+   /caa/
+  /cab/
+ /dgg/
+-----
+    -----
+   /ccb/
+  /feb/
+ /ddg/
+-----
+    -----
+   /ffb/
+  /fee/
+ /deg/
+-----
+Solution 380:
+    -----
+   /fee/
+  /ffe/
+ /bgg/
+-----
+    -----
+   /fce/
+  /dca/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /daa/
+ /dbg/
+-----
+Solution 381:
+    -----
+   /fee/
+  /ffe/
+ /bgg/
+-----
+    -----
+   /fde/
+  /bca/
+ /bcg/
+-----
+    -----
+   /ddd/
+  /baa/
+ /ccg/
+-----
+Solution 382:
+    -----
+   /eec/
+  /ecc/
+ /bgg/
+-----
+    -----
+   /edc/
+  /ffa/
+ /bbg/
+-----
+    -----
+   /ddd/
+  /faa/
+ /fbg/
+-----
+Solution 383:
     -----
    /dee/
   /cce/
- /ggg/
+ /cgg/
 -----
     -----
-   /dde/
-  /fca/
- /fcg/
+   /dfe/
+  /dbb/
+ /cag/
 -----
     -----
-   /dbb/
-  /bba/
- /ffa/
+   /dff/
+  /bbf/
+ /aag/
 -----
-Solution 453:
+Solution 384:
     -----
-   /gga/
-  /gba/
- /gbd/
------
-    -----
-   /cbf/
-  /cba/
- /edd/
------
-    -----
-   /ccf/
+   /eef/
   /eff/
- /eed/
------
-Solution 454:
-    -----
-   /gaa/
-  /gab/
- /ggd/
+ /bgg/
 -----
     -----
-   /ecc/
-  /fbb/
- /fdd/
+   /edc/
+  /bfc/
+ /bag/
 -----
     -----
-   /eec/
-  /ebc/
- /ffd/
+   /ddd/
+  /bcc/
+ /aag/
 -----
-Solution 455:
+Solution 385:
     -----
-   /ggg/
-  /bag/
- /aaf/
+   /fee/
+  /ffe/
+ /bgg/
+-----
+    -----
+   /fce/
+  /bcc/
+ /bag/
+-----
+    -----
+   /ddd/
+  /bdc/
+ /aag/
+-----
+Solution 386:
+    -----
+   /dee/
+  /dde/
+ /dgg/
+-----
+    -----
+   /cce/
+  /bff/
+ /bag/
+-----
+    -----
+   /bcf/
+  /bcf/
+ /aag/
+-----
+Solution 387:
+    -----
+   /dee/
+  /dde/
+ /dgg/
+-----
+    -----
+   /ffe/
+  /bfc/
+ /bag/
 -----
     -----
    /bcc/
   /bfc/
- /eff/
------
-    -----
-   /bcd/
-  /edd/
- /eed/
------
-Solution 456:
-    -----
-   /eeb/
-  /efc/
- /ffc/
------
-    -----
-   /edb/
-  /aab/
- /fcc/
------
-    -----
-   /ddd/
-  /gab/
- /ggg/
------
-Solution 457:
-    -----
-   /ddd/
-  /bdc/
- /ggg/
------
-    -----
-   /ecc/
-  /bfc/
- /bfg/
------
-    -----
-   /eea/
-  /eaa/
- /bff/
------
-Solution 458:
-    -----
-   /ddd/
-  /edc/
- /eec/
------
-    -----
-   /faa/
-  /ffa/
- /ecc/
------
-    -----
-   /fbg/
-  /bbg/
- /bgg/
------
-Solution 459:
-    -----
-   /gff/
-  /gfe/
- /gee/
------
-    -----
-   /bbf/
-  /dcc/
- /gce/
------
-    -----
-   /dbb/
-  /daa/
- /dca/
------
-Solution 460:
-    -----
-   /fee/
-  /ffe/
- /gga/
------
-    -----
-   /fce/
-  /ccd/
- /gaa/
------
-    -----
-   /bcd/
-  /bbd/
- /gbd/
------
-Solution 461:
-    -----
-   /daa/
-  /dae/
- /dee/
------
-    -----
-   /bbg/
-  /dbb/
- /fce/
------
-    -----
-   /ggg/
-  /ffc/
- /fcc/
------
-Solution 462:
-    -----
-   /ddd/
-  /cff/
- /cbb/
------
-    -----
-   /edf/
-  /ccf/
- /bbg/
------
-    -----
-   /eeg/
-  /eag/
  /aag/
 -----
-Solution 463:
+Solution 388:
     -----
-   /gbd/
-  /gbb/
- /ggb/
+   /dee/
+  /dbe/
+ /dgg/
 -----
     -----
-   /cdd/
-  /caa/
- /eff/
------
-    -----
-   /ccd/
-  /eaf/
- /eef/
------
-Solution 464:
-    -----
-   /bbd/
-  /gbb/
- /ggg/
------
-    -----
-   /ccd/
-  /cfd/
- /ffe/
------
-    -----
-   /aad/
-  /cae/
- /fee/
------
-Solution 465:
-    -----
-   /ddd/
-  /bcg/
- /ggg/
------
-    -----
-   /bdf/
-  /bcf/
- /ecc/
------
-    -----
-   /bff/
-  /eaa/
- /eea/
------
-Solution 466:
-    -----
-   /ddd/
-  /ccb/
- /caa/
------
-    -----
-   /gdb/
-  /ffb/
- /cae/
------
-    -----
-   /gfb/
-  /gfe/
- /gee/
------
-Solution 467:
-    -----
-   /ddd/
-  /gdf/
- /gff/
------
-    -----
-   /caa/
-  /cee/
- /gfe/
------
-    -----
-   /cca/
-  /bbe/
- /gbb/
------
-Solution 468:
-    -----
-   /dbb/
-  /bbe/
- /ggg/
------
-    -----
-   /dae/
-  /dee/
- /gfc/
------
-    -----
-   /daa/
-  /fcc/
- /ffc/
------
-Solution 469:
-    -----
-   /ggg/
-  /fbe/
- /fee/
------
-    -----
-   /aag/
-  /bbc/
- /ffe/
+   /aae/
+  /dbc/
+ /fbg/
 -----
     -----
    /acc/
-  /bdc/
- /ddd/
+  /ffc/
+ /fbg/
 -----
-Solution 470:
+Solution 389:
     -----
-   /dgg/
+   /dee/
+  /dde/
+ /dgg/
+-----
+    -----
+   /aae/
   /cff/
- /ccf/
+ /ccg/
 -----
     -----
-   /dag/
+   /abf/
+  /bbf/
+ /bcg/
+-----
+Solution 390:
+    -----
+   /eec/
+  /ecc/
+ /bgg/
+-----
+    -----
+   /efc/
   /daa/
- /ecf/
+ /bbg/
 -----
     -----
-   /dbg/
-  /ebb/
- /eeb/
+   /dff/
+  /daf/
+ /dbg/
 -----
-Solution 471:
+Solution 391:
     -----
    /bee/
-  /gde/
- /ddd/
+  /ffe/
+ /fgg/
+-----
+    -----
+   /bde/
+  /bfc/
+ /aag/
+-----
+    -----
+   /ddd/
+  /bcc/
+ /acg/
+-----
+Solution 392:
+    -----
+   /eef/
+  /eff/
+ /bgg/
+-----
+    -----
+   /eac/
+  /dfc/
+ /bbg/
+-----
+    -----
+   /daa/
+  /dcc/
+ /dbg/
+-----
+Solution 393:
+    -----
+   /eec/
+  /ecc/
+ /dgg/
+-----
+    -----
+   /eac/
+  /dff/
+ /dfg/
+-----
+    -----
+   /baa/
+  /bbf/
+ /dbg/
+-----
+Solution 394:
+    -----
+   /fee/
+  /ffe/
+ /bgg/
+-----
+    -----
+   /fae/
+  /dac/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /dac/
+ /dbg/
+-----
+Solution 395:
+    -----
+   /eec/
+  /ecc/
+ /dgg/
+-----
+    -----
+   /efc/
+  /aff/
+ /ddg/
+-----
+    -----
+   /afb/
+  /abb/
+ /dbg/
+-----
+Solution 396:
+    -----
+   /eef/
+  /eff/
+ /dgg/
+-----
+    -----
+   /ecc/
+  /afc/
+ /ddg/
+-----
+    -----
+   /acb/
+  /abb/
+ /dbg/
+-----
+Solution 397:
+    -----
+   /dee/
+  /dde/
+ /dgg/
 -----
     -----
    /bbe/
-  /gfc/
- /ffc/
+  /aff/
+ /cfg/
 -----
     -----
-   /gba/
-  /gaa/
- /fcc/
+   /abb/
+  /acf/
+ /ccg/
 -----
-Solution 472:
+Solution 398:
+    -----
+   /dee/
+  /dde/
+ /dgg/
+-----
+    -----
+   /bbe/
+  /afc/
+ /ffg/
+-----
+    -----
+   /abb/
+  /acc/
+ /fcg/
+-----
+Solution 399:
+    -----
+   /fee/
+  /ffe/
+ /dgg/
+-----
+    -----
+   /fbe/
+  /abc/
+ /ddg/
+-----
+    -----
+   /acc/
+  /abc/
+ /dbg/
+-----
+Solution 400:
+    -----
+   /bee/
+  /ffe/
+ /fgg/
+-----
+    -----
+   /bbe/
+  /cfa/
+ /ccg/
+-----
+    -----
+   /dba/
+  /dda/
+ /dcg/
+-----
+Solution 401:
+    -----
+   /bee/
+  /cce/
+ /cgg/
+-----
+    -----
+   /bbe/
+  /ffa/
+ /cfg/
+-----
+    -----
+   /dba/
+  /dda/
+ /dfg/
+-----
+Solution 402:
+    -----
+   /fee/
+  /ffe/
+ /bgg/
+-----
+    -----
+   /fce/
+  /cca/
+ /bbg/
+-----
+    -----
+   /dca/
+  /dda/
+ /dbg/
+-----
+Solution 403:
+    -----
+   /cee/
+  /cce/
+ /bgg/
+-----
+    -----
+   /ffe/
+  /fca/
+ /bbg/
+-----
+    -----
+   /dfa/
+  /dda/
+ /dbg/
+-----
+Solution 404:
+    -----
+   /dee/
+  /ffe/
+ /fgg/
+-----
+    -----
+   /dde/
+  /cfa/
+ /ccg/
+-----
+    -----
+   /dba/
+  /bba/
+ /bcg/
+-----
+Solution 405:
+    -----
+   /dee/
+  /cce/
+ /cgg/
+-----
+    -----
+   /dde/
+  /ffa/
+ /cfg/
+-----
+    -----
+   /dba/
+  /bba/
+ /bfg/
+-----
+Solution 406:
+    -----
+   /fee/
+  /ffe/
+ /dgg/
+-----
+    -----
+   /fce/
+  /cca/
+ /ddg/
+-----
+    -----
+   /bca/
+  /bba/
+ /dbg/
+-----
+Solution 407:
+    -----
+   /cee/
+  /cce/
+ /dgg/
+-----
+    -----
+   /ffe/
+  /fca/
+ /ddg/
+-----
+    -----
+   /bfa/
+  /bba/
+ /dbg/
+-----
+Solution 408:
+    -----
+   /eef/
+  /eff/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /dfa/
+ /dcg/
+-----
+    -----
+   /bba/
+  /cca/
+ /dcg/
+-----
+Solution 409:
+    -----
+   /eec/
+  /ecc/
+ /dgg/
+-----
+    -----
+   /ebc/
+  /fba/
+ /ddg/
+-----
+    -----
+   /ffa/
+  /fba/
+ /dbg/
+-----
+Solution 410:
+    -----
+   /bee/
+  /cce/
+ /cgg/
+-----
+    -----
+   /bbe/
+  /dff/
+ /cag/
+-----
+    -----
+   /dbf/
+  /daf/
+ /dag/
+-----
+Solution 411:
+    -----
+   /dee/
+  /dde/
+ /dgg/
+-----
+    -----
+   /afe/
+  /aff/
+ /ccg/
+-----
+    -----
+   /afb/
+  /cbb/
+ /cbg/
+-----
+Solution 412:
+    -----
+   /eef/
+  /eff/
+ /bgg/
+-----
+    -----
+   /eca/
+  /dfa/
+ /bbg/
+-----
+    -----
+   /dca/
+  /dcc/
+ /dbg/
+-----
+Solution 413:
+    -----
+   /eec/
+  /ecc/
+ /bgg/
+-----
+    -----
+   /eac/
+  /dff/
+ /bbg/
+-----
+    -----
+   /daf/
+  /daf/
+ /dbg/
+-----
+Solution 414:
+    -----
+   /eef/
+  /eff/
+ /bgg/
+-----
+    -----
+   /edc/
+  /afc/
+ /bbg/
+-----
     -----
    /ddd/
-  /eaa/
- /eea/
+  /acc/
+ /abg/
+-----
+Solution 415:
+    -----
+   /fee/
+  /ffe/
+ /bgg/
 -----
     -----
-   /bdc/
-  /bcc/
- /eff/
+   /fce/
+  /acc/
+ /bbg/
 -----
     -----
-   /ggc/
-  /bgf/
- /bgf/
+   /ddd/
+  /adc/
+ /abg/
 -----
-Solution 473:
+Solution 416:
     -----
-   /ggg/
-  /gee/
- /deb/
------
-    -----
-   /ffc/
-  /deb/
- /dab/
+   /eec/
+  /ecc/
+ /bgg/
 -----
     -----
-   /fcc/
-  /fcb/
- /daa/
------
-Solution 474:
-    -----
-   /dcg/
-  /ecg/
- /eea/
+   /efc/
+  /dff/
+ /bbg/
 -----
     -----
-   /ddg/
-  /cca/
- /efa/
+   /dfa/
+  /daa/
+ /dbg/
+-----
+Solution 417:
+    -----
+   /eef/
+  /eff/
+ /bgg/
 -----
     -----
-   /dbg/
-  /fbb/
- /ffb/
------
-Solution 475:
-    -----
-   /ccb/
-  /gce/
- /gee/
+   /ecc/
+  /dfc/
+ /bbg/
 -----
     -----
-   /cfb/
-  /ffb/
- /gae/
+   /dca/
+  /daa/
+ /dbg/
+-----
+Solution 418:
+    -----
+   /dee/
+  /fbe/
+ /fgg/
+-----
+    -----
+   /dde/
+  /bbc/
+ /ffg/
+-----
+    -----
+   /dcc/
+  /bac/
+ /aag/
+-----
+Solution 419:
+    -----
+   /bee/
+  /cce/
+ /cgg/
+-----
+    -----
+   /bde/
+  /bff/
+ /cfg/
+-----
+    -----
+   /ddd/
+  /baf/
+ /aag/
+-----
+Solution 420:
+    -----
+   /eec/
+  /ecc/
+ /bgg/
+-----
+    -----
+   /edc/
+  /bff/
+ /bfg/
+-----
+    -----
+   /ddd/
+  /baf/
+ /aag/
+-----
+Solution 421:
+    -----
+   /eef/
+  /ebf/
+ /dgg/
+-----
+    -----
+   /eff/
+  /dbc/
+ /dbg/
+-----
+    -----
+   /acc/
+  /aac/
+ /dbg/
+-----
+Solution 422:
+    -----
+   /deb/
+  /fee/
+ /fgg/
+-----
+    -----
+   /ddb/
+  /ceb/
+ /ffg/
+-----
+    -----
+   /daa/
+  /cab/
+ /ccg/
+-----
+Solution 423:
+    -----
+   /dee/
+  /fbe/
+ /fgg/
+-----
+    -----
+   /dde/
+  /cbb/
+ /ffg/
+-----
+    -----
+   /daa/
+  /cab/
+ /ccg/
+-----
+Solution 424:
+    -----
+   /fee/
+  /ffe/
+ /bgg/
+-----
+    -----
+   /fce/
+  /dcc/
+ /bbg/
+-----
+    -----
+   /daa/
+  /dac/
+ /dbg/
+-----
+Solution 425:
+    -----
+   /def/
+  /eef/
+ /bgg/
+-----
+    -----
+   /dff/
+  /dec/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /aac/
+ /abg/
+-----
+Solution 426:
+    -----
+   /dee/
+  /ffe/
+ /bgg/
+-----
+    -----
+   /dfe/
+  /dfc/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /aac/
+ /abg/
+-----
+Solution 427:
+    -----
+   /bee/
+  /aae/
+ /agg/
+-----
+    -----
+   /bbe/
+  /cff/
+ /ccg/
+-----
+    -----
+   /dbf/
+  /ddf/
+ /dcg/
+-----
+Solution 428:
+    -----
+   /aee/
+  /fbe/
+ /fgg/
+-----
+    -----
+   /aae/
+  /cbb/
+ /ffg/
+-----
+    -----
+   /ddd/
+  /cdb/
+ /ccg/
+-----
+Solution 429:
+    -----
+   /cee/
+  /cbe/
+ /agg/
+-----
+    -----
+   /cce/
+  /abb/
+ /afg/
 -----
     -----
    /ddd/
   /fdb/
- /gaa/
+ /ffg/
+-----
+Solution 430:
+    -----
+   /eef/
+  /ebf/
+ /agg/
+-----
+    -----
+   /eff/
+  /cbb/
+ /aag/
+-----
+    -----
+   /ddd/
+  /cdb/
+ /ccg/
+-----
+Solution 431:
+    -----
+   /eea/
+  /eaa/
+ /bgg/
+-----
+    -----
+   /edc/
+  /ffc/
+ /bbg/
+-----
+    -----
+   /ddd/
+  /fcc/
+ /fbg/
+-----
+Solution 432:
+    -----
+   /aee/
+  /aae/
+ /bgg/
+-----
+    -----
+   /cce/
+  /dff/
+ /bbg/
+-----
+    -----
+   /dcf/
+  /dcf/
+ /dbg/
+-----
+Solution 433:
+    -----
+   /fee/
+  /ffe/
+ /bgg/
+-----
+    -----
+   /fae/
+  /aac/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /ddc/
+ /dbg/
+-----
+Solution 434:
+    -----
+   /aee/
+  /aae/
+ /bgg/
+-----
+    -----
+   /ffe/
+  /dfc/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /dfc/
+ /dbg/
+-----
+Solution 435:
+    -----
+   /fee/
+  /aae/
+ /bgg/
+-----
+    -----
+   /ffe/
+  /afc/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /ddc/
+ /dbg/
+-----
+Solution 436:
+    -----
+   /aee/
+  /ffe/
+ /bgg/
+-----
+    -----
+   /afe/
+  /afc/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /ddc/
+ /dbg/
+-----
+Solution 437:
+    -----
+   /aef/
+  /eef/
+ /bgg/
+-----
+    -----
+   /aff/
+  /aec/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /ddc/
+ /dbg/
+-----
+Solution 438:
+    -----
+   /aaf/
+  /eaf/
+ /bgg/
+-----
+    -----
+   /eff/
+  /eec/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /ddc/
+ /dbg/
+-----
+Solution 439:
+    -----
+   /eef/
+  /eaf/
+ /bgg/
+-----
+    -----
+   /eff/
+  /aac/
+ /bbg/
+-----
+    -----
+   /dcc/
+  /ddc/
+ /dbg/
+-----
+Solution 440:
+    -----
+   /eea/
+  /eaa/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /dff/
+ /dcg/
+-----
+    -----
+   /bbf/
+  /ccf/
+ /dcg/
+-----
+Solution 441:
+    -----
+   /bee/
+  /aae/
+ /agg/
+-----
+    -----
+   /bde/
+  /bff/
+ /cfg/
+-----
+    -----
+   /ddd/
+  /bcf/
+ /ccg/
+-----
+Solution 442:
+    -----
+   /bee/
+  /aae/
+ /agg/
+-----
+    -----
+   /bde/
+  /bfc/
+ /ffg/
+-----
+    -----
+   /ddd/
+  /bcc/
+ /fcg/
+-----
+Solution 443:
+    -----
+   /aeb/
+  /fee/
+ /fgg/
+-----
+    -----
+   /aab/
+  /ceb/
+ /ffg/
+-----
+    -----
+   /ddd/
+  /cdb/
+ /ccg/
+-----
+Solution 444:
+    -----
+   /ceb/
+  /cee/
+ /agg/
+-----
+    -----
+   /ccb/
+  /aeb/
+ /afg/
+-----
+    -----
+   /ddd/
+  /fdb/
+ /ffg/
+-----
+Solution 445:
+    -----
+   /eeb/
+  /ecc/
+ /agg/
+-----
+    -----
+   /ecb/
+  /acb/
+ /afg/
+-----
+    -----
+   /ddd/
+  /fdb/
+ /ffg/
+-----
+Solution 446:
+    -----
+   /dee/
+  /abe/
+ /agg/
+-----
+    -----
+   /dde/
+  /abc/
+ /fbg/
+-----
+    -----
+   /dcc/
+  /ffc/
+ /fbg/
+-----
+Solution 447:
+    -----
+   /eef/
+  /ebf/
+ /agg/
+-----
+    -----
+   /eff/
+  /abc/
+ /abg/
+-----
+    -----
+   /dcc/
+  /ddc/
+ /dbg/
+-----
+Solution 448:
+    -----
+   /eea/
+  /eba/
+ /dgg/
+-----
+    -----
+   /ecf/
+  /dba/
+ /dbg/
+-----
+    -----
+   /ccf/
+  /cff/
+ /dbg/
+-----
+Solution 449:
+    -----
+   /eea/
+  /eaa/
+ /bgg/
+-----
+    -----
+   /eff/
+  /bcf/
+ /bcg/
+-----
+    -----
+   /ddd/
+  /bdf/
+ /ccg/
+-----
+Solution 450:
+    -----
+   /ced/
+  /cee/
+ /agg/
+-----
+    -----
+   /ccd/
+  /fed/
+ /aag/
+-----
+    -----
+   /ffd/
+  /fbb/
+ /bbg/
+-----
+Solution 451:
+    -----
+   /aed/
+  /fee/
+ /fgg/
+-----
+    -----
+   /acd/
+  /aed/
+ /ffg/
+-----
+    -----
+   /ccd/
+  /cbb/
+ /bbg/
+-----
+Solution 452:
+    -----
+   /eed/
+  /eaa/
+ /cgg/
+-----
+    -----
+   /edd/
+  /fca/
+ /ccg/
+-----
+    -----
+   /ffd/
+  /fbb/
+ /bbg/
+-----
+Solution 453:
+    -----
+   /eed/
+  /ecc/
+ /agg/
+-----
+    -----
+   /ecd/
+  /fcd/
+ /aag/
+-----
+    -----
+   /ffd/
+  /fbb/
+ /bbg/
+-----
+Solution 454:
+    -----
+   /eed/
+  /eff/
+ /agg/
+-----
+    -----
+   /ecd/
+  /afd/
+ /afg/
+-----
+    -----
+   /ccd/
+  /cbb/
+ /bbg/
+-----
+Solution 455:
+    -----
+   /aed/
+  /fee/
+ /fgg/
+-----
+    -----
+   /aad/
+  /ced/
+ /ffg/
+-----
+    -----
+   /bbd/
+  /cbb/
+ /ccg/
+-----
+Solution 456:
+    -----
+   /ced/
+  /cee/
+ /agg/
+-----
+    -----
+   /ccd/
+  /aed/
+ /afg/
+-----
+    -----
+   /bbd/
+  /fbb/
+ /ffg/
+-----
+Solution 457:
+    -----
+   /eed/
+  /ecc/
+ /agg/
+-----
+    -----
+   /ecd/
+  /acd/
+ /afg/
+-----
+    -----
+   /bbd/
+  /fbb/
+ /ffg/
+-----
+Solution 458:
+    -----
+   /fee/
+  /ffe/
+ /agg/
+-----
+    -----
+   /fbe/
+  /dbc/
+ /aag/
+-----
+    -----
+   /dcc/
+  /dbc/
+ /dbg/
+-----
+Solution 459:
+    -----
+   /dee/
+  /aae/
+ /agg/
+-----
+    -----
+   /dde/
+  /cff/
+ /ccg/
+-----
+    -----
+   /dbf/
+  /bbf/
+ /bcg/
+-----
+Solution 460:
+    -----
+   /caa/
+  /cae/
+ /dgg/
+-----
+    -----
+   /cce/
+  /fee/
+ /ddg/
+-----
+    -----
+   /ffb/
+  /fbb/
+ /dbg/
+-----
+Solution 461:
+    -----
+   /cea/
+  /cee/
+ /dgg/
+-----
+    -----
+   /cca/
+  /fea/
+ /ddg/
+-----
+    -----
+   /ffb/
+  /fbb/
+ /dbg/
+-----
+Solution 462:
+    -----
+   /cee/
+  /cae/
+ /dgg/
+-----
+    -----
+   /cce/
+  /faa/
+ /ddg/
+-----
+    -----
+   /ffb/
+  /fbb/
+ /dbg/
+-----
+Solution 463:
+    -----
+   /fee/
+  /ffe/
+ /dgg/
+-----
+    -----
+   /fce/
+  /daa/
+ /dag/
+-----
+    -----
+   /ccb/
+  /cbb/
+ /dbg/
+-----
+Solution 464:
+    -----
+   /dee/
+  /aae/
+ /agg/
+-----
+    -----
+   /dfe/
+  /dff/
+ /ccg/
+-----
+    -----
+   /dfb/
+  /cbb/
+ /cbg/
+-----
+Solution 465:
+    -----
+   /eec/
+  /eaa/
+ /dgg/
+-----
+    -----
+   /ecc/
+  /fca/
+ /ddg/
+-----
+    -----
+   /ffb/
+  /fbb/
+ /dbg/
+-----
+Solution 466:
+    -----
+   /eec/
+  /ecc/
+ /agg/
+-----
+    -----
+   /efc/
+  /dff/
+ /aag/
+-----
+    -----
+   /dfb/
+  /dbb/
+ /dbg/
+-----
+Solution 467:
+    -----
+   /eef/
+  /eff/
+ /agg/
+-----
+    -----
+   /ecc/
+  /dfc/
+ /aag/
+-----
+    -----
+   /dcb/
+  /dbb/
+ /dbg/
+-----
+Solution 468:
+    -----
+   /eea/
+  /ecc/
+ /dgg/
+-----
+    -----
+   /eca/
+  /fca/
+ /ddg/
+-----
+    -----
+   /ffb/
+  /fbb/
+ /dbg/
+-----
+Solution 469:
+    -----
+   /eea/
+  /eff/
+ /dgg/
+-----
+    -----
+   /eca/
+  /dfa/
+ /dfg/
+-----
+    -----
+   /ccb/
+  /cbb/
+ /dbg/
+-----
+Solution 470:
+    -----
+   /eec/
+  /ecc/
+ /dgg/
+-----
+    -----
+   /eac/
+  /faa/
+ /ddg/
+-----
+    -----
+   /ffb/
+  /fbb/
+ /dbg/
+-----
+Solution 471:
+    -----
+   /aef/
+  /eef/
+ /dgg/
+-----
+    -----
+   /aff/
+  /aec/
+ /ddg/
+-----
+    -----
+   /bcc/
+  /bbc/
+ /dbg/
+-----
+Solution 472:
+    -----
+   /aaf/
+  /eaf/
+ /dgg/
+-----
+    -----
+   /eff/
+  /eec/
+ /ddg/
+-----
+    -----
+   /bcc/
+  /bbc/
+ /dbg/
+-----
+Solution 473:
+    -----
+   /eef/
+  /eaf/
+ /dgg/
+-----
+    -----
+   /eff/
+  /aac/
+ /ddg/
+-----
+    -----
+   /bcc/
+  /bbc/
+ /dbg/
+-----
+Solution 474:
+    -----
+   /eef/
+  /eaf/
+ /dgg/
+-----
+    -----
+   /eff/
+  /dac/
+ /dag/
+-----
+    -----
+   /bcc/
+  /bbc/
+ /dbg/
+-----
+Solution 475:
+    -----
+   /eec/
+  /ecc/
+ /dgg/
+-----
+    -----
+   /efc/
+  /daa/
+ /dag/
+-----
+    -----
+   /bff/
+  /bbf/
+ /dbg/
 -----
 Solution 476:
     -----
-   /dee/
-  /dde/
- /daa/
+   /eea/
+  /eff/
+ /dgg/
 -----
     -----
-   /bbe/
-  /fbb/
- /cag/
+   /eaa/
+  /dfc/
+ /dfg/
 -----
     -----
-   /ffg/
-  /fcg/
- /ccg/
+   /bcc/
+  /bbc/
+ /dbg/
 -----
 Solution 477:
     -----
-   /gbd/
-  /gad/
- /aad/
+   /fee/
+  /aae/
+ /dgg/
 -----
     -----
-   /gbb/
-  /cfd/
- /ffe/
+   /ffe/
+  /afc/
+ /ddg/
 -----
     -----
-   /gcb/
-  /cce/
- /fee/
+   /bcc/
+  /bbc/
+ /dbg/
 -----
 Solution 478:
     -----
-   /bff/
-  /baa/
- /ddd/
+   /aee/
+  /ffe/
+ /dgg/
 -----
     -----
-   /gfc/
-  /bfa/
- /bde/
+   /afe/
+  /afc/
+ /ddg/
 -----
     -----
-   /gcc/
-  /gce/
- /gee/
+   /bcc/
+  /bbc/
+ /dbg/
 -----
 Solution 479:
     -----
-   /gga/
-  /eaa/
- /eeb/
+   /fee/
+  /ffe/
+ /dgg/
 -----
     -----
-   /gff/
-  /cfb/
- /edb/
+   /fae/
+  /aac/
+ /ddg/
 -----
     -----
-   /gcf/
-  /ccb/
- /ddd/
+   /bcc/
+  /bbc/
+ /dbg/
 -----
 Solution 480:
     -----
-   /dab/
-  /dab/
- /dcc/
+   /dee/
+  /dde/
+ /dgg/
 -----
     -----
-   /fag/
-  /dcb/
- /ecb/
+   /aae/
+  /afc/
+ /ffg/
 -----
     -----
-   /ffg/
-  /efg/
- /eeg/
+   /bcc/
+  /bbc/
+ /fbg/
 -----
