@@ -245,9 +245,9 @@ struct Solver {
   void dfs(std::vector<bool>& used,
            std::vector<std::vector<Cube>> const& blocks_all_dir) {
     if (std::count(used.cbegin(), used.cend(), true) == (int)blocks.size()) {
-      static int sol_cnt = 0;
-      printf("%d ", ++sol_cnt);
-      puts("Solution found!");
+      // static int sol_cnt = 0;
+      // printf("%d ", ++sol_cnt);
+      // puts("Solution found!");
       // cm.print(blocks);
 
       solutions.emplace_back(cm);
