@@ -1,5 +1,4 @@
 # LBCube Solver
----
 
 ## Usage
 
