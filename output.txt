@@ -1,487 +1,7 @@
 appropriate blocks
 blocks_all_dir sizes: 
 1 8 12 12 12 12 12 
-1 Solution found!
-2 Solution found!
-3 Solution found!
-4 Solution found!
-5 Solution found!
-6 Solution found!
-7 Solution found!
-8 Solution found!
-9 Solution found!
-10 Solution found!
-11 Solution found!
-12 Solution found!
-13 Solution found!
-14 Solution found!
-15 Solution found!
-16 Solution found!
-17 Solution found!
-18 Solution found!
-19 Solution found!
-20 Solution found!
-21 Solution found!
-22 Solution found!
-23 Solution found!
-24 Solution found!
-25 Solution found!
-26 Solution found!
-27 Solution found!
-28 Solution found!
-29 Solution found!
-30 Solution found!
-31 Solution found!
-32 Solution found!
-33 Solution found!
-34 Solution found!
-35 Solution found!
-36 Solution found!
-37 Solution found!
-38 Solution found!
-39 Solution found!
-40 Solution found!
-41 Solution found!
-42 Solution found!
-43 Solution found!
-44 Solution found!
-45 Solution found!
-46 Solution found!
-47 Solution found!
-48 Solution found!
-49 Solution found!
-50 Solution found!
-51 Solution found!
-52 Solution found!
-53 Solution found!
-54 Solution found!
-55 Solution found!
-56 Solution found!
-57 Solution found!
-58 Solution found!
-59 Solution found!
-60 Solution found!
-61 Solution found!
-62 Solution found!
-63 Solution found!
-64 Solution found!
-65 Solution found!
-66 Solution found!
-67 Solution found!
-68 Solution found!
-69 Solution found!
-70 Solution found!
-71 Solution found!
-72 Solution found!
-73 Solution found!
-74 Solution found!
-75 Solution found!
-76 Solution found!
-77 Solution found!
-78 Solution found!
-79 Solution found!
-80 Solution found!
-81 Solution found!
-82 Solution found!
-83 Solution found!
-84 Solution found!
-85 Solution found!
-86 Solution found!
-87 Solution found!
-88 Solution found!
-89 Solution found!
-90 Solution found!
-91 Solution found!
-92 Solution found!
-93 Solution found!
-94 Solution found!
-95 Solution found!
-96 Solution found!
-97 Solution found!
-98 Solution found!
-99 Solution found!
-100 Solution found!
-101 Solution found!
-102 Solution found!
-103 Solution found!
-104 Solution found!
-105 Solution found!
-106 Solution found!
-107 Solution found!
-108 Solution found!
-109 Solution found!
-110 Solution found!
-111 Solution found!
-112 Solution found!
-113 Solution found!
-114 Solution found!
-115 Solution found!
-116 Solution found!
-117 Solution found!
-118 Solution found!
-119 Solution found!
-120 Solution found!
-121 Solution found!
-122 Solution found!
-123 Solution found!
-124 Solution found!
-125 Solution found!
-126 Solution found!
-127 Solution found!
-128 Solution found!
-129 Solution found!
-130 Solution found!
-131 Solution found!
-132 Solution found!
-133 Solution found!
-134 Solution found!
-135 Solution found!
-136 Solution found!
-137 Solution found!
-138 Solution found!
-139 Solution found!
-140 Solution found!
-141 Solution found!
-142 Solution found!
-143 Solution found!
-144 Solution found!
-145 Solution found!
-146 Solution found!
-147 Solution found!
-148 Solution found!
-149 Solution found!
-150 Solution found!
-151 Solution found!
-152 Solution found!
-153 Solution found!
-154 Solution found!
-155 Solution found!
-156 Solution found!
-157 Solution found!
-158 Solution found!
-159 Solution found!
-160 Solution found!
-161 Solution found!
-162 Solution found!
-163 Solution found!
-164 Solution found!
-165 Solution found!
-166 Solution found!
-167 Solution found!
-168 Solution found!
-169 Solution found!
-170 Solution found!
-171 Solution found!
-172 Solution found!
-173 Solution found!
-174 Solution found!
-175 Solution found!
-176 Solution found!
-177 Solution found!
-178 Solution found!
-179 Solution found!
-180 Solution found!
-181 Solution found!
-182 Solution found!
-183 Solution found!
-184 Solution found!
-185 Solution found!
-186 Solution found!
-187 Solution found!
-188 Solution found!
-189 Solution found!
-190 Solution found!
-191 Solution found!
-192 Solution found!
-193 Solution found!
-194 Solution found!
-195 Solution found!
-196 Solution found!
-197 Solution found!
-198 Solution found!
-199 Solution found!
-200 Solution found!
-201 Solution found!
-202 Solution found!
-203 Solution found!
-204 Solution found!
-205 Solution found!
-206 Solution found!
-207 Solution found!
-208 Solution found!
-209 Solution found!
-210 Solution found!
-211 Solution found!
-212 Solution found!
-213 Solution found!
-214 Solution found!
-215 Solution found!
-216 Solution found!
-217 Solution found!
-218 Solution found!
-219 Solution found!
-220 Solution found!
-221 Solution found!
-222 Solution found!
-223 Solution found!
-224 Solution found!
-225 Solution found!
-226 Solution found!
-227 Solution found!
-228 Solution found!
-229 Solution found!
-230 Solution found!
-231 Solution found!
-232 Solution found!
-233 Solution found!
-234 Solution found!
-235 Solution found!
-236 Solution found!
-237 Solution found!
-238 Solution found!
-239 Solution found!
-240 Solution found!
-241 Solution found!
-242 Solution found!
-243 Solution found!
-244 Solution found!
-245 Solution found!
-246 Solution found!
-247 Solution found!
-248 Solution found!
-249 Solution found!
-250 Solution found!
-251 Solution found!
-252 Solution found!
-253 Solution found!
-254 Solution found!
-255 Solution found!
-256 Solution found!
-257 Solution found!
-258 Solution found!
-259 Solution found!
-260 Solution found!
-261 Solution found!
-262 Solution found!
-263 Solution found!
-264 Solution found!
-265 Solution found!
-266 Solution found!
-267 Solution found!
-268 Solution found!
-269 Solution found!
-270 Solution found!
-271 Solution found!
-272 Solution found!
-273 Solution found!
-274 Solution found!
-275 Solution found!
-276 Solution found!
-277 Solution found!
-278 Solution found!
-279 Solution found!
-280 Solution found!
-281 Solution found!
-282 Solution found!
-283 Solution found!
-284 Solution found!
-285 Solution found!
-286 Solution found!
-287 Solution found!
-288 Solution found!
-289 Solution found!
-290 Solution found!
-291 Solution found!
-292 Solution found!
-293 Solution found!
-294 Solution found!
-295 Solution found!
-296 Solution found!
-297 Solution found!
-298 Solution found!
-299 Solution found!
-300 Solution found!
-301 Solution found!
-302 Solution found!
-303 Solution found!
-304 Solution found!
-305 Solution found!
-306 Solution found!
-307 Solution found!
-308 Solution found!
-309 Solution found!
-310 Solution found!
-311 Solution found!
-312 Solution found!
-313 Solution found!
-314 Solution found!
-315 Solution found!
-316 Solution found!
-317 Solution found!
-318 Solution found!
-319 Solution found!
-320 Solution found!
-321 Solution found!
-322 Solution found!
-323 Solution found!
-324 Solution found!
-325 Solution found!
-326 Solution found!
-327 Solution found!
-328 Solution found!
-329 Solution found!
-330 Solution found!
-331 Solution found!
-332 Solution found!
-333 Solution found!
-334 Solution found!
-335 Solution found!
-336 Solution found!
-337 Solution found!
-338 Solution found!
-339 Solution found!
-340 Solution found!
-341 Solution found!
-342 Solution found!
-343 Solution found!
-344 Solution found!
-345 Solution found!
-346 Solution found!
-347 Solution found!
-348 Solution found!
-349 Solution found!
-350 Solution found!
-351 Solution found!
-352 Solution found!
-353 Solution found!
-354 Solution found!
-355 Solution found!
-356 Solution found!
-357 Solution found!
-358 Solution found!
-359 Solution found!
-360 Solution found!
-361 Solution found!
-362 Solution found!
-363 Solution found!
-364 Solution found!
-365 Solution found!
-366 Solution found!
-367 Solution found!
-368 Solution found!
-369 Solution found!
-370 Solution found!
-371 Solution found!
-372 Solution found!
-373 Solution found!
-374 Solution found!
-375 Solution found!
-376 Solution found!
-377 Solution found!
-378 Solution found!
-379 Solution found!
-380 Solution found!
-381 Solution found!
-382 Solution found!
-383 Solution found!
-384 Solution found!
-385 Solution found!
-386 Solution found!
-387 Solution found!
-388 Solution found!
-389 Solution found!
-390 Solution found!
-391 Solution found!
-392 Solution found!
-393 Solution found!
-394 Solution found!
-395 Solution found!
-396 Solution found!
-397 Solution found!
-398 Solution found!
-399 Solution found!
-400 Solution found!
-401 Solution found!
-402 Solution found!
-403 Solution found!
-404 Solution found!
-405 Solution found!
-406 Solution found!
-407 Solution found!
-408 Solution found!
-409 Solution found!
-410 Solution found!
-411 Solution found!
-412 Solution found!
-413 Solution found!
-414 Solution found!
-415 Solution found!
-416 Solution found!
-417 Solution found!
-418 Solution found!
-419 Solution found!
-420 Solution found!
-421 Solution found!
-422 Solution found!
-423 Solution found!
-424 Solution found!
-425 Solution found!
-426 Solution found!
-427 Solution found!
-428 Solution found!
-429 Solution found!
-430 Solution found!
-431 Solution found!
-432 Solution found!
-433 Solution found!
-434 Solution found!
-435 Solution found!
-436 Solution found!
-437 Solution found!
-438 Solution found!
-439 Solution found!
-440 Solution found!
-441 Solution found!
-442 Solution found!
-443 Solution found!
-444 Solution found!
-445 Solution found!
-446 Solution found!
-447 Solution found!
-448 Solution found!
-449 Solution found!
-450 Solution found!
-451 Solution found!
-452 Solution found!
-453 Solution found!
-454 Solution found!
-455 Solution found!
-456 Solution found!
-457 Solution found!
-458 Solution found!
-459 Solution found!
-460 Solution found!
-461 Solution found!
-462 Solution found!
-463 Solution found!
-464 Solution found!
-465 Solution found!
-466 Solution found!
-467 Solution found!
-468 Solution found!
-469 Solution found!
-470 Solution found!
-471 Solution found!
-472 Solution found!
-473 Solution found!
-474 Solution found!
-475 Solution found!
-476 Solution found!
-477 Solution found!
-478 Solution found!
-479 Solution found!
-480 Solution found!
-Solution 1:
+1 Solution found!2 Solution found!3 Solution found!4 Solution found!5 Solution found!6 Solution found!7 Solution found!8 Solution found!9 Solution found!10 Solution found!11 Solution found!12 Solution found!13 Solution found!14 Solution found!15 Solution found!16 Solution found!17 Solution found!18 Solution found!19 Solution found!20 Solution found!21 Solution found!22 Solution found!23 Solution found!24 Solution found!25 Solution found!26 Solution found!27 Solution found!28 Solution found!29 Solution found!30 Solution found!31 Solution found!32 Solution found!33 Solution found!34 Solution found!35 Solution found!36 Solution found!37 Solution found!38 Solution found!39 Solution found!40 Solution found!41 Solution found!42 Solution found!43 Solution found!44 Solution found!45 Solution found!46 Solution found!47 Solution found!48 Solution found!49 Solution found!50 Solution found!51 Solution found!52 Solution found!53 Solution found!54 Solution found!55 Solution found!56 Solution found!57 Solution found!58 Solution found!59 Solution found!60 Solution found!61 Solution found!62 Solution found!63 Solution found!64 Solution found!65 Solution found!66 Solution found!67 Solution found!68 Solution found!69 Solution found!70 Solution found!71 Solution found!72 Solution found!73 Solution found!74 Solution found!75 Solution found!76 Solution found!77 Solution found!78 Solution found!79 Solution found!80 Solution found!81 Solution found!82 Solution found!83 Solution found!84 Solution found!85 Solution found!86 Solution found!87 Solution found!88 Solution found!89 Solution found!90 Solution found!91 Solution found!92 Solution found!93 Solution found!94 Solution found!95 Solution found!96 Solution found!97 Solution found!98 Solution found!99 Solution found!100 Solution found!101 Solution found!102 Solution found!103 Solution found!104 Solution found!105 Solution found!106 Solution found!107 Solution found!108 Solution found!109 Solution found!110 Solution found!111 Solution found!112 Solution found!113 Solution found!114 Solution found!115 Solution found!116 Solution found!117 Solution found!118 Solution found!119 Solution found!120 Solution found!121 Solution found!122 Solution found!123 Solution found!124 Solution found!125 Solution found!126 Solution found!127 Solution found!128 Solution found!129 Solution found!130 Solution found!131 Solution found!132 Solution found!133 Solution found!134 Solution found!135 Solution found!136 Solution found!137 Solution found!138 Solution found!139 Solution found!140 Solution found!141 Solution found!142 Solution found!143 Solution found!144 Solution found!145 Solution found!146 Solution found!147 Solution found!148 Solution found!149 Solution found!150 Solution found!151 Solution found!152 Solution found!153 Solution found!154 Solution found!155 Solution found!156 Solution found!157 Solution found!158 Solution found!159 Solution found!160 Solution found!161 Solution found!162 Solution found!163 Solution found!164 Solution found!165 Solution found!166 Solution found!167 Solution found!168 Solution found!169 Solution found!170 Solution found!171 Solution found!172 Solution found!173 Solution found!174 Solution found!175 Solution found!176 Solution found!177 Solution found!178 Solution found!179 Solution found!180 Solution found!181 Solution found!182 Solution found!183 Solution found!184 Solution found!185 Solution found!186 Solution found!187 Solution found!188 Solution found!189 Solution found!190 Solution found!191 Solution found!192 Solution found!193 Solution found!194 Solution found!195 Solution found!196 Solution found!197 Solution found!198 Solution found!199 Solution found!200 Solution found!201 Solution found!202 Solution found!203 Solution found!204 Solution found!205 Solution found!206 Solution found!207 Solution found!208 Solution found!209 Solution found!210 Solution found!211 Solution found!212 Solution found!213 Solution found!214 Solution found!215 Solution found!216 Solution found!217 Solution found!218 Solution found!219 Solution found!220 Solution found!221 Solution found!222 Solution found!223 Solution found!224 Solution found!225 Solution found!226 Solution found!227 Solution found!228 Solution found!229 Solution found!230 Solution found!231 Solution found!232 Solution found!233 Solution found!234 Solution found!235 Solution found!236 Solution found!237 Solution found!238 Solution found!239 Solution found!240 Solution found!241 Solution found!242 Solution found!243 Solution found!244 Solution found!245 Solution found!246 Solution found!247 Solution found!248 Solution found!249 Solution found!250 Solution found!251 Solution found!252 Solution found!253 Solution found!254 Solution found!255 Solution found!256 Solution found!257 Solution found!258 Solution found!259 Solution found!260 Solution found!261 Solution found!262 Solution found!263 Solution found!264 Solution found!265 Solution found!266 Solution found!267 Solution found!268 Solution found!269 Solution found!270 Solution found!271 Solution found!272 Solution found!273 Solution found!274 Solution found!275 Solution found!276 Solution found!277 Solution found!278 Solution found!279 Solution found!280 Solution found!281 Solution found!282 Solution found!283 Solution found!284 Solution found!285 Solution found!286 Solution found!287 Solution found!288 Solution found!289 Solution found!290 Solution found!291 Solution found!292 Solution found!293 Solution found!294 Solution found!295 Solution found!296 Solution found!297 Solution found!298 Solution found!299 Solution found!300 Solution found!301 Solution found!302 Solution found!303 Solution found!304 Solution found!305 Solution found!306 Solution found!307 Solution found!308 Solution found!309 Solution found!310 Solution found!311 Solution found!312 Solution found!313 Solution found!314 Solution found!315 Solution found!316 Solution found!317 Solution found!318 Solution found!319 Solution found!320 Solution found!321 Solution found!322 Solution found!323 Solution found!324 Solution found!325 Solution found!326 Solution found!327 Solution found!328 Solution found!329 Solution found!330 Solution found!331 Solution found!332 Solution found!333 Solution found!334 Solution found!335 Solution found!336 Solution found!337 Solution found!338 Solution found!339 Solution found!340 Solution found!341 Solution found!342 Solution found!343 Solution found!344 Solution found!345 Solution found!346 Solution found!347 Solution found!348 Solution found!349 Solution found!350 Solution found!351 Solution found!352 Solution found!353 Solution found!354 Solution found!355 Solution found!356 Solution found!357 Solution found!358 Solution found!359 Solution found!360 Solution found!361 Solution found!362 Solution found!363 Solution found!364 Solution found!365 Solution found!366 Solution found!367 Solution found!368 Solution found!369 Solution found!370 Solution found!371 Solution found!372 Solution found!373 Solution found!374 Solution found!375 Solution found!376 Solution found!377 Solution found!378 Solution found!379 Solution found!380 Solution found!381 Solution found!382 Solution found!383 Solution found!384 Solution found!385 Solution found!386 Solution found!387 Solution found!388 Solution found!389 Solution found!390 Solution found!391 Solution found!392 Solution found!393 Solution found!394 Solution found!395 Solution found!396 Solution found!397 Solution found!398 Solution found!399 Solution found!400 Solution found!401 Solution found!402 Solution found!403 Solution found!404 Solution found!405 Solution found!406 Solution found!407 Solution found!408 Solution found!409 Solution found!410 Solution found!411 Solution found!412 Solution found!413 Solution found!414 Solution found!415 Solution found!416 Solution found!417 Solution found!418 Solution found!419 Solution found!420 Solution found!421 Solution found!422 Solution found!423 Solution found!424 Solution found!425 Solution found!426 Solution found!427 Solution found!428 Solution found!429 Solution found!430 Solution found!431 Solution found!432 Solution found!433 Solution found!434 Solution found!435 Solution found!436 Solution found!437 Solution found!438 Solution found!439 Solution found!440 Solution found!441 Solution found!442 Solution found!443 Solution found!444 Solution found!445 Solution found!446 Solution found!447 Solution found!448 Solution found!449 Solution found!450 Solution found!451 Solution found!452 Solution found!453 Solution found!454 Solution found!455 Solution found!456 Solution found!457 Solution found!458 Solution found!459 Solution found!460 Solution found!461 Solution found!462 Solution found!463 Solution found!464 Solution found!465 Solution found!466 Solution found!467 Solution found!468 Solution found!469 Solution found!470 Solution found!471 Solution found!472 Solution found!473 Solution found!474 Solution found!475 Solution found!476 Solution found!477 Solution found!478 Solution found!479 Solution found!480 Solution found!Solution 1:
     -----
    /ggd/
   /bdd/
@@ -868,22 +388,6 @@ Solution 24:
 Solution 25:
     -----
    /dgg/
-  /ddf/
- /dbf/
------
-    -----
-   /aag/
-  /cff/
- /bbe/
------
-    -----
-   /acg/
-  /cce/
- /bee/
------
-Solution 26:
-    -----
-   /dgg/
   /dcf/
  /dcf/
 -----
@@ -897,7 +401,7 @@ Solution 26:
   /bbe/
  /bee/
 -----
-Solution 27:
+Solution 26:
     -----
    /dgg/
   /dfc/
@@ -913,7 +417,7 @@ Solution 27:
   /bbe/
  /bee/
 -----
-Solution 28:
+Solution 27:
     -----
    /bgg/
   /bbf/
@@ -928,6 +432,22 @@ Solution 28:
    /acg/
   /cce/
  /dee/
+-----
+Solution 28:
+    -----
+   /dgg/
+  /ddf/
+ /dbf/
+-----
+    -----
+   /aag/
+  /cff/
+ /bbe/
+-----
+    -----
+   /acg/
+  /cce/
+ /bee/
 -----
 Solution 29:
     -----
@@ -995,22 +515,6 @@ Solution 32:
 -----
 Solution 33:
     -----
-   /bgg/
-  /ccf/
- /acf/
------
-    -----
-   /bbg/
-  /cff/
- /aae/
------
-    -----
-   /dbg/
-  /dde/
- /dee/
------
-Solution 34:
-    -----
    /dgg/
   /ffc/
  /acc/
@@ -1025,7 +529,7 @@ Solution 34:
   /bbe/
  /bee/
 -----
-Solution 35:
+Solution 34:
     -----
    /dgg/
   /ccf/
@@ -1041,7 +545,7 @@ Solution 35:
   /bbe/
  /bee/
 -----
-Solution 36:
+Solution 35:
     -----
    /bgg/
   /bbf/
@@ -1055,6 +559,22 @@ Solution 36:
     -----
    /dcg/
   /dce/
+ /dee/
+-----
+Solution 36:
+    -----
+   /bgg/
+  /ccf/
+ /acf/
+-----
+    -----
+   /bbg/
+  /cff/
+ /aae/
+-----
+    -----
+   /dbg/
+  /dde/
  /dee/
 -----
 Solution 37:
@@ -1907,22 +1427,6 @@ Solution 89:
 -----
 Solution 90:
     -----
-   /dgg/
-  /dcc/
- /dbc/
------
-    -----
-   /aag/
-  /dcf/
- /ebb/
------
-    -----
-   /afg/
-  /eff/
- /eeb/
------
-Solution 91:
-    -----
    /fgg/
   /fcc/
  /ddd/
@@ -1935,6 +1439,22 @@ Solution 91:
     -----
    /abg/
   /ebb/
+ /eeb/
+-----
+Solution 91:
+    -----
+   /dgg/
+  /dcc/
+ /dbc/
+-----
+    -----
+   /aag/
+  /dcf/
+ /ebb/
+-----
+    -----
+   /afg/
+  /eff/
  /eeb/
 -----
 Solution 92:
@@ -1992,13 +1512,13 @@ Solution 95:
  /bbd/
 -----
     -----
-   /fcg/
-  /acc/
+   /ccg/
+  /acf/
  /edd/
 -----
     -----
-   /ffg/
-  /efc/
+   /cfg/
+  /eff/
  /eed/
 -----
 Solution 96:
@@ -2008,13 +1528,13 @@ Solution 96:
  /bbd/
 -----
     -----
-   /ccg/
-  /acf/
+   /fcg/
+  /acc/
  /edd/
 -----
     -----
-   /cfg/
-  /eff/
+   /ffg/
+  /efc/
  /eed/
 -----
 Solution 97:
@@ -2228,22 +1748,6 @@ Solution 109:
 Solution 110:
     -----
    /dgg/
-  /daa/
- /dba/
------
-    -----
-   /ccg/
-  /dcf/
- /ebb/
------
-    -----
-   /cfg/
-  /eff/
- /eeb/
------
-Solution 111:
-    -----
-   /dgg/
   /caa/
  /cba/
 -----
@@ -2254,6 +1758,22 @@ Solution 111:
 -----
     -----
    /dfg/
+  /eff/
+ /eeb/
+-----
+Solution 111:
+    -----
+   /dgg/
+  /daa/
+ /dba/
+-----
+    -----
+   /ccg/
+  /dcf/
+ /ebb/
+-----
+    -----
+   /cfg/
   /eff/
  /eeb/
 -----
@@ -2868,70 +2388,6 @@ Solution 149:
 Solution 150:
     -----
    /dgg/
-  /dbe/
- /dee/
------
-    -----
-   /cbg/
-  /dbf/
- /aae/
------
-    -----
-   /cbg/
-  /ccf/
- /aff/
------
-Solution 151:
-    -----
-   /dgg/
-  /dde/
- /dee/
------
-    -----
-   /ffg/
-  /fcc/
- /aae/
------
-    -----
-   /bfg/
-  /bbc/
- /abc/
------
-Solution 152:
-    -----
-   /bgg/
-  /ecc/
- /eec/
------
-    -----
-   /bbg/
-  /dcf/
- /eaf/
------
-    -----
-   /dbg/
-  /dff/
- /daa/
------
-Solution 153:
-    -----
-   /dgg/
-  /eff/
- /eef/
------
-    -----
-   /dcg/
-  /dcc/
- /eaf/
------
-    -----
-   /dbg/
-  /bbc/
- /baa/
------
-Solution 154:
-    -----
-   /dgg/
   /dde/
  /dee/
 -----
@@ -2945,7 +2401,7 @@ Solution 154:
   /fbb/
  /acb/
 -----
-Solution 155:
+Solution 151:
     -----
    /bgg/
   /ecc/
@@ -2961,7 +2417,7 @@ Solution 155:
   /dff/
  /dfa/
 -----
-Solution 156:
+Solution 152:
     -----
    /bgg/
   /ecc/
@@ -2977,7 +2433,7 @@ Solution 156:
   /aff/
  /ddd/
 -----
-Solution 157:
+Solution 153:
     -----
    /bgg/
   /cce/
@@ -2993,7 +2449,7 @@ Solution 157:
   /adf/
  /ddd/
 -----
-Solution 158:
+Solution 154:
     -----
    /bgg/
   /eff/
@@ -3009,7 +2465,7 @@ Solution 158:
   /dac/
  /dac/
 -----
-Solution 159:
+Solution 155:
     -----
    /bgg/
   /cce/
@@ -3025,7 +2481,7 @@ Solution 159:
   /daf/
  /dff/
 -----
-Solution 160:
+Solution 156:
     -----
    /fgg/
   /ffe/
@@ -3041,7 +2497,7 @@ Solution 160:
   /dac/
  /dbc/
 -----
-Solution 161:
+Solution 157:
     -----
    /dgg/
   /eff/
@@ -3057,7 +2513,7 @@ Solution 161:
   /abb/
  /acb/
 -----
-Solution 162:
+Solution 158:
     -----
    /dgg/
   /ecc/
@@ -3073,7 +2529,7 @@ Solution 162:
   /abb/
  /afb/
 -----
-Solution 163:
+Solution 159:
     -----
    /dgg/
   /dde/
@@ -3089,7 +2545,7 @@ Solution 163:
   /afc/
  /abb/
 -----
-Solution 164:
+Solution 160:
     -----
    /dgg/
   /dde/
@@ -3105,7 +2561,7 @@ Solution 164:
   /aff/
  /abb/
 -----
-Solution 165:
+Solution 161:
     -----
    /dgg/
   /cce/
@@ -3121,7 +2577,7 @@ Solution 165:
   /abf/
  /aff/
 -----
-Solution 166:
+Solution 162:
     -----
    /bgg/
   /ffe/
@@ -3137,7 +2593,7 @@ Solution 166:
   /dda/
  /dca/
 -----
-Solution 167:
+Solution 163:
     -----
    /bgg/
   /cce/
@@ -3153,7 +2609,7 @@ Solution 167:
   /dda/
  /dfa/
 -----
-Solution 168:
+Solution 164:
     -----
    /fgg/
   /ffe/
@@ -3169,7 +2625,7 @@ Solution 168:
   /dda/
  /dba/
 -----
-Solution 169:
+Solution 165:
     -----
    /cgg/
   /cce/
@@ -3185,7 +2641,7 @@ Solution 169:
   /dda/
  /dba/
 -----
-Solution 170:
+Solution 166:
     -----
    /dgg/
   /ffe/
@@ -3201,7 +2657,7 @@ Solution 170:
   /bba/
  /bca/
 -----
-Solution 171:
+Solution 167:
     -----
    /dgg/
   /cce/
@@ -3217,7 +2673,7 @@ Solution 171:
   /bba/
  /bfa/
 -----
-Solution 172:
+Solution 168:
     -----
    /fgg/
   /ffe/
@@ -3233,7 +2689,7 @@ Solution 172:
   /bba/
  /dba/
 -----
-Solution 173:
+Solution 169:
     -----
    /cgg/
   /cce/
@@ -3249,7 +2705,7 @@ Solution 173:
   /bba/
  /dba/
 -----
-Solution 174:
+Solution 170:
     -----
    /dgg/
   /ecc/
@@ -3265,7 +2721,7 @@ Solution 174:
   /ffa/
  /bba/
 -----
-Solution 175:
+Solution 171:
     -----
    /dgg/
   /eff/
@@ -3281,7 +2737,7 @@ Solution 175:
   /cba/
  /cca/
 -----
-Solution 176:
+Solution 172:
     -----
    /bgg/
   /eec/
@@ -3297,7 +2753,7 @@ Solution 176:
   /aaf/
  /dff/
 -----
-Solution 177:
+Solution 173:
     -----
    /bgg/
   /cce/
@@ -3313,7 +2769,7 @@ Solution 177:
   /aaf/
  /dff/
 -----
-Solution 178:
+Solution 174:
     -----
    /bgg/
   /cce/
@@ -3329,7 +2785,7 @@ Solution 178:
   /daf/
  /daa/
 -----
-Solution 179:
+Solution 175:
     -----
    /cgg/
   /cbe/
@@ -3345,7 +2801,7 @@ Solution 179:
   /fab/
  /daa/
 -----
-Solution 180:
+Solution 176:
     -----
    /cgg/
   /cee/
@@ -3361,7 +2817,7 @@ Solution 180:
   /fab/
  /daa/
 -----
-Solution 181:
+Solution 177:
     -----
    /cgg/
   /cbe/
@@ -3377,7 +2833,7 @@ Solution 181:
   /baf/
  /dff/
 -----
-Solution 182:
+Solution 178:
     -----
    /bgg/
   /eff/
@@ -3393,7 +2849,7 @@ Solution 182:
   /bac/
  /ddd/
 -----
-Solution 183:
+Solution 179:
     -----
    /fgg/
   /ffe/
@@ -3409,7 +2865,7 @@ Solution 183:
   /bac/
  /ddd/
 -----
-Solution 184:
+Solution 180:
     -----
    /bgg/
   /eff/
@@ -3425,7 +2881,7 @@ Solution 184:
   /daa/
  /dca/
 -----
-Solution 185:
+Solution 181:
     -----
    /bgg/
   /ecc/
@@ -3441,7 +2897,7 @@ Solution 185:
   /daa/
  /dfa/
 -----
-Solution 186:
+Solution 182:
     -----
    /dgg/
   /ebc/
@@ -3457,7 +2913,7 @@ Solution 186:
   /aaf/
  /aff/
 -----
-Solution 187:
+Solution 183:
     -----
    /bgg/
   /aae/
@@ -3473,7 +2929,7 @@ Solution 187:
   /dcf/
  /dff/
 -----
-Solution 188:
+Solution 184:
     -----
    /bgg/
   /aae/
@@ -3489,7 +2945,7 @@ Solution 188:
   /dfc/
  /dfc/
 -----
-Solution 189:
+Solution 185:
     -----
    /bgg/
   /eaa/
@@ -3505,7 +2961,23 @@ Solution 189:
   /cff/
  /ddd/
 -----
-Solution 190:
+Solution 186:
+    -----
+   /bgg/
+  /ecc/
+ /eec/
+-----
+    -----
+   /bbg/
+  /dcf/
+ /eaf/
+-----
+    -----
+   /dbg/
+  /dff/
+ /daa/
+-----
+Solution 187:
     -----
    /bgg/
   /eac/
@@ -3521,7 +2993,7 @@ Solution 190:
   /ddf/
  /dff/
 -----
-Solution 191:
+Solution 188:
     -----
    /bgg/
   /eec/
@@ -3537,7 +3009,7 @@ Solution 191:
   /ddf/
  /dff/
 -----
-Solution 192:
+Solution 189:
     -----
    /bgg/
   /eac/
@@ -3553,7 +3025,7 @@ Solution 192:
   /ddf/
  /dff/
 -----
-Solution 193:
+Solution 190:
     -----
    /bgg/
   /aae/
@@ -3569,7 +3041,7 @@ Solution 193:
   /ddf/
  /dff/
 -----
-Solution 194:
+Solution 191:
     -----
    /bgg/
   /cce/
@@ -3585,7 +3057,7 @@ Solution 194:
   /ddf/
  /dff/
 -----
-Solution 195:
+Solution 192:
     -----
    /bgg/
   /cce/
@@ -3601,7 +3073,7 @@ Solution 195:
   /ddf/
  /dff/
 -----
-Solution 196:
+Solution 193:
     -----
    /agg/
   /fbe/
@@ -3617,7 +3089,7 @@ Solution 196:
   /cdb/
  /ddd/
 -----
-Solution 197:
+Solution 194:
     -----
    /cgg/
   /cbe/
@@ -3633,7 +3105,7 @@ Solution 197:
   /fdb/
  /ddd/
 -----
-Solution 198:
+Solution 195:
     -----
    /agg/
   /ebc/
@@ -3649,39 +3121,7 @@ Solution 198:
   /fdb/
  /ddd/
 -----
-Solution 199:
-    -----
-   /agg/
-  /aae/
- /bee/
------
-    -----
-   /ffg/
-  /fcc/
- /bbe/
------
-    -----
-   /dfg/
-  /ddc/
- /dbc/
------
-Solution 200:
-    -----
-   /dgg/
-  /eaa/
- /eea/
------
-    -----
-   /dfg/
-  /dcc/
- /ebb/
------
-    -----
-   /dfg/
-  /ffc/
- /bbc/
------
-Solution 201:
+Solution 196:
     -----
    /bgg/
   /eaa/
@@ -3697,7 +3137,23 @@ Solution 201:
   /bdc/
  /ddd/
 -----
-Solution 202:
+Solution 197:
+    -----
+   /dgg/
+  /dbe/
+ /dee/
+-----
+    -----
+   /cbg/
+  /dbf/
+ /aae/
+-----
+    -----
+   /cbg/
+  /ccf/
+ /aff/
+-----
+Solution 198:
     -----
    /dgg/
   /eba/
@@ -3713,7 +3169,7 @@ Solution 202:
   /fcc/
  /ffc/
 -----
-Solution 203:
+Solution 199:
     -----
    /agg/
   /abe/
@@ -3729,7 +3185,7 @@ Solution 203:
   /ccf/
  /dff/
 -----
-Solution 204:
+Solution 200:
     -----
    /agg/
   /ebc/
@@ -3745,7 +3201,7 @@ Solution 204:
   /ddf/
  /dff/
 -----
-Solution 205:
+Solution 201:
     -----
    /agg/
   /aae/
@@ -3761,7 +3217,7 @@ Solution 205:
   /bfc/
  /ddd/
 -----
-Solution 206:
+Solution 202:
     -----
    /agg/
   /aae/
@@ -3777,7 +3233,7 @@ Solution 206:
   /bff/
  /ddd/
 -----
-Solution 207:
+Solution 203:
     -----
    /agg/
   /fee/
@@ -3793,7 +3249,7 @@ Solution 207:
   /cdb/
  /ddd/
 -----
-Solution 208:
+Solution 204:
     -----
    /cgg/
   /cee/
@@ -3809,7 +3265,7 @@ Solution 208:
   /fdb/
  /ddd/
 -----
-Solution 209:
+Solution 205:
     -----
    /agg/
   /eff/
@@ -3825,7 +3281,7 @@ Solution 209:
   /cdb/
  /ddd/
 -----
-Solution 210:
+Solution 206:
     -----
    /agg/
   /eff/
@@ -3841,7 +3297,23 @@ Solution 210:
   /cbb/
  /bbd/
 -----
-Solution 211:
+Solution 207:
+    -----
+   /agg/
+  /fee/
+ /fed/
+-----
+    -----
+   /acg/
+  /aed/
+ /ffd/
+-----
+    -----
+   /ccg/
+  /cbb/
+ /bbd/
+-----
+Solution 208:
     -----
    /cgg/
   /cee/
@@ -3857,23 +3329,7 @@ Solution 211:
   /fbb/
  /bbd/
 -----
-Solution 212:
-    -----
-   /agg/
-  /fee/
- /fed/
------
-    -----
-   /acg/
-  /aed/
- /ffd/
------
-    -----
-   /ccg/
-  /cbb/
- /bbd/
------
-Solution 213:
+Solution 209:
     -----
    /agg/
   /fee/
@@ -3889,7 +3345,7 @@ Solution 213:
   /cbb/
  /ccd/
 -----
-Solution 214:
+Solution 210:
     -----
    /cgg/
   /cee/
@@ -3905,7 +3361,7 @@ Solution 214:
   /fbb/
  /ffd/
 -----
-Solution 215:
+Solution 211:
     -----
    /fgg/
   /eaa/
@@ -3921,7 +3377,7 @@ Solution 215:
   /cbb/
  /ccd/
 -----
-Solution 216:
+Solution 212:
     -----
    /agg/
   /eff/
@@ -3937,7 +3393,7 @@ Solution 216:
   /cbb/
  /ccd/
 -----
-Solution 217:
+Solution 213:
     -----
    /agg/
   /ecc/
@@ -3953,7 +3409,7 @@ Solution 217:
   /fbb/
  /ffd/
 -----
-Solution 218:
+Solution 214:
     -----
    /agg/
   /cce/
@@ -3969,39 +3425,23 @@ Solution 218:
   /dbf/
  /dff/
 -----
-Solution 219:
+Solution 215:
     -----
    /dgg/
-  /eac/
- /eec/
+  /eff/
+ /eef/
 -----
     -----
-   /ddg/
-  /aaf/
- /ecc/
+   /dcg/
+  /dcc/
+ /eaf/
 -----
     -----
    /dbg/
-  /bbf/
- /bff/
+  /bbc/
+ /baa/
 -----
-Solution 220:
-    -----
-   /dgg/
-  /eac/
- /eec/
------
-    -----
-   /dag/
-  /daf/
- /ecc/
------
-    -----
-   /dbg/
-  /bbf/
- /bff/
------
-Solution 221:
+Solution 216:
     -----
    /dgg/
   /eff/
@@ -4017,7 +3457,39 @@ Solution 221:
   /bbc/
  /bcc/
 -----
-Solution 222:
+Solution 217:
+    -----
+   /dgg/
+  /eac/
+ /eec/
+-----
+    -----
+   /ddg/
+  /aaf/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 218:
+    -----
+   /dgg/
+  /eac/
+ /eec/
+-----
+    -----
+   /dag/
+  /daf/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 219:
     -----
    /dgg/
   /ecc/
@@ -4033,7 +3505,7 @@ Solution 222:
   /bbf/
  /bff/
 -----
-Solution 223:
+Solution 220:
     -----
    /dgg/
   /eec/
@@ -4049,23 +3521,7 @@ Solution 223:
   /bbf/
  /bff/
 -----
-Solution 224:
-    -----
-   /dgg/
-  /eac/
- /aac/
------
-    -----
-   /ddg/
-  /eef/
- /ecc/
------
-    -----
-   /dbg/
-  /bbf/
- /bff/
------
-Solution 225:
+Solution 221:
     -----
    /dgg/
   /aae/
@@ -4081,7 +3537,7 @@ Solution 225:
   /bbf/
  /bff/
 -----
-Solution 226:
+Solution 222:
     -----
    /dgg/
   /cce/
@@ -4097,7 +3553,7 @@ Solution 226:
   /bbf/
  /bff/
 -----
-Solution 227:
+Solution 223:
     -----
    /dgg/
   /dde/
@@ -4113,7 +3569,7 @@ Solution 227:
   /bbf/
  /bff/
 -----
-Solution 228:
+Solution 224:
     -----
    /dgg/
   /cce/
@@ -4129,7 +3585,39 @@ Solution 228:
   /bbf/
  /bff/
 -----
-Solution 229:
+Solution 225:
+    -----
+   /dgg/
+  /eac/
+ /aac/
+-----
+    -----
+   /ddg/
+  /eef/
+ /ecc/
+-----
+    -----
+   /dbg/
+  /bbf/
+ /bff/
+-----
+Solution 226:
+    -----
+   /dgg/
+  /dde/
+ /dee/
+-----
+    -----
+   /ffg/
+  /fcc/
+ /aae/
+-----
+    -----
+   /bfg/
+  /bbc/
+ /abc/
+-----
+Solution 227:
     -----
    /agg/
   /aae/
@@ -4145,7 +3633,7 @@ Solution 229:
   /bbc/
  /dbc/
 -----
-Solution 230:
+Solution 228:
     -----
    /dgg/
   /fae/
@@ -4161,7 +3649,7 @@ Solution 230:
   /cbb/
  /ccb/
 -----
-Solution 231:
+Solution 229:
     -----
    /dgg/
   /cce/
@@ -4177,7 +3665,7 @@ Solution 231:
   /fbb/
  /ffb/
 -----
-Solution 232:
+Solution 230:
     -----
    /agg/
   /aae/
@@ -4193,7 +3681,7 @@ Solution 232:
   /fbb/
  /dcb/
 -----
-Solution 233:
+Solution 231:
     -----
    /dgg/
   /fae/
@@ -4209,7 +3697,7 @@ Solution 233:
   /cbb/
  /ccb/
 -----
-Solution 234:
+Solution 232:
     -----
    /dgg/
   /fee/
@@ -4225,7 +3713,7 @@ Solution 234:
   /cbb/
  /ccb/
 -----
-Solution 235:
+Solution 233:
     -----
    /dgg/
   /eaa/
@@ -4241,7 +3729,7 @@ Solution 235:
   /cbb/
  /ccb/
 -----
-Solution 236:
+Solution 234:
     -----
    /agg/
   /eff/
@@ -4257,7 +3745,7 @@ Solution 236:
   /dbb/
  /dcb/
 -----
-Solution 237:
+Solution 235:
     -----
    /agg/
   /ecc/
@@ -4273,7 +3761,7 @@ Solution 237:
   /dbb/
  /dfb/
 -----
-Solution 238:
+Solution 236:
     -----
    /dgg/
   /ecc/
@@ -4289,7 +3777,7 @@ Solution 238:
   /fbb/
  /ffb/
 -----
-Solution 239:
+Solution 237:
     -----
    /dgg/
   /eff/
@@ -4305,7 +3793,7 @@ Solution 239:
   /cbb/
  /ccb/
 -----
-Solution 240:
+Solution 238:
     -----
    /dgg/
   /eff/
@@ -4320,6 +3808,38 @@ Solution 240:
    /dbg/
   /cbb/
  /ccb/
+-----
+Solution 239:
+    -----
+   /agg/
+  /aae/
+ /bee/
+-----
+    -----
+   /ffg/
+  /fcc/
+ /bbe/
+-----
+    -----
+   /dfg/
+  /ddc/
+ /dbc/
+-----
+Solution 240:
+    -----
+   /dgg/
+  /eaa/
+ /eea/
+-----
+    -----
+   /dfg/
+  /dcc/
+ /ebb/
+-----
+    -----
+   /dfg/
+  /ffc/
+ /bbc/
 -----
 Solution 241:
     -----
@@ -5172,22 +4692,6 @@ Solution 293:
 Solution 294:
     -----
    /dbc/
-  /ddc/
- /dgg/
------
-    -----
-   /bbe/
-  /fcc/
- /aag/
------
-    -----
-   /bee/
-  /ffe/
- /afg/
------
-Solution 295:
-    -----
-   /dbc/
   /bbc/
  /bgg/
 -----
@@ -5201,7 +4705,7 @@ Solution 295:
   /ffe/
  /afg/
 -----
-Solution 296:
+Solution 295:
     -----
    /dfc/
   /dfc/
@@ -5217,7 +4721,7 @@ Solution 296:
   /bbe/
  /abg/
 -----
-Solution 297:
+Solution 296:
     -----
    /dff/
   /dcf/
@@ -5233,23 +4737,23 @@ Solution 297:
   /bbe/
  /abg/
 -----
-Solution 298:
+Solution 297:
     -----
-   /afc/
-  /ffc/
- /bgg/
+   /dbc/
+  /ddc/
+ /dgg/
 -----
     -----
-   /aae/
+   /bbe/
   /fcc/
- /bbg/
+ /aag/
 -----
     -----
-   /dee/
-  /dde/
- /dbg/
+   /bee/
+  /ffe/
+ /afg/
 -----
-Solution 299:
+Solution 298:
     -----
    /abc/
   /bbc/
@@ -5265,7 +4769,7 @@ Solution 299:
   /dfe/
  /dfg/
 -----
-Solution 300:
+Solution 299:
     -----
    /afc/
   /ffc/
@@ -5281,7 +4785,7 @@ Solution 300:
   /bbe/
  /dbg/
 -----
-Solution 301:
+Solution 300:
     -----
    /aff/
   /ccf/
@@ -5295,6 +4799,22 @@ Solution 301:
     -----
    /bee/
   /bbe/
+ /dbg/
+-----
+Solution 301:
+    -----
+   /afc/
+  /ffc/
+ /bgg/
+-----
+    -----
+   /aae/
+  /fcc/
+ /bbg/
+-----
+    -----
+   /dee/
+  /dde/
  /dbg/
 -----
 Solution 302:
@@ -6025,13 +5545,13 @@ Solution 347:
 -----
     -----
    /eab/
-  /ccb/
- /cfg/
+  /fcb/
+ /fcg/
 -----
     -----
    /eeb/
-  /eff/
- /cfg/
+  /ecc/
+ /ffg/
 -----
 Solution 348:
     -----
@@ -6041,31 +5561,15 @@ Solution 348:
 -----
     -----
    /eab/
-  /fcb/
- /fcg/
+  /ccb/
+ /cfg/
 -----
     -----
    /eeb/
-  /ecc/
- /ffg/
+  /eff/
+ /cfg/
 -----
 Solution 349:
-    -----
-   /dbf/
-  /dff/
- /dgg/
------
-    -----
-   /ebb/
-  /dfc/
- /aag/
------
-    -----
-   /eeb/
-  /ecc/
- /acg/
------
-Solution 350:
     -----
    /ddd/
   /cff/
@@ -6080,6 +5584,22 @@ Solution 350:
    /eeb/
   /ebb/
  /abg/
+-----
+Solution 350:
+    -----
+   /dbf/
+  /dff/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /dfc/
+ /aag/
+-----
+    -----
+   /eeb/
+  /ecc/
+ /acg/
 -----
 Solution 351:
     -----
@@ -6281,13 +5801,13 @@ Solution 363:
 -----
     -----
    /ebb/
-  /cca/
- /cfg/
+  /fca/
+ /fcg/
 -----
     -----
    /eeb/
-  /eff/
- /cfg/
+  /ecc/
+ /ffg/
 -----
 Solution 364:
     -----
@@ -6297,13 +5817,13 @@ Solution 364:
 -----
     -----
    /ebb/
-  /fca/
- /fcg/
+  /cca/
+ /cfg/
 -----
     -----
    /eeb/
-  /ecc/
- /ffg/
+  /eff/
+ /cfg/
 -----
 Solution 365:
     -----
@@ -6361,13 +5881,13 @@ Solution 368:
 -----
     -----
    /edb/
-  /ccb/
- /cfg/
+  /fcb/
+ /fcg/
 -----
     -----
    /eeb/
-  /eff/
- /cfg/
+  /ecc/
+ /ffg/
 -----
 Solution 369:
     -----
@@ -6377,13 +5897,13 @@ Solution 369:
 -----
     -----
    /edb/
-  /fcb/
- /fcg/
+  /ccb/
+ /cfg/
 -----
     -----
    /eeb/
-  /ecc/
- /ffg/
+  /eff/
+ /cfg/
 -----
 Solution 370:
     -----
@@ -6675,38 +6195,6 @@ Solution 387:
 -----
 Solution 388:
     -----
-   /dee/
-  /dbe/
- /dgg/
------
-    -----
-   /aae/
-  /dbc/
- /fbg/
------
-    -----
-   /acc/
-  /ffc/
- /fbg/
------
-Solution 389:
-    -----
-   /dee/
-  /dde/
- /dgg/
------
-    -----
-   /aae/
-  /cff/
- /ccg/
------
-    -----
-   /abf/
-  /bbf/
- /bcg/
------
-Solution 390:
-    -----
    /eec/
   /ecc/
  /bgg/
@@ -6721,7 +6209,7 @@ Solution 390:
   /daf/
  /dbg/
 -----
-Solution 391:
+Solution 389:
     -----
    /bee/
   /ffe/
@@ -6737,39 +6225,7 @@ Solution 391:
   /bcc/
  /acg/
 -----
-Solution 392:
-    -----
-   /eef/
-  /eff/
- /bgg/
------
-    -----
-   /eac/
-  /dfc/
- /bbg/
------
-    -----
-   /daa/
-  /dcc/
- /dbg/
------
-Solution 393:
-    -----
-   /eec/
-  /ecc/
- /dgg/
------
-    -----
-   /eac/
-  /dff/
- /dfg/
------
-    -----
-   /baa/
-  /bbf/
- /dbg/
------
-Solution 394:
+Solution 390:
     -----
    /fee/
   /ffe/
@@ -6785,7 +6241,7 @@ Solution 394:
   /dac/
  /dbg/
 -----
-Solution 395:
+Solution 391:
     -----
    /eec/
   /ecc/
@@ -6801,7 +6257,7 @@ Solution 395:
   /abb/
  /dbg/
 -----
-Solution 396:
+Solution 392:
     -----
    /eef/
   /eff/
@@ -6817,7 +6273,7 @@ Solution 396:
   /abb/
  /dbg/
 -----
-Solution 397:
+Solution 393:
     -----
    /dee/
   /dde/
@@ -6833,7 +6289,7 @@ Solution 397:
   /acf/
  /ccg/
 -----
-Solution 398:
+Solution 394:
     -----
    /dee/
   /dde/
@@ -6849,7 +6305,7 @@ Solution 398:
   /acc/
  /fcg/
 -----
-Solution 399:
+Solution 395:
     -----
    /fee/
   /ffe/
@@ -6865,7 +6321,7 @@ Solution 399:
   /abc/
  /dbg/
 -----
-Solution 400:
+Solution 396:
     -----
    /bee/
   /ffe/
@@ -6881,7 +6337,7 @@ Solution 400:
   /dda/
  /dcg/
 -----
-Solution 401:
+Solution 397:
     -----
    /bee/
   /cce/
@@ -6897,7 +6353,7 @@ Solution 401:
   /dda/
  /dfg/
 -----
-Solution 402:
+Solution 398:
     -----
    /fee/
   /ffe/
@@ -6913,7 +6369,7 @@ Solution 402:
   /dda/
  /dbg/
 -----
-Solution 403:
+Solution 399:
     -----
    /cee/
   /cce/
@@ -6929,7 +6385,7 @@ Solution 403:
   /dda/
  /dbg/
 -----
-Solution 404:
+Solution 400:
     -----
    /dee/
   /ffe/
@@ -6945,7 +6401,7 @@ Solution 404:
   /bba/
  /bcg/
 -----
-Solution 405:
+Solution 401:
     -----
    /dee/
   /cce/
@@ -6961,7 +6417,7 @@ Solution 405:
   /bba/
  /bfg/
 -----
-Solution 406:
+Solution 402:
     -----
    /fee/
   /ffe/
@@ -6977,7 +6433,7 @@ Solution 406:
   /bba/
  /dbg/
 -----
-Solution 407:
+Solution 403:
     -----
    /cee/
   /cce/
@@ -6993,7 +6449,7 @@ Solution 407:
   /bba/
  /dbg/
 -----
-Solution 408:
+Solution 404:
     -----
    /eef/
   /eff/
@@ -7009,7 +6465,7 @@ Solution 408:
   /cca/
  /dcg/
 -----
-Solution 409:
+Solution 405:
     -----
    /eec/
   /ecc/
@@ -7025,7 +6481,7 @@ Solution 409:
   /fba/
  /dbg/
 -----
-Solution 410:
+Solution 406:
     -----
    /bee/
   /cce/
@@ -7041,7 +6497,7 @@ Solution 410:
   /daf/
  /dag/
 -----
-Solution 411:
+Solution 407:
     -----
    /dee/
   /dde/
@@ -7057,7 +6513,7 @@ Solution 411:
   /cbb/
  /cbg/
 -----
-Solution 412:
+Solution 408:
     -----
    /eef/
   /eff/
@@ -7073,7 +6529,7 @@ Solution 412:
   /dcc/
  /dbg/
 -----
-Solution 413:
+Solution 409:
     -----
    /eec/
   /ecc/
@@ -7089,7 +6545,7 @@ Solution 413:
   /daf/
  /dbg/
 -----
-Solution 414:
+Solution 410:
     -----
    /eef/
   /eff/
@@ -7105,7 +6561,7 @@ Solution 414:
   /acc/
  /abg/
 -----
-Solution 415:
+Solution 411:
     -----
    /fee/
   /ffe/
@@ -7121,7 +6577,7 @@ Solution 415:
   /adc/
  /abg/
 -----
-Solution 416:
+Solution 412:
     -----
    /eec/
   /ecc/
@@ -7137,7 +6593,7 @@ Solution 416:
   /daa/
  /dbg/
 -----
-Solution 417:
+Solution 413:
     -----
    /eef/
   /eff/
@@ -7153,7 +6609,7 @@ Solution 417:
   /daa/
  /dbg/
 -----
-Solution 418:
+Solution 414:
     -----
    /dee/
   /fbe/
@@ -7169,7 +6625,7 @@ Solution 418:
   /bac/
  /aag/
 -----
-Solution 419:
+Solution 415:
     -----
    /bee/
   /cce/
@@ -7185,7 +6641,7 @@ Solution 419:
   /baf/
  /aag/
 -----
-Solution 420:
+Solution 416:
     -----
    /eec/
   /ecc/
@@ -7201,7 +6657,7 @@ Solution 420:
   /baf/
  /aag/
 -----
-Solution 421:
+Solution 417:
     -----
    /eef/
   /ebf/
@@ -7217,7 +6673,7 @@ Solution 421:
   /aac/
  /dbg/
 -----
-Solution 422:
+Solution 418:
     -----
    /deb/
   /fee/
@@ -7233,7 +6689,7 @@ Solution 422:
   /cab/
  /ccg/
 -----
-Solution 423:
+Solution 419:
     -----
    /dee/
   /fbe/
@@ -7249,7 +6705,7 @@ Solution 423:
   /cab/
  /ccg/
 -----
-Solution 424:
+Solution 420:
     -----
    /fee/
   /ffe/
@@ -7265,7 +6721,7 @@ Solution 424:
   /dac/
  /dbg/
 -----
-Solution 425:
+Solution 421:
     -----
    /def/
   /eef/
@@ -7281,7 +6737,7 @@ Solution 425:
   /aac/
  /abg/
 -----
-Solution 426:
+Solution 422:
     -----
    /dee/
   /ffe/
@@ -7297,23 +6753,7 @@ Solution 426:
   /aac/
  /abg/
 -----
-Solution 427:
-    -----
-   /bee/
-  /aae/
- /agg/
------
-    -----
-   /bbe/
-  /cff/
- /ccg/
------
-    -----
-   /dbf/
-  /ddf/
- /dcg/
------
-Solution 428:
+Solution 423:
     -----
    /aee/
   /fbe/
@@ -7329,7 +6769,7 @@ Solution 428:
   /cdb/
  /ccg/
 -----
-Solution 429:
+Solution 424:
     -----
    /cee/
   /cbe/
@@ -7345,7 +6785,7 @@ Solution 429:
   /fdb/
  /ffg/
 -----
-Solution 430:
+Solution 425:
     -----
    /eef/
   /ebf/
@@ -7361,7 +6801,23 @@ Solution 430:
   /cdb/
  /ccg/
 -----
-Solution 431:
+Solution 426:
+    -----
+   /eef/
+  /eff/
+ /bgg/
+-----
+    -----
+   /eac/
+  /dfc/
+ /bbg/
+-----
+    -----
+   /daa/
+  /dcc/
+ /dbg/
+-----
+Solution 427:
     -----
    /eea/
   /eaa/
@@ -7377,7 +6833,7 @@ Solution 431:
   /fcc/
  /fbg/
 -----
-Solution 432:
+Solution 428:
     -----
    /aee/
   /aae/
@@ -7393,7 +6849,7 @@ Solution 432:
   /dcf/
  /dbg/
 -----
-Solution 433:
+Solution 429:
     -----
    /fee/
   /ffe/
@@ -7409,7 +6865,7 @@ Solution 433:
   /ddc/
  /dbg/
 -----
-Solution 434:
+Solution 430:
     -----
    /aee/
   /aae/
@@ -7425,7 +6881,7 @@ Solution 434:
   /dfc/
  /dbg/
 -----
-Solution 435:
+Solution 431:
     -----
    /fee/
   /aae/
@@ -7441,7 +6897,7 @@ Solution 435:
   /ddc/
  /dbg/
 -----
-Solution 436:
+Solution 432:
     -----
    /aee/
   /ffe/
@@ -7457,7 +6913,7 @@ Solution 436:
   /ddc/
  /dbg/
 -----
-Solution 437:
+Solution 433:
     -----
    /aef/
   /eef/
@@ -7473,7 +6929,7 @@ Solution 437:
   /ddc/
  /dbg/
 -----
-Solution 438:
+Solution 434:
     -----
    /aaf/
   /eaf/
@@ -7489,7 +6945,7 @@ Solution 438:
   /ddc/
  /dbg/
 -----
-Solution 439:
+Solution 435:
     -----
    /eef/
   /eaf/
@@ -7505,23 +6961,7 @@ Solution 439:
   /ddc/
  /dbg/
 -----
-Solution 440:
-    -----
-   /eea/
-  /eaa/
- /dgg/
------
-    -----
-   /ebb/
-  /dff/
- /dcg/
------
-    -----
-   /bbf/
-  /ccf/
- /dcg/
------
-Solution 441:
+Solution 436:
     -----
    /bee/
   /aae/
@@ -7537,7 +6977,7 @@ Solution 441:
   /bcf/
  /ccg/
 -----
-Solution 442:
+Solution 437:
     -----
    /bee/
   /aae/
@@ -7553,7 +6993,7 @@ Solution 442:
   /bcc/
  /fcg/
 -----
-Solution 443:
+Solution 438:
     -----
    /aeb/
   /fee/
@@ -7569,7 +7009,7 @@ Solution 443:
   /cdb/
  /ccg/
 -----
-Solution 444:
+Solution 439:
     -----
    /ceb/
   /cee/
@@ -7585,7 +7025,7 @@ Solution 444:
   /fdb/
  /ffg/
 -----
-Solution 445:
+Solution 440:
     -----
    /eeb/
   /ecc/
@@ -7601,7 +7041,23 @@ Solution 445:
   /fdb/
  /ffg/
 -----
-Solution 446:
+Solution 441:
+    -----
+   /dee/
+  /dbe/
+ /dgg/
+-----
+    -----
+   /aae/
+  /dbc/
+ /fbg/
+-----
+    -----
+   /acc/
+  /ffc/
+ /fbg/
+-----
+Solution 442:
     -----
    /dee/
   /abe/
@@ -7617,7 +7073,7 @@ Solution 446:
   /ffc/
  /fbg/
 -----
-Solution 447:
+Solution 443:
     -----
    /eef/
   /ebf/
@@ -7633,7 +7089,7 @@ Solution 447:
   /ddc/
  /dbg/
 -----
-Solution 448:
+Solution 444:
     -----
    /eea/
   /eba/
@@ -7649,7 +7105,7 @@ Solution 448:
   /cff/
  /dbg/
 -----
-Solution 449:
+Solution 445:
     -----
    /eea/
   /eaa/
@@ -7665,7 +7121,7 @@ Solution 449:
   /bdf/
  /ccg/
 -----
-Solution 450:
+Solution 446:
     -----
    /ced/
   /cee/
@@ -7681,7 +7137,7 @@ Solution 450:
   /fbb/
  /bbg/
 -----
-Solution 451:
+Solution 447:
     -----
    /aed/
   /fee/
@@ -7697,7 +7153,7 @@ Solution 451:
   /cbb/
  /bbg/
 -----
-Solution 452:
+Solution 448:
     -----
    /eed/
   /eaa/
@@ -7713,7 +7169,7 @@ Solution 452:
   /fbb/
  /bbg/
 -----
-Solution 453:
+Solution 449:
     -----
    /eed/
   /ecc/
@@ -7729,7 +7185,7 @@ Solution 453:
   /fbb/
  /bbg/
 -----
-Solution 454:
+Solution 450:
     -----
    /eed/
   /eff/
@@ -7745,7 +7201,7 @@ Solution 454:
   /cbb/
  /bbg/
 -----
-Solution 455:
+Solution 451:
     -----
    /aed/
   /fee/
@@ -7761,7 +7217,7 @@ Solution 455:
   /cbb/
  /ccg/
 -----
-Solution 456:
+Solution 452:
     -----
    /ced/
   /cee/
@@ -7777,7 +7233,7 @@ Solution 456:
   /fbb/
  /ffg/
 -----
-Solution 457:
+Solution 453:
     -----
    /eed/
   /ecc/
@@ -7793,7 +7249,7 @@ Solution 457:
   /fbb/
  /ffg/
 -----
-Solution 458:
+Solution 454:
     -----
    /fee/
   /ffe/
@@ -7809,7 +7265,23 @@ Solution 458:
   /dbc/
  /dbg/
 -----
-Solution 459:
+Solution 455:
+    -----
+   /dee/
+  /dde/
+ /dgg/
+-----
+    -----
+   /aae/
+  /cff/
+ /ccg/
+-----
+    -----
+   /abf/
+  /bbf/
+ /bcg/
+-----
+Solution 456:
     -----
    /dee/
   /aae/
@@ -7825,7 +7297,7 @@ Solution 459:
   /bbf/
  /bcg/
 -----
-Solution 460:
+Solution 457:
     -----
    /caa/
   /cae/
@@ -7841,7 +7313,7 @@ Solution 460:
   /fbb/
  /dbg/
 -----
-Solution 461:
+Solution 458:
     -----
    /cea/
   /cee/
@@ -7857,7 +7329,7 @@ Solution 461:
   /fbb/
  /dbg/
 -----
-Solution 462:
+Solution 459:
     -----
    /cee/
   /cae/
@@ -7873,7 +7345,7 @@ Solution 462:
   /fbb/
  /dbg/
 -----
-Solution 463:
+Solution 460:
     -----
    /fee/
   /ffe/
@@ -7889,7 +7361,7 @@ Solution 463:
   /cbb/
  /dbg/
 -----
-Solution 464:
+Solution 461:
     -----
    /dee/
   /aae/
@@ -7905,7 +7377,7 @@ Solution 464:
   /cbb/
  /cbg/
 -----
-Solution 465:
+Solution 462:
     -----
    /eec/
   /eaa/
@@ -7921,7 +7393,7 @@ Solution 465:
   /fbb/
  /dbg/
 -----
-Solution 466:
+Solution 463:
     -----
    /eec/
   /ecc/
@@ -7937,7 +7409,7 @@ Solution 466:
   /dbb/
  /dbg/
 -----
-Solution 467:
+Solution 464:
     -----
    /eef/
   /eff/
@@ -7953,7 +7425,7 @@ Solution 467:
   /dbb/
  /dbg/
 -----
-Solution 468:
+Solution 465:
     -----
    /eea/
   /ecc/
@@ -7969,7 +7441,7 @@ Solution 468:
   /fbb/
  /dbg/
 -----
-Solution 469:
+Solution 466:
     -----
    /eea/
   /eff/
@@ -7985,7 +7457,7 @@ Solution 469:
   /cbb/
  /dbg/
 -----
-Solution 470:
+Solution 467:
     -----
    /eec/
   /ecc/
@@ -8001,7 +7473,7 @@ Solution 470:
   /fbb/
  /dbg/
 -----
-Solution 471:
+Solution 468:
     -----
    /aef/
   /eef/
@@ -8017,71 +7489,23 @@ Solution 471:
   /bbc/
  /dbg/
 -----
-Solution 472:
-    -----
-   /aaf/
-  /eaf/
- /dgg/
------
-    -----
-   /eff/
-  /eec/
- /ddg/
------
-    -----
-   /bcc/
-  /bbc/
- /dbg/
------
-Solution 473:
-    -----
-   /eef/
-  /eaf/
- /dgg/
------
-    -----
-   /eff/
-  /aac/
- /ddg/
------
-    -----
-   /bcc/
-  /bbc/
- /dbg/
------
-Solution 474:
-    -----
-   /eef/
-  /eaf/
- /dgg/
------
-    -----
-   /eff/
-  /dac/
- /dag/
------
-    -----
-   /bcc/
-  /bbc/
- /dbg/
------
-Solution 475:
+Solution 469:
     -----
    /eec/
   /ecc/
  /dgg/
 -----
     -----
-   /efc/
-  /daa/
- /dag/
+   /eac/
+  /dff/
+ /dfg/
 -----
     -----
-   /bff/
+   /baa/
   /bbf/
  /dbg/
 -----
-Solution 476:
+Solution 470:
     -----
    /eea/
   /eff/
@@ -8097,7 +7521,55 @@ Solution 476:
   /bbc/
  /dbg/
 -----
-Solution 477:
+Solution 471:
+    -----
+   /eef/
+  /eaf/
+ /dgg/
+-----
+    -----
+   /eff/
+  /aac/
+ /ddg/
+-----
+    -----
+   /bcc/
+  /bbc/
+ /dbg/
+-----
+Solution 472:
+    -----
+   /eef/
+  /eaf/
+ /dgg/
+-----
+    -----
+   /eff/
+  /dac/
+ /dag/
+-----
+    -----
+   /bcc/
+  /bbc/
+ /dbg/
+-----
+Solution 473:
+    -----
+   /eec/
+  /ecc/
+ /dgg/
+-----
+    -----
+   /efc/
+  /daa/
+ /dag/
+-----
+    -----
+   /bff/
+  /bbf/
+ /dbg/
+-----
+Solution 474:
     -----
    /fee/
   /aae/
@@ -8113,7 +7585,7 @@ Solution 477:
   /bbc/
  /dbg/
 -----
-Solution 478:
+Solution 475:
     -----
    /aee/
   /ffe/
@@ -8129,7 +7601,7 @@ Solution 478:
   /bbc/
  /dbg/
 -----
-Solution 479:
+Solution 476:
     -----
    /fee/
   /ffe/
@@ -8145,7 +7617,7 @@ Solution 479:
   /bbc/
  /dbg/
 -----
-Solution 480:
+Solution 477:
     -----
    /dee/
   /dde/
@@ -8160,4 +7632,52 @@ Solution 480:
    /bcc/
   /bbc/
  /fbg/
+-----
+Solution 478:
+    -----
+   /aaf/
+  /eaf/
+ /dgg/
+-----
+    -----
+   /eff/
+  /eec/
+ /ddg/
+-----
+    -----
+   /bcc/
+  /bbc/
+ /dbg/
+-----
+Solution 479:
+    -----
+   /bee/
+  /aae/
+ /agg/
+-----
+    -----
+   /bbe/
+  /cff/
+ /ccg/
+-----
+    -----
+   /dbf/
+  /ddf/
+ /dcg/
+-----
+Solution 480:
+    -----
+   /eea/
+  /eaa/
+ /dgg/
+-----
+    -----
+   /ebb/
+  /dff/
+ /dcg/
+-----
+    -----
+   /bbf/
+  /ccf/
+ /dcg/
 -----

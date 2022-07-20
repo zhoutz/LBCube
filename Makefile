@@ -5,9 +5,9 @@ build:
 
 .PHONY:run
 run: build
-	# ./main
-	./main > output.txt
+	# time ./main
+	time ./main > output.txt
 
 .PHONY:clean
 clean:
-	rm main
+	rm main output.txt

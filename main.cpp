@@ -6,7 +6,9 @@
 #include <initializer_list>
 #include <iostream>
 #include <numeric>
+#include <queue>
 #include <set>
+#include <stack>
 #include <vector>
 
 struct Cube {
@@ -143,6 +145,101 @@ struct Cube {
   int count_if(std::function<bool(elem_t)> f) const {
     return std::count_if(data.begin(), data.end(), f);
   }
+
+  bool connected_num_eq_one_bfs(std::function<bool(elem_t)> f) const {
+    elem_t cnt = 0;
+    Cube vis(nx, ny, nz, 0);
+    std::queue<std::tuple<int, int, int>> q;
+    for (int x = 0; x < nx; ++x) {
+      for (int y = 0; y < ny; ++y) {
+        for (int z = 0; z < nz; ++z) {
+          if (vis(x, y, z)) continue;
+          if (f((*this)(x, y, z))) {
+            cnt++;
+            if (cnt > 1) return false;
+            vis(x, y, z) = 1;
+            q.push({x, y, z});
+            do {
+              auto [x, y, z] = q.front();
+              q.pop();
+              if (x > 0 && f((*this)(x - 1, y, z)) && !vis(x - 1, y, z)) {
+                vis(x - 1, y, z) = 1;
+                q.push({x - 1, y, z});
+              }
+              if (x < nx - 1 && f((*this)(x + 1, y, z)) && !vis(x + 1, y, z)) {
+                vis(x + 1, y, z) = 1;
+                q.push({x + 1, y, z});
+              }
+              if (y > 0 && f((*this)(x, y - 1, z)) && !vis(x, y - 1, z)) {
+                vis(x, y - 1, z) = 1;
+                q.push({x, y - 1, z});
+              }
+              if (y < ny - 1 && f((*this)(x, y + 1, z)) && !vis(x, y + 1, z)) {
+                vis(x, y + 1, z) = 1;
+                q.push({x, y + 1, z});
+              }
+              if (z > 0 && f((*this)(x, y, z - 1)) && !vis(x, y, z - 1)) {
+                vis(x, y, z - 1) = 1;
+                q.push({x, y, z - 1});
+              }
+              if (z < nz - 1 && f((*this)(x, y, z + 1)) && !vis(x, y, z + 1)) {
+                vis(x, y, z + 1) = 1;
+                q.push({x, y, z + 1});
+              }
+            } while (!q.empty());
+          }
+        }
+      }
+    }
+    return cnt == 1;
+  }
+
+  bool connected_num_eq_one_dfs(std::function<bool(elem_t)> f) const {
+    elem_t cnt = 0;
+    Cube vis(nx, ny, nz, 0);
+    for (int x = 0; x < nx; ++x) {
+      for (int y = 0; y < ny; ++y) {
+        for (int z = 0; z < nz; ++z) {
+          if (vis(x, y, z)) continue;
+          if (f((*this)(x, y, z))) {
+            ++cnt;
+            if (cnt > 1) return false;
+            vis(x, y, z) = 1;
+            dfs_helper(x, y, z, vis, f);
+          }
+        }
+      }
+    }
+    return cnt == 1;
+  }
+
+  void dfs_helper(int x, int y, int z, Cube& vis,
+                  std::function<bool(elem_t)> f) const {
+    if (x > 0 && f((*this)(x - 1, y, z)) && !vis(x - 1, y, z)) {
+      vis(x - 1, y, z) = 1;
+      dfs_helper(x - 1, y, z, vis, f);
+    }
+    if (x < nx - 1 && f((*this)(x + 1, y, z)) && !vis(x + 1, y, z)) {
+      vis(x + 1, y, z) = 1;
+      dfs_helper(x + 1, y, z, vis, f);
+    }
+    if (y > 0 && f((*this)(x, y - 1, z)) && !vis(x, y - 1, z)) {
+      vis(x, y - 1, z) = 1;
+      dfs_helper(x, y - 1, z, vis, f);
+    }
+    if (y < ny - 1 && f((*this)(x, y + 1, z)) && !vis(x, y + 1, z)) {
+      vis(x, y + 1, z) = 1;
+      dfs_helper(x, y + 1, z, vis, f);
+    }
+    if (z > 0 && f((*this)(x, y, z - 1)) && !vis(x, y, z - 1)) {
+      vis(x, y, z - 1) = 1;
+      dfs_helper(x, y, z - 1, vis, f);
+    }
+    if (z < nz - 1 && f((*this)(x, y, z + 1)) && !vis(x, y, z + 1)) {
+      vis(x, y, z + 1) = 1;
+      dfs_helper(x, y, z + 1, vis, f);
+    }
+  }
 };
 
 // 0 for empty, 1 for filled
@@ -221,9 +318,30 @@ struct CubeMap : Cube {
 struct Solver {
   CubeMap cm;
   std::vector<Block> const& blocks;
+  std::vector<std::vector<Cube>> blocks_all_dir;
   std::vector<CubeMap> solutions;
   std::set<Cube::data_t> solutions_all_dir;
   std::set<Cube::data_t> vis;
+
+#define RECORD_HISTORY 1
+
+#if RECORD_HISTORY
+  struct Step {
+    int px, py, pz;
+    Cube const& c;
+
+    int x_min() const { return px; }
+    int x_max() const { return px + c.nx - 1; }
+    int y_min() const { return py; }
+    int y_max() const { return py + c.ny - 1; }
+
+    bool is_overlap(const Step& s) const {
+      return s.x_min() <= x_max() + 1 && s.x_max() + 1 >= x_min() &&
+             s.y_min() <= y_max() + 1 && s.y_max() + 1 >= y_min();
+    }
+  };
+  std::vector<Step> steps;
+#endif
 
   Solver(int cm_nx, int cm_ny, int cm_nz, std::vector<Block> const& blocks)
       : cm(cm_nx, cm_ny, cm_nz), blocks(blocks) {
@@ -238,11 +356,8 @@ struct Solver {
     } else {
       printf("appropriate blocks\n");
     }
-  }
 
-  void find_solution() {
-    std::vector<bool> used(blocks.size(), false);
-    std::vector<std::vector<Cube>> blocks_all_dir;
+    // generate all possible blocks
     blocks_all_dir.reserve(blocks.size());
     for (auto& b : blocks) {
       blocks_all_dir.push_back(b.generate_all_directions());
@@ -254,30 +369,30 @@ struct Solver {
     for (auto& v : blocks_all_dir) {
       printf("%d ", (int)v.size());
     }
-    puts("");
-
-    dfs(used, blocks_all_dir);
+    putchar('\n');
   }
 
-  void dfs(std::vector<bool>& used,
-           std::vector<std::vector<Cube>> const& blocks_all_dir) {
-    int used_count = std::count(used.begin(), used.end(), true);
+  void find_solution() {
+    std::vector<bool> used(blocks.size(), false);
+    dfs(used, 0);
+  }
+
+  void dfs(std::vector<bool>& used, int used_count) {
+    // find a solution
+    if (used_count == (int)blocks.size()) {
+      this->save_solution(cm);
+      return;
+    }
+
+    // if empty cell is not connected, pruning
+    if (!cm.connected_num_eq_one_dfs([](Cube::elem_t c) { return c == -1; })) {
+      return;
+    }
 
     if (vis.count(cm.data) == 1) {
       return;
     } else if (used_count <= 5) {
       vis.insert(cm.data);
-    }
-
-    if (used_count == (int)blocks.size()) {
-      // static int sol_cnt = 0;
-      // printf("%d ", ++sol_cnt);
-      // puts("Solution found!");
-      // cm.print(blocks);
-
-      this->save_solution(cm);
-
-      return;
     }
 
     for (int i = 0; i < (int)blocks_all_dir.size(); ++i) {
@@ -286,13 +401,25 @@ struct Solver {
       for (auto const& dir : dirs) {
         for (int px = 0; px <= cm.nx - dir.nx; ++px) {
           for (int py = 0; py <= cm.ny - dir.ny; ++py) {
+#if RECORD_HISTORY
+            if (steps.size() >= 1 &&
+                !steps.back().is_overlap({px, py, 0, dir})) {
+              continue;
+            }
+#endif
             int pz = cm.try_drop(px, py, dir, i);
             if (pz != -1) {
+#if RECORD_HISTORY
+              steps.push_back({px, py, pz, dir});
+#endif
               used[i] = true;
-              dfs(used, blocks_all_dir);
+              dfs(used, used_count + 1);
               if (solutions.size() == 480) return;
               used[i] = false;
               cm.remove_block(px, py, pz, dir, i);
+#if RECORD_HISTORY
+              steps.pop_back();
+#endif
             }
           }
         }
@@ -314,8 +441,9 @@ struct Solver {
   void save_solution(CubeMap const& _cm) {
     if (solutions_all_dir.count(_cm.data) == 0) {
       static int sol_cnt = 0;
-      printf("%d ", ++sol_cnt);
-      puts("Solution found!");
+      printf("\r%d Solution found!", ++sol_cnt);
+      fflush(stdout);
+      // putchar('\n');
 
       solutions.push_back(_cm);
       auto _cm_dirs = _cm.generate_all_directions();
