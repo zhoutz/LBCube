@@ -10,4 +10,4 @@ run: build
 
 .PHONY:clean
 clean:
-	rm main output.txt
+	-rm main output.txt
